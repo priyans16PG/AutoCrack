@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project specifics
+app/autocrack.log
+app/hashes/*
+!app/hashes/.gitkeep
+app/wordlists/*
+!app/wordlists/.gitkeep
+app/tools/hashcat/hashcat.potfile
+app/tools/hashcat/hashcat.restore
+app/tools/john/run/john.pot
+
+# Tools (You may want to uncomment these if you don't want to push the heavy binaries)
+# app/tools/hashcat/
+# app/tools/john/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
