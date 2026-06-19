@@ -1,4 +1,4 @@
-# AutoCrack GUI - Archive Password Recovery
+# AutoCrack GUI - Archive Password Recovery (vibe coded)
 
 A professional Python desktop application for automating archive password recovery using John the Ripper Jumbo and Hashcat.
 
