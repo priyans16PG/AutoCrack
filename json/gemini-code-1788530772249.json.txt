@@ -1,0 +1,1091 @@
+{
+  "id": "lustify-v10-krea2-streamlined",
+  "revision": 6,
+  "last_node_id": 46,
+  "last_link_id": 41,
+  "nodes": [
+    {
+      "id": 1,
+      "type": "UNETLoader",
+      "pos": [
+        -1343.2493989319778,
+        -127.3313907374044
+      ],
+      "size": [
+        320,
+        110
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "slot_index": 0,
+          "links": [
+            12
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "lustifyNSFWCheckpoint_v10Krea2.safetensors",
+        "default"
+      ],
+      "widgets_values_named": {
+        "unet_name": "lustifyNSFWCheckpoint_v10Krea2.safetensors",
+        "weight_dtype": "default"
+      },
+      "color": "#234",
+      "bgcolor": "#345"
+    },
+    {
+      "id": 3,
+      "type": "VAELoader",
+      "pos": [
+        -1343.2493989319778,
+        152.66860926259565
+      ],
+      "size": [
+        380,
+        70
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "slot_index": 0,
+          "links": [
+            8,
+            26
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAELoader"
+      },
+      "widgets_values": [
+        "qwen_image_vae.safetensors"
+      ],
+      "widgets_values_named": {
+        "vae_name": "qwen_image_vae.safetensors"
+      },
+      "color": "#234",
+      "bgcolor": "#345"
+    },
+    {
+      "id": 41,
+      "type": "Krea2EditGroundedEncode",
+      "pos": [
+        390.47315142145595,
+        147.2626270238929
+      ],
+      "size": [
+        450,
+        206
+      ],
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 32
+        },
+        {
+          "name": "image",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": 31
+        },
+        {
+          "name": "image_b",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": 40
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            24
+          ]
+        }
+      ],
+      "title": "negative (reference grounded)",
+      "properties": {
+        "Node name for S&R": "Krea2EditGroundedEncode"
+      },
+      "widgets_values": [
+        "",
+        768,
+        ""
+      ],
+      "widgets_values_named": {
+        "prompt": "",
+        "grounding_px": 768,
+        "system_prompt": ""
+      },
+      "color": "#8b5cf6",
+      "bgcolor": "#6d28d9"
+    },
+    {
+      "id": 42,
+      "type": "Krea2EditModelPatch",
+      "pos": [
+        1061.0339010679513,
+        -108.92785924816926
+      ],
+      "size": [
+        430,
+        350
+      ],
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 29
+        },
+        {
+          "name": "source_latent",
+          "type": "LATENT",
+          "link": 34
+        },
+        {
+          "name": "source_latent_b",
+          "shape": 7,
+          "type": "LATENT",
+          "link": null
+        },
+        {
+          "name": "ref_boost_mask",
+          "shape": 7,
+          "type": "MASK",
+          "link": null
+        },
+        {
+          "name": "vae",
+          "shape": 7,
+          "type": "VAE",
+          "link": 26
+        },
+        {
+          "name": "source_image",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": 30
+        },
+        {
+          "name": "source_image_b",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": 41
+        },
+        {
+          "name": "target_latent",
+          "shape": 7,
+          "type": "LATENT",
+          "link": 33
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            28
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Krea2EditModelPatch"
+      },
+      "widgets_values": [
+        1,
+        1,
+        "fit"
+      ],
+      "widgets_values_named": {
+        "ref_boost": 1,
+        "ref_boost_a": 1,
+        "fit_mode": "fit"
+      },
+      "color": "#d97706",
+      "bgcolor": "#b45309"
+    },
+    {
+      "id": 9,
+      "type": "VAEDecode",
+      "pos": [
+        1891.0339010679509,
+        -108.92785924816926
+      ],
+      "size": [
+        170,
+        70
+      ],
+      "flags": {},
+      "order": 13,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 9
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 8
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "slot_index": 0,
+          "links": [
+            10
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      },
+      "color": "#0284c7",
+      "bgcolor": "#0369a1"
+    },
+    {
+      "id": 10,
+      "type": "SaveImage",
+      "pos": [
+        2101.0339010679504,
+        -108.92785924816926
+      ],
+      "size": [
+        455,
+        812
+      ],
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 10
+        }
+      ],
+      "outputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "links": null
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "Lustify_Krea2/%date:yyyy-MM-dd%/%date:hhmmss%_%KSampler.seed%"
+      ],
+      "widgets_values_named": {
+        "filename_prefix": "Lustify_Krea2/%date:yyyy-MM-dd%/%date:hhmmss%_%KSampler.seed%"
+      },
+      "color": "#0284c7",
+      "bgcolor": "#0369a1"
+    },
+    {
+      "id": 2,
+      "type": "CLIPLoader",
+      "pos": [
+        -1343.2493989319778,
+        22.66860926259559
+      ],
+      "size": [
+        380,
+        110
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "slot_index": 0,
+          "links": [
+            14
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPLoader"
+      },
+      "widgets_values": [
+        "qwen3vl_4b_fp8_scaled.safetensors",
+        "krea2",
+        "default"
+      ],
+      "widgets_values_named": {
+        "clip_name": "qwen3vl_4b_fp8_scaled.safetensors",
+        "type": "krea2",
+        "device": "default"
+      },
+      "color": "#234",
+      "bgcolor": "#345"
+    },
+    {
+      "id": 8,
+      "type": "KSampler",
+      "pos": [
+        1531.0339010679509,
+        -108.92785924816926
+      ],
+      "size": [
+        320,
+        470
+      ],
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 28
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 23
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 24
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 27
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "slot_index": 0,
+          "links": [
+            9
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        187271222286854,
+        "randomize",
+        10,
+        1,
+        "euler",
+        "beta",
+        1
+      ],
+      "widgets_values_named": {
+        "seed": 187271222286854,
+        "control_after_generate": "randomize",
+        "steps": 10,
+        "cfg": 1,
+        "sampler_name": "euler",
+        "scheduler": "beta",
+        "denoise": 1
+      },
+      "color": "#0284c7",
+      "bgcolor": "#0369a1"
+    },
+    {
+      "id": 37,
+      "type": "LoadImage",
+      "pos": [
+        -39.52684857854405,
+        -112.73737297610711
+      ],
+      "size": [
+        380,
+        440
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            30,
+            31
+          ]
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "shraddha-kapoor-yellow-dress-buddy.jpg",
+        "image"
+      ],
+      "widgets_values_named": {
+        "image": "shraddha-kapoor-yellow-dress-buddy.jpg",
+        "upload": "image"
+      },
+      "color": "#3e9e73",
+      "bgcolor": "#2b6"
+    },
+    {
+      "id": 46,
+      "type": "LoadImage",
+      "pos": [
+        -39.52684857854405,
+        350.0
+      ],
+      "size": [
+        380,
+        440
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            39,
+            40,
+            41
+          ]
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "shraddha-kapoor-yellow-dress-buddy.jpg",
+        "image"
+      ],
+      "widgets_values_named": {
+        "image": "shraddha-kapoor-yellow-dress-buddy.jpg",
+        "upload": "image"
+      },
+      "color": "#3e9e73",
+      "bgcolor": "#2b6"
+    },
+    {
+      "id": 39,
+      "type": "LoraLoaderModelOnly",
+      "pos": [
+        -827.1217699768926,
+        31.016131240143515
+      ],
+      "size": [
+        320,
+        110
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 4,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 21
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            35
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoraLoaderModelOnly"
+      },
+      "widgets_values": [
+        "ultrainsta_krea2_V3_000004995.safetensors",
+        1
+      ],
+      "widgets_values_named": {
+        "lora_name": "ultrainsta_krea2_V3_000004995.safetensors",
+        "strength_model": 1
+      },
+      "color": "#234",
+      "bgcolor": "#345"
+    },
+    {
+      "id": 4,
+      "type": "ModelSamplingAuraFlow",
+      "pos": [
+        -832.7007911226123,
+        463.4474527810638
+      ],
+      "size": [
+        260,
+        90
+      ],
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 38
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "slot_index": 0,
+          "links": [
+            29
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ModelSamplingAuraFlow"
+      },
+      "widgets_values": [
+        4
+      ],
+      "widgets_values_named": {
+        "shift": 4
+      },
+      "color": "#345",
+      "bgcolor": "#345"
+    },
+    {
+      "id": 7,
+      "type": "EmptySD3LatentImage",
+      "pos": [
+        -36.34263714104708,
+        810.0
+      ],
+      "size": [
+        293,
+        112
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "slot_index": 0,
+          "links": [
+            27,
+            33,
+            34
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "EmptySD3LatentImage"
+      },
+      "widgets_values": [
+        544,
+        768,
+        1
+      ],
+      "widgets_values_named": {
+        "width": 544,
+        "height": 768,
+        "batch_size": 1
+      },
+      "color": "#3e9e73",
+      "bgcolor": "#2b6"
+    },
+    {
+      "id": 12,
+      "type": "LoraLoader",
+      "pos": [
+        -807.0310753262121,
+        -124.46205998075878
+      ],
+      "size": [
+        290,
+        126
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 12
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 14
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            21
+          ]
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            15,
+            32
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoraLoader"
+      },
+      "widgets_values": [
+        "krea2_identity_edit_v1_2.safetensors",
+        1,
+        1
+      ],
+      "widgets_values_named": {
+        "lora_name": "krea2_identity_edit_v1_2.safetensors",
+        "strength_model": 1,
+        "strength_clip": 1
+      },
+      "color": "#234",
+      "bgcolor": "#345"
+    },
+    {
+      "id": 45,
+      "type": "LoraLoaderModelOnly",
+      "pos": [
+        -834.460909981167,
+        313.3772275207306
+      ],
+      "size": [
+        320,
+        110
+      ],
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 37
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            38
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoraLoaderModelOnly"
+      },
+      "widgets_values": [
+        "KNP_000003000.safetensors",
+        1
+      ],
+      "widgets_values_named": {
+        "lora_name": "KNP_000003000.safetensors",
+        "strength_model": 1
+      },
+      "color": "#234",
+      "bgcolor": "#345"
+    },
+    {
+      "id": 44,
+      "type": "LoraLoaderModelOnly",
+      "pos": [
+        -831.4216272973248,
+        171.26620427479162
+      ],
+      "size": [
+        320,
+        110
+      ],
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 35
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            37
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoraLoaderModelOnly"
+      },
+      "widgets_values": [
+        "SchoolGirlKrea.safetensors",
+        1
+      ],
+      "widgets_values_named": {
+        "lora_name": "SchoolGirlKrea.safetensors",
+        "strength_model": 1
+      },
+      "color": "#234",
+      "bgcolor": "#345"
+    },
+    {
+      "id": 40,
+      "type": "Krea2EditGroundedEncode",
+      "pos": [
+        390.47315142145595,
+        -112.73737297610711
+      ],
+      "size": [
+        450,
+        230
+      ],
+      "flags": {},
+      "order": 15,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 15
+        },
+        {
+          "name": "image",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": 30
+        },
+        {
+          "name": "image_b",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": 39
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            23
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Krea2EditGroundedEncode"
+      },
+      "widgets_values": [
+        "Homemade video filmed with a handheld camera: In this frontal shot, we can see a young woman sitting on the lap of a man who is holding her from behind. The man is fondling, squeezing, and massaging the woman's breasts intensely, noticeably, and sensually. His hands squeeze and massage the woman's breasts in a circular motion while she has a slight shy smile and looks at the camera dramatically.",
+        768,
+        "use the face and make"
+      ],
+      "widgets_values_named": {
+        "prompt": "Homemade video filmed with a handheld camera: In this frontal shot, we can see a young woman sitting on the lap of a man who is holding her from behind. The man is fondling, squeezing, and massaging the woman's breasts intensely, noticeably, and sensually. His hands squeeze and massage the woman's breasts in a circular motion while she has a slight shy smile and looks at the camera dramatically.",
+        "grounding_px": 768,
+        "system_prompt": "use the face and make"
+      },
+      "color": "#8b5cf6",
+      "bgcolor": "#6d28d9"
+    }
+  ],
+  "links": [
+    [
+      8,
+      3,
+      0,
+      9,
+      1,
+      "VAE"
+    ],
+    [
+      9,
+      8,
+      0,
+      9,
+      0,
+      "LATENT"
+    ],
+    [
+      10,
+      9,
+      0,
+      10,
+      0,
+      "IMAGE"
+    ],
+    [
+      12,
+      1,
+      0,
+      12,
+      0,
+      "MODEL"
+    ],
+    [
+      14,
+      2,
+      0,
+      12,
+      1,
+      "CLIP"
+    ],
+    [
+      15,
+      12,
+      1,
+      40,
+      0,
+      "CLIP"
+    ],
+    [
+      21,
+      12,
+      0,
+      39,
+      0,
+      "MODEL"
+    ],
+    [
+      23,
+      40,
+      0,
+      8,
+      1,
+      "CONDITIONING"
+    ],
+    [
+      24,
+      41,
+      0,
+      8,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      26,
+      3,
+      0,
+      42,
+      4,
+      "VAE"
+    ],
+    [
+      27,
+      7,
+      0,
+      8,
+      3,
+      "LATENT"
+    ],
+    [
+      28,
+      42,
+      0,
+      8,
+      0,
+      "MODEL"
+    ],
+    [
+      29,
+      4,
+      0,
+      42,
+      0,
+      "MODEL"
+    ],
+    [
+      30,
+      37,
+      0,
+      42,
+      1,
+      "IMAGE"
+    ],
+    [
+      31,
+      37,
+      0,
+      41,
+      1,
+      "IMAGE"
+    ],
+    [
+      32,
+      12,
+      1,
+      41,
+      0,
+      "CLIP"
+    ],
+    [
+      33,
+      7,
+      0,
+      42,
+      7,
+      "LATENT"
+    ],
+    [
+      34,
+      7,
+      0,
+      42,
+      1,
+      "LATENT"
+    ],
+    [
+      35,
+      39,
+      0,
+      44,
+      0,
+      "MODEL"
+    ],
+    [
+      37,
+      44,
+      0,
+      45,
+      0,
+      "MODEL"
+    ],
+    [
+      38,
+      45,
+      0,
+      4,
+      0,
+      "MODEL"
+    ],
+    [
+      39,
+      46,
+      0,
+      40,
+      2,
+      "IMAGE"
+    ],
+    [
+      40,
+      46,
+      0,
+      41,
+      2,
+      "IMAGE"
+    ],
+    [
+      41,
+      46,
+      0,
+      42,
+      6,
+      "IMAGE"
+    ]
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "title": "📦 1. Models & LoRAs (Easy to Stack)",
+      "bounding": [
+        -1383.2493989319778,
+        -207.33139073740435,
+        967.0010900857211,
+        893.4135127853681
+      ],
+      "color": "#3f789e",
+      "flags": {}
+    },
+    {
+      "id": 2,
+      "title": "🖼️ 2. Reference Image & Face Prompt Encoders",
+      "bounding": [
+        -69.52684857854406,
+        -192.7373729761071,
+        920,
+        1000
+      ],
+      "color": "#3e9e73",
+      "flags": {}
+    },
+    {
+      "id": 3,
+      "title": "⚡ 3. Model Patch, Sampling & Output",
+      "bounding": [
+        1031.033901067951,
+        -188.92785924816928,
+        1550,
+        920
+      ],
+      "color": "#d97706",
+      "flags": {}
+    }
+  ],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.6657356674098507,
+      "offset": [
+        853.5903021725678,
+        548.0460615894826
+      ]
+    },
+    "frontendVersion": "1.49.6"
+  },
+  "version": 0.4
+}
+```[cite: 2]

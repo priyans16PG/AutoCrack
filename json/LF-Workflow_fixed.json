@@ -1,0 +1,724 @@
+{
+  "id": "lustify-v10-krea2-correct",
+  "revision": 0,
+  "last_node_id": 38,
+  "last_link_id": 34,
+  "nodes": [
+    {
+      "id": 18,
+      "type": "CLIPTextEncode",
+      "pos": [
+        -1491.3479047163764,
+        47.19478739294859
+      ],
+      "size": [
+        261.15564088328495,
+        153.29480359141712
+      ],
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 24
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "widget": {
+            "name": "text"
+          },
+          "link": 31
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "slot_index": 0,
+          "links": [
+            34
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPTextEncode"
+      },
+      "widgets_values": [
+        ""
+      ],
+      "widgets_values_named": {
+        "text": ""
+      }
+    },
+    {
+      "id": 19,
+      "type": "ModelSamplingAuraFlow",
+      "pos": [
+        -1485.8300997283286,
+        -79.6248571106501
+      ],
+      "size": [
+        260,
+        90
+      ],
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 25
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "slot_index": 0,
+          "links": [
+            26
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ModelSamplingAuraFlow"
+      },
+      "widgets_values": [
+        4
+      ],
+      "widgets_values_named": {
+        "shift": 4
+      }
+    },
+    {
+      "id": 20,
+      "type": "KSampler",
+      "pos": [
+        -1180.050097216455,
+        -56.966044780136095
+      ],
+      "size": [
+        302.4276862486422,
+        266.8199284823078
+      ],
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 26
+        },
+        {
+          "name": "positive",
+          "type": "CONDITIONING",
+          "link": 34
+        },
+        {
+          "name": "negative",
+          "type": "CONDITIONING",
+          "link": 27
+        },
+        {
+          "name": "latent_image",
+          "type": "LATENT",
+          "link": 28
+        }
+      ],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "slot_index": 0,
+          "links": [
+            29
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "KSampler"
+      },
+      "widgets_values": [
+        426833887027679,
+        "randomize",
+        8,
+        1,
+        "euler",
+        "beta",
+        1
+      ],
+      "widgets_values_named": {
+        "seed": 426833887027679,
+        "control_after_generate": "randomize",
+        "steps": 8,
+        "cfg": 1,
+        "sampler_name": "euler",
+        "scheduler": "beta",
+        "denoise": 1
+      }
+    },
+    {
+      "id": 21,
+      "type": "EmptyLatentImage",
+      "pos": [
+        -1482.7891200869753,
+        242.1342870359087
+      ],
+      "size": [
+        254.10376058885663,
+        106
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "LATENT",
+          "type": "LATENT",
+          "slot_index": 0,
+          "links": [
+            28
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "EmptyLatentImage"
+      },
+      "widgets_values": [
+        512,
+        912,
+        1
+      ],
+      "widgets_values_named": {
+        "width": 512,
+        "height": 912,
+        "batch_size": 1
+      }
+    },
+    {
+      "id": 16,
+      "type": "LoraLoader",
+      "pos": [
+        -1874.3257771774447,
+        -67.84147493141135
+      ],
+      "size": [
+        366.2187780185951,
+        129.294803591417
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 22
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 23
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            25
+          ]
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            24
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoraLoader"
+      },
+      "widgets_values": [
+        "masha-2d-anime-qwen-image-lora.safetensors",
+        1,
+        1
+      ],
+      "widgets_values_named": {
+        "lora_name": "masha-2d-anime-qwen-image-lora.safetensors",
+        "strength_model": 1,
+        "strength_clip": 1
+      }
+    },
+    {
+      "id": 17,
+      "type": "VAELoader",
+      "pos": [
+        -1884.0195214145215,
+        106.13470716012966
+      ],
+      "size": [
+        380,
+        70
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "VAE",
+          "type": "VAE",
+          "slot_index": 0,
+          "links": [
+            30
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAELoader"
+      },
+      "widgets_values": [
+        "qwen_image_vae.safetensors"
+      ],
+      "widgets_values_named": {
+        "vae_name": "qwen_image_vae.safetensors"
+      }
+    },
+    {
+      "id": 26,
+      "type": "UNETLoader",
+      "pos": [
+        -1876.5350692531408,
+        392.7916901917029
+      ],
+      "size": [
+        375.75726225560777,
+        82
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "slot_index": 0,
+          "links": [
+            22
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UNETLoader"
+      },
+      "widgets_values": [
+        "lustifyNSFWCheckpoint_v10Krea2.safetensors",
+        "default"
+      ],
+      "widgets_values_named": {
+        "unet_name": "lustifyNSFWCheckpoint_v10Krea2.safetensors",
+        "weight_dtype": "default"
+      }
+    },
+    {
+      "id": 22,
+      "type": "VAEDecode",
+      "pos": [
+        -1205.4277012661182,
+        253.28619460666752
+      ],
+      "size": [
+        344.62500930210945,
+        199.59592912944174
+      ],
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 29
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 30
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "slot_index": 0,
+          "links": [
+            32
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      }
+    },
+    {
+      "id": 10,
+      "type": "SaveImage",
+      "pos": [
+        -401.1787709303328,
+        -65.35025511569292
+      ],
+      "size": [
+        332.62610624374065,
+        626.6082775067548
+      ],
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 32
+        }
+      ],
+      "outputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "links": []
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "Lustify_Krea2/%date:yyyy-MM-dd%/%date:hhmmss%_%KSampler.seed%"
+      ],
+      "widgets_values_named": {
+        "filename_prefix": "Lustify_Krea2/%date:yyyy-MM-dd%/%date:hhmmss%_%KSampler.seed%"
+      }
+    },
+    {
+      "id": 24,
+      "type": "CLIPLoader",
+      "pos": [
+        -1885.7045330236108,
+        222.6444291494443
+      ],
+      "size": [
+        375.7573105238405,
+        129.80644246721943
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "slot_index": 0,
+          "links": [
+            23
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CLIPLoader"
+      },
+      "widgets_values": [
+        "qwen3vl_4b_fp8_scaled.safetensors",
+        "krea2",
+        "default"
+      ],
+      "widgets_values_named": {
+        "clip_name": "qwen3vl_4b_fp8_scaled.safetensors",
+        "type": "krea2",
+        "device": "default"
+      }
+    },
+    {
+      "id": 13,
+      "type": "Text Load Line From File",
+      "pos": [
+        -815.8500435398234,
+        -47.00840196094657
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "multiline_text",
+          "shape": 7,
+          "type": "STRING",
+          "link": null
+        },
+        {
+          "name": "index",
+          "type": "INT",
+          "widget": {
+            "name": "index"
+          },
+          "link": 33
+        }
+      ],
+      "outputs": [
+        {
+          "name": "line_text",
+          "type": "STRING",
+          "slot_index": 0,
+          "links": [
+            31
+          ]
+        },
+        {
+          "name": "dictionary",
+          "type": "DICT",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Text Load Line From File"
+      },
+      "widgets_values": [
+        "C:\\Users\\priyanshu\\Downloads\\narmada_geography_image_prompts.txt",
+        "narmada_geography_image_prompts",
+        "TextBatch",
+        "index",
+        0
+      ],
+      "widgets_values_named": {
+        "file_path": "C:\\Users\\priyanshu\\Downloads\\narmada_geography_image_prompts.txt",
+        "dictionary_name": "narmada_geography_image_prompts",
+        "label": "TextBatch",
+        "mode": "index",
+        "index": 0
+      }
+    },
+    {
+      "id": 23,
+      "type": "Number Counter",
+      "pos": [
+        -824.8227857025832,
+        201.00592910529733
+      ],
+      "size": [
+        408.9385020495545,
+        224.0794571232941
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "reset_bool",
+          "shape": 7,
+          "type": "NUMBER",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "number",
+          "type": "NUMBER",
+          "links": []
+        },
+        {
+          "name": "float",
+          "type": "FLOAT",
+          "links": []
+        },
+        {
+          "name": "int",
+          "type": "INT",
+          "links": [
+            33
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Number Counter"
+      },
+      "widgets_values": [
+        "integer",
+        "increment_to_stop",
+        0,
+        20,
+        1
+      ],
+      "widgets_values_named": {
+        "number_type": "integer",
+        "mode": "increment_to_stop",
+        "start": 0,
+        "stop": 20,
+        "step": 1
+      }
+    },
+    {
+      "id": 25,
+      "type": "ConditioningZeroOut",
+      "pos": [
+        -1486.5486336341987,
+        408.19830479523625
+      ],
+      "size": [
+        250,
+        70
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "conditioning",
+          "type": "CONDITIONING",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "slot_index": 0,
+          "links": [
+            27
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ConditioningZeroOut"
+      }
+    }
+  ],
+  "links": [
+    [
+      22,
+      26,
+      0,
+      16,
+      0,
+      "MODEL"
+    ],
+    [
+      23,
+      24,
+      0,
+      16,
+      1,
+      "CLIP"
+    ],
+    [
+      24,
+      16,
+      1,
+      18,
+      0,
+      "CLIP"
+    ],
+    [
+      25,
+      16,
+      0,
+      19,
+      0,
+      "MODEL"
+    ],
+    [
+      26,
+      19,
+      0,
+      20,
+      0,
+      "MODEL"
+    ],
+    [
+      27,
+      25,
+      0,
+      20,
+      2,
+      "CONDITIONING"
+    ],
+    [
+      28,
+      21,
+      0,
+      20,
+      3,
+      "LATENT"
+    ],
+    [
+      29,
+      20,
+      0,
+      22,
+      0,
+      "LATENT"
+    ],
+    [
+      30,
+      17,
+      0,
+      22,
+      1,
+      "VAE"
+    ],
+    [
+      31,
+      13,
+      0,
+      18,
+      1,
+      "STRING"
+    ],
+    [
+      32,
+      22,
+      0,
+      10,
+      0,
+      "IMAGE"
+    ],
+    [
+      33,
+      23,
+      2,
+      13,
+      1,
+      "INT"
+    ],
+    [
+      34,
+      18,
+      0,
+      20,
+      1,
+      "CONDITIONING"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 1.1489340478577321,
+      "offset": [
+        1963.0235008075285,
+        429.680439427865
+      ]
+    },
+    "frontendVersion": "1.49.6"
+  },
+  "version": 0.4
+}
