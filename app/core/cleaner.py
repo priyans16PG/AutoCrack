@@ -16,6 +16,7 @@ class HashCleaner:
         'rar3': r'^\$rar3\$.*',
         'pkzip': r'^\$pkzip2\$.*',
         'zip': r'^\$zip\$.*',
+        'pdf': r'^\$pdf\$.*',
     }
     
     def __init__(self):
@@ -87,6 +88,8 @@ class HashCleaner:
             return 'pkzip2'
         elif hash_string.startswith('$zip$'):
             return 'zip'
+        elif hash_string.startswith('$pdf$'):
+            return 'pdf'
         else:
             # Try to extract from hash structure
             match = re.match(r'\$([a-z0-9]+)\$', hash_string)

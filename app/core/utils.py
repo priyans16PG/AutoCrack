@@ -26,6 +26,7 @@ def get_tool_path(tool_name):
     tool_paths = {
         'zip2john': app_path / 'tools' / 'john' / 'run' / 'zip2john.exe',
         'rar2john': app_path / 'tools' / 'john' / 'run' / 'rar2john.exe',
+        'pdf2john': app_path / 'tools' / 'john' / 'run' / 'pdf2john.py',
         'john': app_path / 'tools' / 'john' / 'run' / 'john.exe',
         'hashcat': app_path / 'tools' / 'hashcat' / 'hashcat.exe'
     }
@@ -87,7 +88,7 @@ def validate_archive_path(archive_path):
     if not archive_path.exists():
         raise FileNotFoundError(f"Archive file not found: {archive_path}")
     
-    valid_extensions = {'.zip', '.rar', '.7z'}
+    valid_extensions = {'.zip', '.rar', '.7z', '.pdf'}
     if archive_path.suffix.lower() not in valid_extensions:
         raise ValueError(f"Unsupported archive format: {archive_path.suffix}")
     

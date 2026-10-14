@@ -7689,3 +7689,2826 @@ TOP.6a3544a0.000e96d6	SUB.6a3544e6.000d171f	status-after-work	5
 TOP.6a3544a0.000e96d6	SUB.6a3544e6.000d171f	STOP
 TOP.6a3544a0.000e96d6	SUB.6a35458c.00060633	START
 TOP.6a3544a0.000e96d6	SUB.6a35458c.00060633	mask_ctx->mask	?1?2?2?2?2
+TOP.6a38f036.0009d2f7	START
+TOP.6a38f036.0009d2f7	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a38f036.0009d2f7	folder_config->install_dir	.
+TOP.6a38f036.0009d2f7	folder_config->profile_dir	.
+TOP.6a38f036.0009d2f7	folder_config->session_dir	.
+TOP.6a38f036.0009d2f7	folder_config->shared_dir	.
+TOP.6a38f036.0009d2f7	user_options->encoding_from	utf-8
+TOP.6a38f036.0009d2f7	user_options->encoding_to	utf-8
+TOP.6a38f036.0009d2f7	user_options->rule_buf_l	:
+TOP.6a38f036.0009d2f7	user_options->rule_buf_r	:
+TOP.6a38f036.0009d2f7	user_options->session	hashcat
+TOP.6a38f036.0009d2f7	user_options->separator	:
+TOP.6a38f036.0009d2f7	user_options->limit	0
+TOP.6a38f036.0009d2f7	user_options->skip	0
+TOP.6a38f036.0009d2f7	user_options->attack_mode	3
+TOP.6a38f036.0009d2f7	user_options->backend_devices_virtmulti	1
+TOP.6a38f036.0009d2f7	user_options->backend_devices_virthost	1
+TOP.6a38f036.0009d2f7	user_options->backend_devices_keepfree	0
+TOP.6a38f036.0009d2f7	user_options->benchmark	0
+TOP.6a38f036.0009d2f7	user_options->benchmark_all	0
+TOP.6a38f036.0009d2f7	user_options->benchmark_max	99999
+TOP.6a38f036.0009d2f7	user_options->benchmark_min	0
+TOP.6a38f036.0009d2f7	user_options->bitmap_max	18
+TOP.6a38f036.0009d2f7	user_options->bitmap_min	16
+TOP.6a38f036.0009d2f7	user_options->debug_mode	0
+TOP.6a38f036.0009d2f7	user_options->dynamic_x	0
+TOP.6a38f036.0009d2f7	user_options->hash_info	0
+TOP.6a38f036.0009d2f7	user_options->force	1
+TOP.6a38f036.0009d2f7	user_options->hwmon	1
+TOP.6a38f036.0009d2f7	user_options->hwmon_temp_abort	90
+TOP.6a38f036.0009d2f7	user_options->hash_mode	13000
+TOP.6a38f036.0009d2f7	user_options->hex_charset	0
+TOP.6a38f036.0009d2f7	user_options->hex_salt	0
+TOP.6a38f036.0009d2f7	user_options->hex_wordlist	0
+TOP.6a38f036.0009d2f7	user_options->hook_threads	6
+TOP.6a38f036.0009d2f7	user_options->identify	0
+TOP.6a38f036.0009d2f7	user_options->increment	1
+TOP.6a38f036.0009d2f7	user_options->increment_max	256
+TOP.6a38f036.0009d2f7	user_options->increment_min	1
+TOP.6a38f036.0009d2f7	user_options->keep_guessing	0
+TOP.6a38f036.0009d2f7	user_options->kernel_accel	0
+TOP.6a38f036.0009d2f7	user_options->kernel_loops	0
+TOP.6a38f036.0009d2f7	user_options->kernel_threads	0
+TOP.6a38f036.0009d2f7	user_options->keyspace	0
+TOP.6a38f036.0009d2f7	user_options->total_candidates	0
+TOP.6a38f036.0009d2f7	user_options->left	0
+TOP.6a38f036.0009d2f7	user_options->logfile	1
+TOP.6a38f036.0009d2f7	user_options->loopback	0
+TOP.6a38f036.0009d2f7	user_options->machine_readable	0
+TOP.6a38f036.0009d2f7	user_options->markov_classic	0
+TOP.6a38f036.0009d2f7	user_options->markov	1
+TOP.6a38f036.0009d2f7	user_options->markov_inverse	0
+TOP.6a38f036.0009d2f7	user_options->markov_threshold	256
+TOP.6a38f036.0009d2f7	user_options->metal_compiler_runtime	120
+TOP.6a38f036.0009d2f7	user_options->multiply_accel	1
+TOP.6a38f036.0009d2f7	user_options->backend_info	0
+TOP.6a38f036.0009d2f7	user_options->backend_vector_width	0
+TOP.6a38f036.0009d2f7	user_options->optimized_kernel	1
+TOP.6a38f036.0009d2f7	user_options->outfile_autohex	1
+TOP.6a38f036.0009d2f7	user_options->outfile_check_timer	5
+TOP.6a38f036.0009d2f7	user_options->outfile_format	6
+TOP.6a38f036.0009d2f7	user_options->outfile_json	0
+TOP.6a38f036.0009d2f7	user_options->wordlist_autohex	1
+TOP.6a38f036.0009d2f7	user_options->potfile	1
+TOP.6a38f036.0009d2f7	user_options->progress_only	0
+TOP.6a38f036.0009d2f7	user_options->quiet	0
+TOP.6a38f036.0009d2f7	user_options->remove	0
+TOP.6a38f036.0009d2f7	user_options->remove_timer	60
+TOP.6a38f036.0009d2f7	user_options->restore	0
+TOP.6a38f036.0009d2f7	user_options->restore_enable	1
+TOP.6a38f036.0009d2f7	user_options->restore_timer	1
+TOP.6a38f036.0009d2f7	user_options->rp_files_cnt	0
+TOP.6a38f036.0009d2f7	user_options->rp_gen	0
+TOP.6a38f036.0009d2f7	user_options->rp_gen_func_max	4
+TOP.6a38f036.0009d2f7	user_options->rp_gen_func_min	1
+TOP.6a38f036.0009d2f7	user_options->rp_gen_seed	0
+TOP.6a38f036.0009d2f7	user_options->runtime	0
+TOP.6a38f036.0009d2f7	user_options->scrypt_tmto	0
+TOP.6a38f036.0009d2f7	user_options->segment_size	33554432
+TOP.6a38f036.0009d2f7	user_options->self_test	1
+TOP.6a38f036.0009d2f7	user_options->slow_candidates	0
+TOP.6a38f036.0009d2f7	user_options->show	0
+TOP.6a38f036.0009d2f7	user_options->speed_only	0
+TOP.6a38f036.0009d2f7	user_options->spin_damp	0
+TOP.6a38f036.0009d2f7	user_options->status	0
+TOP.6a38f036.0009d2f7	user_options->status_json	0
+TOP.6a38f036.0009d2f7	user_options->status_timer	10
+TOP.6a38f036.0009d2f7	user_options->stdout_flag	0
+TOP.6a38f036.0009d2f7	user_options->usage	0
+TOP.6a38f036.0009d2f7	user_options->username	0
+TOP.6a38f036.0009d2f7	user_options->veracrypt_pim_start	485
+TOP.6a38f036.0009d2f7	user_options->veracrypt_pim_stop	485
+TOP.6a38f036.0009d2f7	user_options->version	0
+TOP.6a38f036.0009d2f7	user_options->workload_profile	2
+TOP.6a38f036.0009d2f7	user_options->brain_client	0
+TOP.6a38f036.0009d2f7	user_options->brain_client_features	2
+TOP.6a38f036.0009d2f7	user_options->brain_server	0
+TOP.6a38f036.0009d2f7	user_options->brain_server_timer	300
+TOP.6a38f036.0009d2f7	user_options->brain_port	6863
+TOP.6a38f036.0009d2f7	user_options->brain_session	0
+TOP.6a38f036.0009d2f7	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\chor file_clean.txt
+TOP.6a38f036.0009d2f7	hashes->hashlist_mode	5
+TOP.6a38f036.0009d2f7	hashes->hashlist_format	0
+TOP.6a38f036.0009d2f7	hashes->hashes_cnt	0
+TOP.6a38f036.0009d2f7	hashes->digests_cnt	1
+TOP.6a38f036.0009d2f7	hashes->digests_done_pot	0
+TOP.6a38f036.0009d2f7	hashes->digests_done_zero	0
+TOP.6a38f036.0009d2f7	hashes->digests_done	0
+TOP.6a38f036.0009d2f7	hashes->salts_cnt	1
+TOP.6a38f036.0009d2f7	hashes->salts_done	0
+TOP.6a38f036.0009d2f7	SUB.6a38f041.00045223	START
+TOP.6a38f036.0009d2f7	SUB.6a38f041.00045223	mask_ctx->mask	?d
+TOP.6a38f036.0009d2f7	SUB.6a38f041.00045223	runtime_start	1782116418
+TOP.6a38f036.0009d2f7	SUB.6a38f041.00045223	runtime_stop	1782116421
+TOP.6a38f036.0009d2f7	SUB.6a38f041.00045223	hashes->digests_done_new	0
+TOP.6a38f036.0009d2f7	SUB.6a38f041.00045223	status-after-work	5
+TOP.6a38f036.0009d2f7	SUB.6a38f041.00045223	STOP
+TOP.6a38f036.0009d2f7	SUB.6a38f045.000dbdde	START
+TOP.6a38f036.0009d2f7	SUB.6a38f045.000dbdde	mask_ctx->mask	?d?d
+TOP.6a38f036.0009d2f7	SUB.6a38f045.000dbdde	runtime_start	1782116423
+TOP.6a38f036.0009d2f7	SUB.6a38f045.000dbdde	runtime_stop	1782116424
+TOP.6a38f036.0009d2f7	SUB.6a38f045.000dbdde	hashes->digests_done_new	0
+TOP.6a38f036.0009d2f7	SUB.6a38f045.000dbdde	status-after-work	5
+TOP.6a38f036.0009d2f7	SUB.6a38f045.000dbdde	STOP
+TOP.6a38f036.0009d2f7	SUB.6a38f048.0002b973	START
+TOP.6a38f036.0009d2f7	SUB.6a38f048.0002b973	mask_ctx->mask	?d?d?d
+TOP.6a38f036.0009d2f7	SUB.6a38f048.0002b973	runtime_start	1782116425
+TOP.6a38f036.0009d2f7	SUB.6a38f048.0002b973	runtime_stop	1782116426
+TOP.6a38f036.0009d2f7	SUB.6a38f048.0002b973	hashes->digests_done_new	0
+TOP.6a38f036.0009d2f7	SUB.6a38f048.0002b973	status-after-work	5
+TOP.6a38f036.0009d2f7	SUB.6a38f048.0002b973	STOP
+TOP.6a38f036.0009d2f7	SUB.6a38f04a.0005360d	START
+TOP.6a38f036.0009d2f7	SUB.6a38f04a.0005360d	mask_ctx->mask	?d?d?d?d
+TOP.6a38f036.0009d2f7	SUB.6a38f04a.0005360d	runtime_start	1782116427
+TOP.6a38f036.0009d2f7	SUB.6a38f04a.0005360d	runtime_stop	1782116433
+TOP.6a38f036.0009d2f7	SUB.6a38f04a.0005360d	hashes->digests_done_new	0
+TOP.6a38f036.0009d2f7	SUB.6a38f04a.0005360d	status-after-work	5
+TOP.6a38f036.0009d2f7	SUB.6a38f04a.0005360d	STOP
+TOP.6a38f036.0009d2f7	SUB.6a38f051.00033ca5	START
+TOP.6a38f036.0009d2f7	SUB.6a38f051.00033ca5	mask_ctx->mask	?d?d?d?d?d
+TOP.6a38f036.0009d2f7	SUB.6a38f051.00033ca5	runtime_start	1782116434
+TOP.6a38f036.0009d2f7	SUB.6a38f051.00033ca5	runtime_stop	1782116440
+TOP.6a38f036.0009d2f7	SUB.6a38f051.00033ca5	hashes->digests_done_new	0
+TOP.6a38f036.0009d2f7	SUB.6a38f051.00033ca5	status-after-work	5
+TOP.6a38f036.0009d2f7	SUB.6a38f051.00033ca5	STOP
+TOP.6a38f036.0009d2f7	SUB.6a38f058.0002e1c6	START
+TOP.6a38f036.0009d2f7	SUB.6a38f058.0002e1c6	mask_ctx->mask	?d?d?d?d?d?d
+TOP.6a38f036.0009d2f7	SUB.6a38f058.0002e1c6	runtime_start	1782116441
+TOP.6a38f036.0009d2f7	SUB.6a38f058.0002e1c6	runtime_stop	1782116456
+TOP.6a38f036.0009d2f7	SUB.6a38f058.0002e1c6	hashes->digests_done_new	1
+TOP.6a38f036.0009d2f7	SUB.6a38f058.0002e1c6	status-after-work	6
+TOP.6a38f036.0009d2f7	SUB.6a38f058.0002e1c6	STOP
+TOP.6a38f036.0009d2f7	proc_start	1782116406
+TOP.6a38f036.0009d2f7	proc_stop	1782116457
+TOP.6a38f036.0009d2f7	STOP
+TOP.6a50a130.000383cd	START
+TOP.6a50a130.000383cd	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a50a130.000383cd	folder_config->install_dir	.
+TOP.6a50a130.000383cd	folder_config->profile_dir	.
+TOP.6a50a130.000383cd	folder_config->session_dir	.
+TOP.6a50a130.000383cd	folder_config->shared_dir	.
+TOP.6a50a130.000383cd	user_options->encoding_from	utf-8
+TOP.6a50a130.000383cd	user_options->encoding_to	utf-8
+TOP.6a50a130.000383cd	user_options->rule_buf_l	:
+TOP.6a50a130.000383cd	user_options->rule_buf_r	:
+TOP.6a50a130.000383cd	user_options->session	hashcat
+TOP.6a50a130.000383cd	user_options->separator	:
+TOP.6a50a130.000383cd	user_options->limit	0
+TOP.6a50a130.000383cd	user_options->skip	0
+TOP.6a50a130.000383cd	user_options->attack_mode	3
+TOP.6a50a130.000383cd	user_options->backend_devices_virtmulti	1
+TOP.6a50a130.000383cd	user_options->backend_devices_virthost	1
+TOP.6a50a130.000383cd	user_options->backend_devices_keepfree	0
+TOP.6a50a130.000383cd	user_options->benchmark	0
+TOP.6a50a130.000383cd	user_options->benchmark_all	0
+TOP.6a50a130.000383cd	user_options->benchmark_max	99999
+TOP.6a50a130.000383cd	user_options->benchmark_min	0
+TOP.6a50a130.000383cd	user_options->bitmap_max	18
+TOP.6a50a130.000383cd	user_options->bitmap_min	16
+TOP.6a50a130.000383cd	user_options->debug_mode	0
+TOP.6a50a130.000383cd	user_options->dynamic_x	0
+TOP.6a50a130.000383cd	user_options->hash_info	0
+TOP.6a50a130.000383cd	user_options->force	1
+TOP.6a50a130.000383cd	user_options->hwmon	1
+TOP.6a50a130.000383cd	user_options->hwmon_temp_abort	90
+TOP.6a50a130.000383cd	user_options->hash_mode	13000
+TOP.6a50a130.000383cd	user_options->hex_charset	0
+TOP.6a50a130.000383cd	user_options->hex_salt	0
+TOP.6a50a130.000383cd	user_options->hex_wordlist	0
+TOP.6a50a130.000383cd	user_options->hook_threads	6
+TOP.6a50a130.000383cd	user_options->identify	0
+TOP.6a50a130.000383cd	user_options->increment	1
+TOP.6a50a130.000383cd	user_options->increment_max	256
+TOP.6a50a130.000383cd	user_options->increment_min	1
+TOP.6a50a130.000383cd	user_options->keep_guessing	0
+TOP.6a50a130.000383cd	user_options->kernel_accel	0
+TOP.6a50a130.000383cd	user_options->kernel_loops	0
+TOP.6a50a130.000383cd	user_options->kernel_threads	0
+TOP.6a50a130.000383cd	user_options->keyspace	0
+TOP.6a50a130.000383cd	user_options->total_candidates	0
+TOP.6a50a130.000383cd	user_options->left	0
+TOP.6a50a130.000383cd	user_options->logfile	1
+TOP.6a50a130.000383cd	user_options->loopback	0
+TOP.6a50a130.000383cd	user_options->machine_readable	0
+TOP.6a50a130.000383cd	user_options->markov_classic	0
+TOP.6a50a130.000383cd	user_options->markov	1
+TOP.6a50a130.000383cd	user_options->markov_inverse	0
+TOP.6a50a130.000383cd	user_options->markov_threshold	256
+TOP.6a50a130.000383cd	user_options->metal_compiler_runtime	120
+TOP.6a50a130.000383cd	user_options->multiply_accel	1
+TOP.6a50a130.000383cd	user_options->backend_info	0
+TOP.6a50a130.000383cd	user_options->backend_vector_width	0
+TOP.6a50a130.000383cd	user_options->optimized_kernel	1
+TOP.6a50a130.000383cd	user_options->outfile_autohex	1
+TOP.6a50a130.000383cd	user_options->outfile_check_timer	5
+TOP.6a50a130.000383cd	user_options->outfile_format	6
+TOP.6a50a130.000383cd	user_options->outfile_json	0
+TOP.6a50a130.000383cd	user_options->wordlist_autohex	1
+TOP.6a50a130.000383cd	user_options->potfile	1
+TOP.6a50a130.000383cd	user_options->progress_only	0
+TOP.6a50a130.000383cd	user_options->quiet	0
+TOP.6a50a130.000383cd	user_options->remove	0
+TOP.6a50a130.000383cd	user_options->remove_timer	60
+TOP.6a50a130.000383cd	user_options->restore	0
+TOP.6a50a130.000383cd	user_options->restore_enable	1
+TOP.6a50a130.000383cd	user_options->restore_timer	1
+TOP.6a50a130.000383cd	user_options->rp_files_cnt	0
+TOP.6a50a130.000383cd	user_options->rp_gen	0
+TOP.6a50a130.000383cd	user_options->rp_gen_func_max	4
+TOP.6a50a130.000383cd	user_options->rp_gen_func_min	1
+TOP.6a50a130.000383cd	user_options->rp_gen_seed	0
+TOP.6a50a130.000383cd	user_options->runtime	0
+TOP.6a50a130.000383cd	user_options->scrypt_tmto	0
+TOP.6a50a130.000383cd	user_options->segment_size	33554432
+TOP.6a50a130.000383cd	user_options->self_test	1
+TOP.6a50a130.000383cd	user_options->slow_candidates	0
+TOP.6a50a130.000383cd	user_options->show	0
+TOP.6a50a130.000383cd	user_options->speed_only	0
+TOP.6a50a130.000383cd	user_options->spin_damp	0
+TOP.6a50a130.000383cd	user_options->status	0
+TOP.6a50a130.000383cd	user_options->status_json	0
+TOP.6a50a130.000383cd	user_options->status_timer	10
+TOP.6a50a130.000383cd	user_options->stdout_flag	0
+TOP.6a50a130.000383cd	user_options->usage	0
+TOP.6a50a130.000383cd	user_options->username	0
+TOP.6a50a130.000383cd	user_options->veracrypt_pim_start	485
+TOP.6a50a130.000383cd	user_options->veracrypt_pim_stop	485
+TOP.6a50a130.000383cd	user_options->version	0
+TOP.6a50a130.000383cd	user_options->workload_profile	2
+TOP.6a50a130.000383cd	user_options->brain_client	0
+TOP.6a50a130.000383cd	user_options->brain_client_features	2
+TOP.6a50a130.000383cd	user_options->brain_server	0
+TOP.6a50a130.000383cd	user_options->brain_server_timer	300
+TOP.6a50a130.000383cd	user_options->brain_port	6863
+TOP.6a50a130.000383cd	user_options->brain_session	0
+TOP.6a50a130.000383cd	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\rijwan iris 8_clean.txt
+TOP.6a50a130.000383cd	hashes->hashlist_mode	5
+TOP.6a50a130.000383cd	hashes->hashlist_format	0
+TOP.6a50a130.000383cd	hashes->hashes_cnt	0
+TOP.6a50a130.000383cd	hashes->digests_cnt	1
+TOP.6a50a130.000383cd	hashes->digests_done_pot	0
+TOP.6a50a130.000383cd	hashes->digests_done_zero	0
+TOP.6a50a130.000383cd	hashes->digests_done	0
+TOP.6a50a130.000383cd	hashes->salts_cnt	1
+TOP.6a50a130.000383cd	hashes->salts_done	0
+TOP.6a50a130.000383cd	SUB.6a50a134.00045d75	START
+TOP.6a50a130.000383cd	SUB.6a50a134.00045d75	mask_ctx->mask	?d
+TOP.6a50a130.000383cd	SUB.6a50a134.00045d75	runtime_start	1783669045
+TOP.6a50a130.000383cd	SUB.6a50a134.00045d75	runtime_stop	1783669048
+TOP.6a50a130.000383cd	SUB.6a50a134.00045d75	hashes->digests_done_new	0
+TOP.6a50a130.000383cd	SUB.6a50a134.00045d75	status-after-work	5
+TOP.6a50a130.000383cd	SUB.6a50a134.00045d75	STOP
+TOP.6a50a130.000383cd	SUB.6a50a138.000de561	START
+TOP.6a50a130.000383cd	SUB.6a50a138.000de561	mask_ctx->mask	?d?d
+TOP.6a50a130.000383cd	SUB.6a50a138.000de561	runtime_start	1783669049
+TOP.6a50a130.000383cd	SUB.6a50a138.000de561	runtime_stop	1783669050
+TOP.6a50a130.000383cd	SUB.6a50a138.000de561	hashes->digests_done_new	0
+TOP.6a50a130.000383cd	SUB.6a50a138.000de561	status-after-work	5
+TOP.6a50a130.000383cd	SUB.6a50a138.000de561	STOP
+TOP.6a50a130.000383cd	SUB.6a50a13b.00016163	START
+TOP.6a50a130.000383cd	SUB.6a50a13b.00016163	mask_ctx->mask	?d?d?d
+TOP.6a50a130.000383cd	SUB.6a50a13b.00016163	runtime_start	1783669052
+TOP.6a50a130.000383cd	SUB.6a50a13b.00016163	runtime_stop	1783669053
+TOP.6a50a130.000383cd	SUB.6a50a13b.00016163	hashes->digests_done_new	0
+TOP.6a50a130.000383cd	SUB.6a50a13b.00016163	status-after-work	5
+TOP.6a50a130.000383cd	SUB.6a50a13b.00016163	STOP
+TOP.6a50a130.000383cd	SUB.6a50a13d.0002350f	START
+TOP.6a50a130.000383cd	SUB.6a50a13d.0002350f	mask_ctx->mask	?d?d?d?d
+TOP.6a50a130.000383cd	SUB.6a50a13d.0002350f	runtime_start	1783669054
+TOP.6a50a130.000383cd	SUB.6a50a13d.0002350f	runtime_stop	1783669059
+TOP.6a50a130.000383cd	SUB.6a50a13d.0002350f	hashes->digests_done_new	0
+TOP.6a50a130.000383cd	SUB.6a50a13d.0002350f	status-after-work	5
+TOP.6a50a130.000383cd	SUB.6a50a13d.0002350f	STOP
+TOP.6a50a130.000383cd	SUB.6a50a143.000ec84d	START
+TOP.6a50a130.000383cd	SUB.6a50a143.000ec84d	mask_ctx->mask	?d?d?d?d?d
+TOP.6a50a130.000383cd	SUB.6a50a143.000ec84d	runtime_start	1783669061
+TOP.6a50a130.000383cd	SUB.6a50a143.000ec84d	runtime_stop	1783669070
+TOP.6a50a130.000383cd	SUB.6a50a143.000ec84d	hashes->digests_done_new	0
+TOP.6a50a130.000383cd	SUB.6a50a143.000ec84d	status-after-work	5
+TOP.6a50a130.000383cd	SUB.6a50a143.000ec84d	STOP
+TOP.6a50a130.000383cd	SUB.6a50a14e.000f05b9	START
+TOP.6a50a130.000383cd	SUB.6a50a14e.000f05b9	mask_ctx->mask	?d?d?d?d?d?d
+TOP.6a50a130.000383cd	SUB.6a50a14e.000f05b9	runtime_start	1783669072
+TOP.6a50a130.000383cd	SUB.6a50a14e.000f05b9	runtime_stop	1783669109
+TOP.6a50a130.000383cd	SUB.6a50a14e.000f05b9	hashes->digests_done_new	0
+TOP.6a50a130.000383cd	SUB.6a50a14e.000f05b9	status-after-work	5
+TOP.6a50a130.000383cd	SUB.6a50a14e.000f05b9	STOP
+TOP.6a50a130.000383cd	proc_start	1783669040
+TOP.6a50a130.000383cd	proc_stop	1783669110
+TOP.6a50a130.000383cd	STOP
+TOP.6a50a1c3.000558c8	START
+TOP.6a50a1c3.000558c8	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a50a1c3.000558c8	folder_config->install_dir	.
+TOP.6a50a1c3.000558c8	folder_config->profile_dir	.
+TOP.6a50a1c3.000558c8	folder_config->session_dir	.
+TOP.6a50a1c3.000558c8	folder_config->shared_dir	.
+TOP.6a50a1c3.000558c8	user_options->encoding_from	utf-8
+TOP.6a50a1c3.000558c8	user_options->encoding_to	utf-8
+TOP.6a50a1c3.000558c8	user_options->rule_buf_l	:
+TOP.6a50a1c3.000558c8	user_options->rule_buf_r	:
+TOP.6a50a1c3.000558c8	user_options->session	hashcat
+TOP.6a50a1c3.000558c8	user_options->separator	:
+TOP.6a50a1c3.000558c8	user_options->limit	0
+TOP.6a50a1c3.000558c8	user_options->skip	0
+TOP.6a50a1c3.000558c8	user_options->attack_mode	3
+TOP.6a50a1c3.000558c8	user_options->backend_devices_virtmulti	1
+TOP.6a50a1c3.000558c8	user_options->backend_devices_virthost	1
+TOP.6a50a1c3.000558c8	user_options->backend_devices_keepfree	0
+TOP.6a50a1c3.000558c8	user_options->benchmark	0
+TOP.6a50a1c3.000558c8	user_options->benchmark_all	0
+TOP.6a50a1c3.000558c8	user_options->benchmark_max	99999
+TOP.6a50a1c3.000558c8	user_options->benchmark_min	0
+TOP.6a50a1c3.000558c8	user_options->bitmap_max	18
+TOP.6a50a1c3.000558c8	user_options->bitmap_min	16
+TOP.6a50a1c3.000558c8	user_options->debug_mode	0
+TOP.6a50a1c3.000558c8	user_options->dynamic_x	0
+TOP.6a50a1c3.000558c8	user_options->hash_info	0
+TOP.6a50a1c3.000558c8	user_options->force	1
+TOP.6a50a1c3.000558c8	user_options->hwmon	1
+TOP.6a50a1c3.000558c8	user_options->hwmon_temp_abort	90
+TOP.6a50a1c3.000558c8	user_options->hash_mode	13000
+TOP.6a50a1c3.000558c8	user_options->hex_charset	0
+TOP.6a50a1c3.000558c8	user_options->hex_salt	0
+TOP.6a50a1c3.000558c8	user_options->hex_wordlist	0
+TOP.6a50a1c3.000558c8	user_options->hook_threads	6
+TOP.6a50a1c3.000558c8	user_options->identify	0
+TOP.6a50a1c3.000558c8	user_options->increment	1
+TOP.6a50a1c3.000558c8	user_options->increment_max	256
+TOP.6a50a1c3.000558c8	user_options->increment_min	1
+TOP.6a50a1c3.000558c8	user_options->keep_guessing	0
+TOP.6a50a1c3.000558c8	user_options->kernel_accel	0
+TOP.6a50a1c3.000558c8	user_options->kernel_loops	0
+TOP.6a50a1c3.000558c8	user_options->kernel_threads	0
+TOP.6a50a1c3.000558c8	user_options->keyspace	0
+TOP.6a50a1c3.000558c8	user_options->total_candidates	0
+TOP.6a50a1c3.000558c8	user_options->left	0
+TOP.6a50a1c3.000558c8	user_options->logfile	1
+TOP.6a50a1c3.000558c8	user_options->loopback	0
+TOP.6a50a1c3.000558c8	user_options->machine_readable	0
+TOP.6a50a1c3.000558c8	user_options->markov_classic	0
+TOP.6a50a1c3.000558c8	user_options->markov	1
+TOP.6a50a1c3.000558c8	user_options->markov_inverse	0
+TOP.6a50a1c3.000558c8	user_options->markov_threshold	256
+TOP.6a50a1c3.000558c8	user_options->metal_compiler_runtime	120
+TOP.6a50a1c3.000558c8	user_options->multiply_accel	1
+TOP.6a50a1c3.000558c8	user_options->backend_info	0
+TOP.6a50a1c3.000558c8	user_options->backend_vector_width	0
+TOP.6a50a1c3.000558c8	user_options->optimized_kernel	1
+TOP.6a50a1c3.000558c8	user_options->outfile_autohex	1
+TOP.6a50a1c3.000558c8	user_options->outfile_check_timer	5
+TOP.6a50a1c3.000558c8	user_options->outfile_format	6
+TOP.6a50a1c3.000558c8	user_options->outfile_json	0
+TOP.6a50a1c3.000558c8	user_options->wordlist_autohex	1
+TOP.6a50a1c3.000558c8	user_options->potfile	1
+TOP.6a50a1c3.000558c8	user_options->progress_only	0
+TOP.6a50a1c3.000558c8	user_options->quiet	0
+TOP.6a50a1c3.000558c8	user_options->remove	0
+TOP.6a50a1c3.000558c8	user_options->remove_timer	60
+TOP.6a50a1c3.000558c8	user_options->restore	0
+TOP.6a50a1c3.000558c8	user_options->restore_enable	1
+TOP.6a50a1c3.000558c8	user_options->restore_timer	1
+TOP.6a50a1c3.000558c8	user_options->rp_files_cnt	0
+TOP.6a50a1c3.000558c8	user_options->rp_gen	0
+TOP.6a50a1c3.000558c8	user_options->rp_gen_func_max	4
+TOP.6a50a1c3.000558c8	user_options->rp_gen_func_min	1
+TOP.6a50a1c3.000558c8	user_options->rp_gen_seed	0
+TOP.6a50a1c3.000558c8	user_options->runtime	0
+TOP.6a50a1c3.000558c8	user_options->scrypt_tmto	0
+TOP.6a50a1c3.000558c8	user_options->segment_size	33554432
+TOP.6a50a1c3.000558c8	user_options->self_test	1
+TOP.6a50a1c3.000558c8	user_options->slow_candidates	0
+TOP.6a50a1c3.000558c8	user_options->show	0
+TOP.6a50a1c3.000558c8	user_options->speed_only	0
+TOP.6a50a1c3.000558c8	user_options->spin_damp	0
+TOP.6a50a1c3.000558c8	user_options->status	0
+TOP.6a50a1c3.000558c8	user_options->status_json	0
+TOP.6a50a1c3.000558c8	user_options->status_timer	10
+TOP.6a50a1c3.000558c8	user_options->stdout_flag	0
+TOP.6a50a1c3.000558c8	user_options->usage	0
+TOP.6a50a1c3.000558c8	user_options->username	0
+TOP.6a50a1c3.000558c8	user_options->veracrypt_pim_start	485
+TOP.6a50a1c3.000558c8	user_options->veracrypt_pim_stop	485
+TOP.6a50a1c3.000558c8	user_options->version	0
+TOP.6a50a1c3.000558c8	user_options->workload_profile	2
+TOP.6a50a1c3.000558c8	user_options->brain_client	0
+TOP.6a50a1c3.000558c8	user_options->brain_client_features	2
+TOP.6a50a1c3.000558c8	user_options->brain_server	0
+TOP.6a50a1c3.000558c8	user_options->brain_server_timer	300
+TOP.6a50a1c3.000558c8	user_options->brain_port	6863
+TOP.6a50a1c3.000558c8	user_options->brain_session	0
+TOP.6a50a1c3.000558c8	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\rijwan iris 8_clean.txt
+TOP.6a50a1c3.000558c8	hashes->hashlist_mode	5
+TOP.6a50a1c3.000558c8	hashes->hashlist_format	0
+TOP.6a50a1c3.000558c8	hashes->hashes_cnt	0
+TOP.6a50a1c3.000558c8	hashes->digests_cnt	1
+TOP.6a50a1c3.000558c8	hashes->digests_done_pot	0
+TOP.6a50a1c3.000558c8	hashes->digests_done_zero	0
+TOP.6a50a1c3.000558c8	hashes->digests_done	0
+TOP.6a50a1c3.000558c8	hashes->salts_cnt	1
+TOP.6a50a1c3.000558c8	hashes->salts_done	0
+TOP.6a50a1c3.000558c8	SUB.6a50a1c5.00020b72	START
+TOP.6a50a1c3.000558c8	SUB.6a50a1c5.00020b72	mask_ctx->mask	?d
+TOP.6a50a1c3.000558c8	SUB.6a50a1c5.00020b72	runtime_start	1783669190
+TOP.6a50a1c3.000558c8	SUB.6a50a1c5.00020b72	runtime_stop	1783669193
+TOP.6a50a1c3.000558c8	SUB.6a50a1c5.00020b72	hashes->digests_done_new	0
+TOP.6a50a1c3.000558c8	SUB.6a50a1c5.00020b72	status-after-work	5
+TOP.6a50a1c3.000558c8	SUB.6a50a1c5.00020b72	STOP
+TOP.6a50a1c3.000558c8	SUB.6a50a1c9.0009c2ce	START
+TOP.6a50a1c3.000558c8	SUB.6a50a1c9.0009c2ce	mask_ctx->mask	?d?d
+TOP.6a50a1c3.000558c8	SUB.6a50a1c9.0009c2ce	runtime_start	1783669194
+TOP.6a50a1c3.000558c8	SUB.6a50a1c9.0009c2ce	runtime_stop	1783669198
+TOP.6a50a1c3.000558c8	SUB.6a50a1c9.0009c2ce	hashes->digests_done_new	0
+TOP.6a50a1c3.000558c8	SUB.6a50a1c9.0009c2ce	status-after-work	5
+TOP.6a50a1c3.000558c8	SUB.6a50a1c9.0009c2ce	STOP
+TOP.6a50a1c3.000558c8	SUB.6a50a1ce.000296fe	START
+TOP.6a50a1c3.000558c8	SUB.6a50a1ce.000296fe	mask_ctx->mask	?d?d?d
+TOP.6a50a1c3.000558c8	SUB.6a50a1ce.000296fe	runtime_start	1783669199
+TOP.6a50a1c3.000558c8	SUB.6a50a1ce.000296fe	runtime_stop	1783669200
+TOP.6a50a1c3.000558c8	SUB.6a50a1ce.000296fe	hashes->digests_done_new	0
+TOP.6a50a1c3.000558c8	SUB.6a50a1ce.000296fe	status-after-work	5
+TOP.6a50a1c3.000558c8	SUB.6a50a1ce.000296fe	STOP
+TOP.6a50a1c3.000558c8	SUB.6a50a1d0.000553e2	START
+TOP.6a50a1c3.000558c8	SUB.6a50a1d0.000553e2	mask_ctx->mask	?d?d?d?d
+TOP.6a50a1c3.000558c8	SUB.6a50a1d0.000553e2	runtime_start	1783669201
+TOP.6a50a1c3.000558c8	SUB.6a50a1d0.000553e2	runtime_stop	1783669203
+TOP.6a50a1c3.000558c8	SUB.6a50a1d0.000553e2	hashes->digests_done_new	0
+TOP.6a50a1c3.000558c8	SUB.6a50a1d0.000553e2	status-after-work	5
+TOP.6a50a1c3.000558c8	SUB.6a50a1d0.000553e2	STOP
+TOP.6a50a1c3.000558c8	SUB.6a50a1d3.0004eb9e	START
+TOP.6a50a1c3.000558c8	SUB.6a50a1d3.0004eb9e	mask_ctx->mask	?d?d?d?d?d
+TOP.6a50a1c3.000558c8	SUB.6a50a1d3.0004eb9e	runtime_start	1783669204
+TOP.6a50a1c3.000558c8	SUB.6a50a1d3.0004eb9e	runtime_stop	1783669210
+TOP.6a50a1c3.000558c8	SUB.6a50a1d3.0004eb9e	hashes->digests_done_new	0
+TOP.6a50a1c3.000558c8	SUB.6a50a1d3.0004eb9e	status-after-work	5
+TOP.6a50a1c3.000558c8	SUB.6a50a1d3.0004eb9e	STOP
+TOP.6a50a1c3.000558c8	SUB.6a50a1da.0002dd85	START
+TOP.6a50a1c3.000558c8	SUB.6a50a1da.0002dd85	mask_ctx->mask	?d?d?d?d?d?d
+TOP.6a50a1c3.000558c8	SUB.6a50a1da.0002dd85	runtime_start	1783669211
+TOP.6a50a1c3.000558c8	SUB.6a50a1da.0002dd85	runtime_stop	1783669248
+TOP.6a50a1c3.000558c8	SUB.6a50a1da.0002dd85	hashes->digests_done_new	0
+TOP.6a50a1c3.000558c8	SUB.6a50a1da.0002dd85	status-after-work	5
+TOP.6a50a1c3.000558c8	SUB.6a50a1da.0002dd85	STOP
+TOP.6a50a1c3.000558c8	SUB.6a50a200.000c2379	START
+TOP.6a50a1c3.000558c8	SUB.6a50a200.000c2379	mask_ctx->mask	?d?d?d?d?d?d?d
+TOP.6a50a1c3.000558c8	SUB.6a50a200.000c2379	runtime_start	1783669249
+TOP.6a50a1c3.000558c8	SUB.6a50a200.000c2379	runtime_stop	1783669635
+TOP.6a50a1c3.000558c8	SUB.6a50a200.000c2379	hashes->digests_done_new	0
+TOP.6a50a1c3.000558c8	SUB.6a50a200.000c2379	status-after-work	5
+TOP.6a50a1c3.000558c8	SUB.6a50a200.000c2379	STOP
+TOP.6a50a1c3.000558c8	SUB.6a50a383.0001e5d6	START
+TOP.6a50a1c3.000558c8	SUB.6a50a383.0001e5d6	mask_ctx->mask	?d?d?d?d?d?d?d?d
+TOP.6a50a4a2.000f30ed	START
+TOP.6a50a4a2.000f30ed	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a50a4a2.000f30ed	folder_config->install_dir	.
+TOP.6a50a4a2.000f30ed	folder_config->profile_dir	.
+TOP.6a50a4a2.000f30ed	folder_config->session_dir	.
+TOP.6a50a4a2.000f30ed	folder_config->shared_dir	.
+TOP.6a50a4a2.000f30ed	user_options->encoding_from	utf-8
+TOP.6a50a4a2.000f30ed	user_options->encoding_to	utf-8
+TOP.6a50a4a2.000f30ed	user_options->rule_buf_l	:
+TOP.6a50a4a2.000f30ed	user_options->rule_buf_r	:
+TOP.6a50a4a2.000f30ed	user_options->session	hashcat
+TOP.6a50a4a2.000f30ed	user_options->separator	:
+TOP.6a50a4a2.000f30ed	user_options->limit	0
+TOP.6a50a4a2.000f30ed	user_options->skip	0
+TOP.6a50a4a2.000f30ed	user_options->attack_mode	3
+TOP.6a50a4a2.000f30ed	user_options->backend_devices_virtmulti	1
+TOP.6a50a4a2.000f30ed	user_options->backend_devices_virthost	1
+TOP.6a50a4a2.000f30ed	user_options->backend_devices_keepfree	0
+TOP.6a50a4a2.000f30ed	user_options->benchmark	0
+TOP.6a50a4a2.000f30ed	user_options->benchmark_all	0
+TOP.6a50a4a2.000f30ed	user_options->benchmark_max	99999
+TOP.6a50a4a2.000f30ed	user_options->benchmark_min	0
+TOP.6a50a4a2.000f30ed	user_options->bitmap_max	18
+TOP.6a50a4a2.000f30ed	user_options->bitmap_min	16
+TOP.6a50a4a2.000f30ed	user_options->debug_mode	0
+TOP.6a50a4a2.000f30ed	user_options->dynamic_x	0
+TOP.6a50a4a2.000f30ed	user_options->hash_info	0
+TOP.6a50a4a2.000f30ed	user_options->force	1
+TOP.6a50a4a2.000f30ed	user_options->hwmon	1
+TOP.6a50a4a2.000f30ed	user_options->hwmon_temp_abort	90
+TOP.6a50a4a2.000f30ed	user_options->hash_mode	13000
+TOP.6a50a4a2.000f30ed	user_options->hex_charset	0
+TOP.6a50a4a2.000f30ed	user_options->hex_salt	0
+TOP.6a50a4a2.000f30ed	user_options->hex_wordlist	0
+TOP.6a50a4a2.000f30ed	user_options->hook_threads	6
+TOP.6a50a4a2.000f30ed	user_options->identify	0
+TOP.6a50a4a2.000f30ed	user_options->increment	1
+TOP.6a50a4a2.000f30ed	user_options->increment_max	256
+TOP.6a50a4a2.000f30ed	user_options->increment_min	1
+TOP.6a50a4a2.000f30ed	user_options->keep_guessing	0
+TOP.6a50a4a2.000f30ed	user_options->kernel_accel	0
+TOP.6a50a4a2.000f30ed	user_options->kernel_loops	0
+TOP.6a50a4a2.000f30ed	user_options->kernel_threads	0
+TOP.6a50a4a2.000f30ed	user_options->keyspace	0
+TOP.6a50a4a2.000f30ed	user_options->total_candidates	0
+TOP.6a50a4a2.000f30ed	user_options->left	0
+TOP.6a50a4a2.000f30ed	user_options->logfile	1
+TOP.6a50a4a2.000f30ed	user_options->loopback	0
+TOP.6a50a4a2.000f30ed	user_options->machine_readable	0
+TOP.6a50a4a2.000f30ed	user_options->markov_classic	0
+TOP.6a50a4a2.000f30ed	user_options->markov	1
+TOP.6a50a4a2.000f30ed	user_options->markov_inverse	0
+TOP.6a50a4a2.000f30ed	user_options->markov_threshold	256
+TOP.6a50a4a2.000f30ed	user_options->metal_compiler_runtime	120
+TOP.6a50a4a2.000f30ed	user_options->multiply_accel	1
+TOP.6a50a4a2.000f30ed	user_options->backend_info	0
+TOP.6a50a4a2.000f30ed	user_options->backend_vector_width	0
+TOP.6a50a4a2.000f30ed	user_options->optimized_kernel	1
+TOP.6a50a4a2.000f30ed	user_options->outfile_autohex	1
+TOP.6a50a4a2.000f30ed	user_options->outfile_check_timer	5
+TOP.6a50a4a2.000f30ed	user_options->outfile_format	6
+TOP.6a50a4a2.000f30ed	user_options->outfile_json	0
+TOP.6a50a4a2.000f30ed	user_options->wordlist_autohex	1
+TOP.6a50a4a2.000f30ed	user_options->potfile	1
+TOP.6a50a4a2.000f30ed	user_options->progress_only	0
+TOP.6a50a4a2.000f30ed	user_options->quiet	0
+TOP.6a50a4a2.000f30ed	user_options->remove	0
+TOP.6a50a4a2.000f30ed	user_options->remove_timer	60
+TOP.6a50a4a2.000f30ed	user_options->restore	0
+TOP.6a50a4a2.000f30ed	user_options->restore_enable	1
+TOP.6a50a4a2.000f30ed	user_options->restore_timer	1
+TOP.6a50a4a2.000f30ed	user_options->rp_files_cnt	0
+TOP.6a50a4a2.000f30ed	user_options->rp_gen	0
+TOP.6a50a4a2.000f30ed	user_options->rp_gen_func_max	4
+TOP.6a50a4a2.000f30ed	user_options->rp_gen_func_min	1
+TOP.6a50a4a2.000f30ed	user_options->rp_gen_seed	0
+TOP.6a50a4a2.000f30ed	user_options->runtime	0
+TOP.6a50a4a2.000f30ed	user_options->scrypt_tmto	0
+TOP.6a50a4a2.000f30ed	user_options->segment_size	33554432
+TOP.6a50a4a2.000f30ed	user_options->self_test	1
+TOP.6a50a4a2.000f30ed	user_options->slow_candidates	0
+TOP.6a50a4a2.000f30ed	user_options->show	0
+TOP.6a50a4a2.000f30ed	user_options->speed_only	0
+TOP.6a50a4a2.000f30ed	user_options->spin_damp	0
+TOP.6a50a4a2.000f30ed	user_options->status	0
+TOP.6a50a4a2.000f30ed	user_options->status_json	0
+TOP.6a50a4a2.000f30ed	user_options->status_timer	10
+TOP.6a50a4a2.000f30ed	user_options->stdout_flag	0
+TOP.6a50a4a2.000f30ed	user_options->usage	0
+TOP.6a50a4a2.000f30ed	user_options->username	0
+TOP.6a50a4a2.000f30ed	user_options->veracrypt_pim_start	485
+TOP.6a50a4a2.000f30ed	user_options->veracrypt_pim_stop	485
+TOP.6a50a4a2.000f30ed	user_options->version	0
+TOP.6a50a4a2.000f30ed	user_options->workload_profile	2
+TOP.6a50a4a2.000f30ed	user_options->brain_client	0
+TOP.6a50a4a2.000f30ed	user_options->brain_client_features	2
+TOP.6a50a4a2.000f30ed	user_options->brain_server	0
+TOP.6a50a4a2.000f30ed	user_options->brain_server_timer	300
+TOP.6a50a4a2.000f30ed	user_options->brain_port	6863
+TOP.6a50a4a2.000f30ed	user_options->brain_session	0
+TOP.6a50a4a2.000f30ed	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\rijwan iris 8_clean.txt
+TOP.6a50a4a2.000f30ed	hashes->hashlist_mode	5
+TOP.6a50a4a2.000f30ed	hashes->hashlist_format	0
+TOP.6a50a4a2.000f30ed	hashes->hashes_cnt	0
+TOP.6a50a4a2.000f30ed	hashes->digests_cnt	1
+TOP.6a50a4a2.000f30ed	hashes->digests_done_pot	0
+TOP.6a50a4a2.000f30ed	hashes->digests_done_zero	0
+TOP.6a50a4a2.000f30ed	hashes->digests_done	0
+TOP.6a50a4a2.000f30ed	hashes->salts_cnt	1
+TOP.6a50a4a2.000f30ed	hashes->salts_done	0
+TOP.6a50a4a2.000f30ed	SUB.6a50a4a4.000e7941	START
+TOP.6a50a4a2.000f30ed	SUB.6a50a4a4.000e7941	mask_ctx->mask	?d
+TOP.6a50a4a2.000f30ed	SUB.6a50a4a4.000e7941	runtime_start	1783669926
+TOP.6a50a4a2.000f30ed	SUB.6a50a4a4.000e7941	runtime_stop	1783669929
+TOP.6a50a4a2.000f30ed	SUB.6a50a4a4.000e7941	hashes->digests_done_new	0
+TOP.6a50a4a2.000f30ed	SUB.6a50a4a4.000e7941	status-after-work	5
+TOP.6a50a4a2.000f30ed	SUB.6a50a4a4.000e7941	STOP
+TOP.6a50a4a2.000f30ed	SUB.6a50a4a9.00087327	START
+TOP.6a50a4a2.000f30ed	SUB.6a50a4a9.00087327	mask_ctx->mask	?d?d
+TOP.6a50a4a2.000f30ed	SUB.6a50a4a9.00087327	runtime_start	1783669930
+TOP.6a50a4a2.000f30ed	SUB.6a50a4a9.00087327	runtime_stop	1783669931
+TOP.6a50a4a2.000f30ed	SUB.6a50a4a9.00087327	hashes->digests_done_new	0
+TOP.6a50a4a2.000f30ed	SUB.6a50a4a9.00087327	status-after-work	5
+TOP.6a50a4a2.000f30ed	SUB.6a50a4a9.00087327	STOP
+TOP.6a50a4a2.000f30ed	SUB.6a50a4ab.000cd79c	START
+TOP.6a50a4a2.000f30ed	SUB.6a50a4ab.000cd79c	mask_ctx->mask	?d?d?d
+TOP.6a50a4a2.000f30ed	SUB.6a50a4ab.000cd79c	runtime_start	1783669932
+TOP.6a50a4a2.000f30ed	SUB.6a50a4ab.000cd79c	runtime_stop	1783669936
+TOP.6a50a4a2.000f30ed	SUB.6a50a4ab.000cd79c	hashes->digests_done_new	0
+TOP.6a50a4a2.000f30ed	SUB.6a50a4ab.000cd79c	status-after-work	5
+TOP.6a50a4a2.000f30ed	SUB.6a50a4ab.000cd79c	STOP
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b0.000993e6	START
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b0.000993e6	mask_ctx->mask	?d?d?d?d
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b0.000993e6	runtime_start	1783669937
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b0.000993e6	runtime_stop	1783669939
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b0.000993e6	hashes->digests_done_new	0
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b0.000993e6	status-after-work	5
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b0.000993e6	STOP
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b3.000a8fea	START
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b3.000a8fea	mask_ctx->mask	?d?d?d?d?d
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b3.000a8fea	runtime_start	1783669940
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b3.000a8fea	runtime_stop	1783669945
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b3.000a8fea	hashes->digests_done_new	0
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b3.000a8fea	status-after-work	5
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b3.000a8fea	STOP
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b9.0002998c	START
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b9.0002998c	mask_ctx->mask	?d?d?d?d?d?d
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b9.0002998c	runtime_start	1783669946
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b9.0002998c	runtime_stop	1783669988
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b9.0002998c	hashes->digests_done_new	0
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b9.0002998c	status-after-work	5
+TOP.6a50a4a2.000f30ed	SUB.6a50a4b9.0002998c	STOP
+TOP.6a50a4a2.000f30ed	SUB.6a50a4e4.000193f5	START
+TOP.6a50a4a2.000f30ed	SUB.6a50a4e4.000193f5	mask_ctx->mask	?d?d?d?d?d?d?d
+TOP.6a50a4f7.000ded2b	START
+TOP.6a50a4f7.000ded2b	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a50a4f7.000ded2b	folder_config->install_dir	.
+TOP.6a50a4f7.000ded2b	folder_config->profile_dir	.
+TOP.6a50a4f7.000ded2b	folder_config->session_dir	.
+TOP.6a50a4f7.000ded2b	folder_config->shared_dir	.
+TOP.6a50a4f7.000ded2b	user_options->encoding_from	utf-8
+TOP.6a50a4f7.000ded2b	user_options->encoding_to	utf-8
+TOP.6a50a4f7.000ded2b	user_options->rule_buf_l	:
+TOP.6a50a4f7.000ded2b	user_options->rule_buf_r	:
+TOP.6a50a4f7.000ded2b	user_options->session	hashcat
+TOP.6a50a4f7.000ded2b	user_options->separator	:
+TOP.6a50a4f7.000ded2b	user_options->limit	0
+TOP.6a50a4f7.000ded2b	user_options->skip	0
+TOP.6a50a4f7.000ded2b	user_options->attack_mode	3
+TOP.6a50a4f7.000ded2b	user_options->backend_devices_virtmulti	1
+TOP.6a50a4f7.000ded2b	user_options->backend_devices_virthost	1
+TOP.6a50a4f7.000ded2b	user_options->backend_devices_keepfree	0
+TOP.6a50a4f7.000ded2b	user_options->benchmark	0
+TOP.6a50a4f7.000ded2b	user_options->benchmark_all	0
+TOP.6a50a4f7.000ded2b	user_options->benchmark_max	99999
+TOP.6a50a4f7.000ded2b	user_options->benchmark_min	0
+TOP.6a50a4f7.000ded2b	user_options->bitmap_max	18
+TOP.6a50a4f7.000ded2b	user_options->bitmap_min	16
+TOP.6a50a4f7.000ded2b	user_options->debug_mode	0
+TOP.6a50a4f7.000ded2b	user_options->dynamic_x	0
+TOP.6a50a4f7.000ded2b	user_options->hash_info	0
+TOP.6a50a4f7.000ded2b	user_options->force	1
+TOP.6a50a4f7.000ded2b	user_options->hwmon	1
+TOP.6a50a4f7.000ded2b	user_options->hwmon_temp_abort	90
+TOP.6a50a4f7.000ded2b	user_options->hash_mode	13000
+TOP.6a50a4f7.000ded2b	user_options->hex_charset	0
+TOP.6a50a4f7.000ded2b	user_options->hex_salt	0
+TOP.6a50a4f7.000ded2b	user_options->hex_wordlist	0
+TOP.6a50a4f7.000ded2b	user_options->hook_threads	6
+TOP.6a50a4f7.000ded2b	user_options->identify	0
+TOP.6a50a4f7.000ded2b	user_options->increment	1
+TOP.6a50a4f7.000ded2b	user_options->increment_max	256
+TOP.6a50a4f7.000ded2b	user_options->increment_min	1
+TOP.6a50a4f7.000ded2b	user_options->keep_guessing	0
+TOP.6a50a4f7.000ded2b	user_options->kernel_accel	0
+TOP.6a50a4f7.000ded2b	user_options->kernel_loops	0
+TOP.6a50a4f7.000ded2b	user_options->kernel_threads	0
+TOP.6a50a4f7.000ded2b	user_options->keyspace	0
+TOP.6a50a4f7.000ded2b	user_options->total_candidates	0
+TOP.6a50a4f7.000ded2b	user_options->left	0
+TOP.6a50a4f7.000ded2b	user_options->logfile	1
+TOP.6a50a4f7.000ded2b	user_options->loopback	0
+TOP.6a50a4f7.000ded2b	user_options->machine_readable	0
+TOP.6a50a4f7.000ded2b	user_options->markov_classic	0
+TOP.6a50a4f7.000ded2b	user_options->markov	1
+TOP.6a50a4f7.000ded2b	user_options->markov_inverse	0
+TOP.6a50a4f7.000ded2b	user_options->markov_threshold	256
+TOP.6a50a4f7.000ded2b	user_options->metal_compiler_runtime	120
+TOP.6a50a4f7.000ded2b	user_options->multiply_accel	1
+TOP.6a50a4f7.000ded2b	user_options->backend_info	0
+TOP.6a50a4f7.000ded2b	user_options->backend_vector_width	0
+TOP.6a50a4f7.000ded2b	user_options->optimized_kernel	1
+TOP.6a50a4f7.000ded2b	user_options->outfile_autohex	1
+TOP.6a50a4f7.000ded2b	user_options->outfile_check_timer	5
+TOP.6a50a4f7.000ded2b	user_options->outfile_format	6
+TOP.6a50a4f7.000ded2b	user_options->outfile_json	0
+TOP.6a50a4f7.000ded2b	user_options->wordlist_autohex	1
+TOP.6a50a4f7.000ded2b	user_options->potfile	1
+TOP.6a50a4f7.000ded2b	user_options->progress_only	0
+TOP.6a50a4f7.000ded2b	user_options->quiet	0
+TOP.6a50a4f7.000ded2b	user_options->remove	0
+TOP.6a50a4f7.000ded2b	user_options->remove_timer	60
+TOP.6a50a4f7.000ded2b	user_options->restore	0
+TOP.6a50a4f7.000ded2b	user_options->restore_enable	1
+TOP.6a50a4f7.000ded2b	user_options->restore_timer	1
+TOP.6a50a4f7.000ded2b	user_options->rp_files_cnt	0
+TOP.6a50a4f7.000ded2b	user_options->rp_gen	0
+TOP.6a50a4f7.000ded2b	user_options->rp_gen_func_max	4
+TOP.6a50a4f7.000ded2b	user_options->rp_gen_func_min	1
+TOP.6a50a4f7.000ded2b	user_options->rp_gen_seed	0
+TOP.6a50a4f7.000ded2b	user_options->runtime	0
+TOP.6a50a4f7.000ded2b	user_options->scrypt_tmto	0
+TOP.6a50a4f7.000ded2b	user_options->segment_size	33554432
+TOP.6a50a4f7.000ded2b	user_options->self_test	1
+TOP.6a50a4f7.000ded2b	user_options->slow_candidates	0
+TOP.6a50a4f7.000ded2b	user_options->show	0
+TOP.6a50a4f7.000ded2b	user_options->speed_only	0
+TOP.6a50a4f7.000ded2b	user_options->spin_damp	0
+TOP.6a50a4f7.000ded2b	user_options->status	0
+TOP.6a50a4f7.000ded2b	user_options->status_json	0
+TOP.6a50a4f7.000ded2b	user_options->status_timer	10
+TOP.6a50a4f7.000ded2b	user_options->stdout_flag	0
+TOP.6a50a4f7.000ded2b	user_options->usage	0
+TOP.6a50a4f7.000ded2b	user_options->username	0
+TOP.6a50a4f7.000ded2b	user_options->veracrypt_pim_start	485
+TOP.6a50a4f7.000ded2b	user_options->veracrypt_pim_stop	485
+TOP.6a50a4f7.000ded2b	user_options->version	0
+TOP.6a50a4f7.000ded2b	user_options->workload_profile	2
+TOP.6a50a4f7.000ded2b	user_options->brain_client	0
+TOP.6a50a4f7.000ded2b	user_options->brain_client_features	2
+TOP.6a50a4f7.000ded2b	user_options->brain_server	0
+TOP.6a50a4f7.000ded2b	user_options->brain_server_timer	300
+TOP.6a50a4f7.000ded2b	user_options->brain_port	6863
+TOP.6a50a4f7.000ded2b	user_options->brain_session	0
+TOP.6a50a4f7.000ded2b	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\rijwan iris 8_clean.txt
+TOP.6a50a4f7.000ded2b	hashes->hashlist_mode	5
+TOP.6a50a4f7.000ded2b	hashes->hashlist_format	0
+TOP.6a50a4f7.000ded2b	hashes->hashes_cnt	0
+TOP.6a50a4f7.000ded2b	hashes->digests_cnt	1
+TOP.6a50a4f7.000ded2b	hashes->digests_done_pot	0
+TOP.6a50a4f7.000ded2b	hashes->digests_done_zero	0
+TOP.6a50a4f7.000ded2b	hashes->digests_done	0
+TOP.6a50a4f7.000ded2b	hashes->salts_cnt	1
+TOP.6a50a4f7.000ded2b	hashes->salts_done	0
+TOP.6a50a4f7.000ded2b	SUB.6a50a4fa.00033731	START
+TOP.6a50a4f7.000ded2b	SUB.6a50a4fa.00033731	mask_ctx->mask	?d
+TOP.6a50a4f7.000ded2b	SUB.6a50a4fa.00033731	runtime_start	1783670011
+TOP.6a50a4f7.000ded2b	SUB.6a50a4fa.00033731	runtime_stop	1783670014
+TOP.6a50a4f7.000ded2b	SUB.6a50a4fa.00033731	hashes->digests_done_new	0
+TOP.6a50a4f7.000ded2b	SUB.6a50a4fa.00033731	status-after-work	5
+TOP.6a50a4f7.000ded2b	SUB.6a50a4fa.00033731	STOP
+TOP.6a50a4f7.000ded2b	SUB.6a50a4fe.000dbcf7	START
+TOP.6a50a4f7.000ded2b	SUB.6a50a4fe.000dbcf7	mask_ctx->mask	?d?d
+TOP.6a50a4f7.000ded2b	SUB.6a50a4fe.000dbcf7	runtime_start	1783670015
+TOP.6a50a4f7.000ded2b	SUB.6a50a4fe.000dbcf7	runtime_stop	1783670019
+TOP.6a50a4f7.000ded2b	SUB.6a50a4fe.000dbcf7	hashes->digests_done_new	0
+TOP.6a50a4f7.000ded2b	SUB.6a50a4fe.000dbcf7	status-after-work	5
+TOP.6a50a4f7.000ded2b	SUB.6a50a4fe.000dbcf7	STOP
+TOP.6a50a4f7.000ded2b	SUB.6a50a503.0009bde7	START
+TOP.6a50a4f7.000ded2b	SUB.6a50a503.0009bde7	mask_ctx->mask	?d?d?d
+TOP.6a50a4f7.000ded2b	SUB.6a50a503.0009bde7	runtime_start	1783670020
+TOP.6a50a4f7.000ded2b	SUB.6a50a503.0009bde7	runtime_stop	1783670025
+TOP.6a50a4f7.000ded2b	SUB.6a50a503.0009bde7	hashes->digests_done_new	0
+TOP.6a50a4f7.000ded2b	SUB.6a50a503.0009bde7	status-after-work	5
+TOP.6a50a4f7.000ded2b	SUB.6a50a503.0009bde7	STOP
+TOP.6a50a4f7.000ded2b	SUB.6a50a509.000251eb	START
+TOP.6a50a4f7.000ded2b	SUB.6a50a509.000251eb	mask_ctx->mask	?d?d?d?d
+TOP.6a50a4f7.000ded2b	SUB.6a50a509.000251eb	runtime_start	1783670026
+TOP.6a50a4f7.000ded2b	SUB.6a50a509.000251eb	runtime_stop	1783670028
+TOP.6a50a4f7.000ded2b	SUB.6a50a509.000251eb	hashes->digests_done_new	0
+TOP.6a50a4f7.000ded2b	SUB.6a50a509.000251eb	status-after-work	5
+TOP.6a50a4f7.000ded2b	SUB.6a50a509.000251eb	STOP
+TOP.6a50a4f7.000ded2b	SUB.6a50a50c.000c597f	START
+TOP.6a50a4f7.000ded2b	SUB.6a50a50c.000c597f	mask_ctx->mask	?d?d?d?d?d
+TOP.6a50a4f7.000ded2b	SUB.6a50a50c.000c597f	runtime_start	1783670030
+TOP.6a50a4f7.000ded2b	SUB.6a50a50c.000c597f	runtime_stop	1783670036
+TOP.6a50a4f7.000ded2b	SUB.6a50a50c.000c597f	hashes->digests_done_new	0
+TOP.6a50a4f7.000ded2b	SUB.6a50a50c.000c597f	status-after-work	5
+TOP.6a50a4f7.000ded2b	SUB.6a50a50c.000c597f	STOP
+TOP.6a50a4f7.000ded2b	SUB.6a50a514.0005ade6	START
+TOP.6a50a4f7.000ded2b	SUB.6a50a514.0005ade6	mask_ctx->mask	?d?d?d?d?d?d
+TOP.6a50a4f7.000ded2b	SUB.6a50a514.0005ade6	runtime_start	1783670037
+TOP.6a50a4f7.000ded2b	SUB.6a50a514.0005ade6	runtime_stop	1783670077
+TOP.6a50a4f7.000ded2b	SUB.6a50a514.0005ade6	hashes->digests_done_new	0
+TOP.6a50a4f7.000ded2b	SUB.6a50a514.0005ade6	status-after-work	5
+TOP.6a50a4f7.000ded2b	SUB.6a50a514.0005ade6	STOP
+TOP.6a50a4f7.000ded2b	SUB.6a50a53d.000c4010	START
+TOP.6a50a4f7.000ded2b	SUB.6a50a53d.000c4010	mask_ctx->mask	?d?d?d?d?d?d?d
+TOP.6a50a4f7.000ded2b	SUB.6a50a53d.000c4010	runtime_start	1783670079
+TOP.6a50a4f7.000ded2b	SUB.6a50a53d.000c4010	runtime_stop	1783670449
+TOP.6a50a4f7.000ded2b	SUB.6a50a53d.000c4010	hashes->digests_done_new	0
+TOP.6a50a4f7.000ded2b	SUB.6a50a53d.000c4010	status-after-work	5
+TOP.6a50a4f7.000ded2b	SUB.6a50a53d.000c4010	STOP
+TOP.6a50a4f7.000ded2b	SUB.6a50a6b1.0005ad0e	START
+TOP.6a50a4f7.000ded2b	SUB.6a50a6b1.0005ad0e	mask_ctx->mask	?d?d?d?d?d?d?d?d
+TOP.6a624939.000dac50	START
+TOP.6a624939.000dac50	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a624939.000dac50	folder_config->install_dir	.
+TOP.6a624939.000dac50	folder_config->profile_dir	.
+TOP.6a624939.000dac50	folder_config->session_dir	.
+TOP.6a624939.000dac50	folder_config->shared_dir	.
+TOP.6a624939.000dac50	user_options->encoding_from	utf-8
+TOP.6a624939.000dac50	user_options->encoding_to	utf-8
+TOP.6a624939.000dac50	user_options->rule_buf_l	:
+TOP.6a624939.000dac50	user_options->rule_buf_r	:
+TOP.6a624939.000dac50	user_options->session	hashcat
+TOP.6a624939.000dac50	user_options->separator	:
+TOP.6a624939.000dac50	user_options->limit	0
+TOP.6a624939.000dac50	user_options->skip	0
+TOP.6a624939.000dac50	user_options->attack_mode	3
+TOP.6a624939.000dac50	user_options->backend_devices_virtmulti	1
+TOP.6a624939.000dac50	user_options->backend_devices_virthost	1
+TOP.6a624939.000dac50	user_options->backend_devices_keepfree	0
+TOP.6a624939.000dac50	user_options->benchmark	0
+TOP.6a624939.000dac50	user_options->benchmark_all	0
+TOP.6a624939.000dac50	user_options->benchmark_max	99999
+TOP.6a624939.000dac50	user_options->benchmark_min	0
+TOP.6a624939.000dac50	user_options->bitmap_max	18
+TOP.6a624939.000dac50	user_options->bitmap_min	16
+TOP.6a624939.000dac50	user_options->debug_mode	0
+TOP.6a624939.000dac50	user_options->dynamic_x	0
+TOP.6a624939.000dac50	user_options->hash_info	0
+TOP.6a624939.000dac50	user_options->force	1
+TOP.6a624939.000dac50	user_options->hwmon	1
+TOP.6a624939.000dac50	user_options->hwmon_temp_abort	90
+TOP.6a624939.000dac50	user_options->hash_mode	10400
+TOP.6a624939.000dac50	user_options->hex_charset	0
+TOP.6a624939.000dac50	user_options->hex_salt	0
+TOP.6a624939.000dac50	user_options->hex_wordlist	0
+TOP.6a624939.000dac50	user_options->hook_threads	6
+TOP.6a624939.000dac50	user_options->identify	0
+TOP.6a624939.000dac50	user_options->increment	1
+TOP.6a624939.000dac50	user_options->increment_max	256
+TOP.6a624939.000dac50	user_options->increment_min	1
+TOP.6a624939.000dac50	user_options->keep_guessing	0
+TOP.6a624939.000dac50	user_options->kernel_accel	0
+TOP.6a624939.000dac50	user_options->kernel_loops	0
+TOP.6a624939.000dac50	user_options->kernel_threads	0
+TOP.6a624939.000dac50	user_options->keyspace	0
+TOP.6a624939.000dac50	user_options->total_candidates	0
+TOP.6a624939.000dac50	user_options->left	0
+TOP.6a624939.000dac50	user_options->logfile	1
+TOP.6a624939.000dac50	user_options->loopback	0
+TOP.6a624939.000dac50	user_options->machine_readable	0
+TOP.6a624939.000dac50	user_options->markov_classic	0
+TOP.6a624939.000dac50	user_options->markov	1
+TOP.6a624939.000dac50	user_options->markov_inverse	0
+TOP.6a624939.000dac50	user_options->markov_threshold	256
+TOP.6a624939.000dac50	user_options->metal_compiler_runtime	120
+TOP.6a624939.000dac50	user_options->multiply_accel	1
+TOP.6a624939.000dac50	user_options->backend_info	0
+TOP.6a624939.000dac50	user_options->backend_vector_width	0
+TOP.6a624939.000dac50	user_options->optimized_kernel	1
+TOP.6a624939.000dac50	user_options->outfile_autohex	1
+TOP.6a624939.000dac50	user_options->outfile_check_timer	5
+TOP.6a624939.000dac50	user_options->outfile_format	6
+TOP.6a624939.000dac50	user_options->outfile_json	0
+TOP.6a624939.000dac50	user_options->wordlist_autohex	1
+TOP.6a624939.000dac50	user_options->potfile	1
+TOP.6a624939.000dac50	user_options->progress_only	0
+TOP.6a624939.000dac50	user_options->quiet	0
+TOP.6a624939.000dac50	user_options->remove	0
+TOP.6a624939.000dac50	user_options->remove_timer	60
+TOP.6a624939.000dac50	user_options->restore	0
+TOP.6a624939.000dac50	user_options->restore_enable	1
+TOP.6a624939.000dac50	user_options->restore_timer	1
+TOP.6a624939.000dac50	user_options->rp_files_cnt	0
+TOP.6a624939.000dac50	user_options->rp_gen	0
+TOP.6a624939.000dac50	user_options->rp_gen_func_max	4
+TOP.6a624939.000dac50	user_options->rp_gen_func_min	1
+TOP.6a624939.000dac50	user_options->rp_gen_seed	0
+TOP.6a624939.000dac50	user_options->runtime	0
+TOP.6a624939.000dac50	user_options->scrypt_tmto	0
+TOP.6a624939.000dac50	user_options->segment_size	33554432
+TOP.6a624939.000dac50	user_options->self_test	1
+TOP.6a624939.000dac50	user_options->slow_candidates	0
+TOP.6a624939.000dac50	user_options->show	0
+TOP.6a624939.000dac50	user_options->speed_only	0
+TOP.6a624939.000dac50	user_options->spin_damp	0
+TOP.6a624939.000dac50	user_options->status	0
+TOP.6a624939.000dac50	user_options->status_json	0
+TOP.6a624939.000dac50	user_options->status_timer	10
+TOP.6a624939.000dac50	user_options->stdout_flag	0
+TOP.6a624939.000dac50	user_options->usage	0
+TOP.6a624939.000dac50	user_options->username	0
+TOP.6a624939.000dac50	user_options->veracrypt_pim_start	485
+TOP.6a624939.000dac50	user_options->veracrypt_pim_stop	485
+TOP.6a624939.000dac50	user_options->version	0
+TOP.6a624939.000dac50	user_options->workload_profile	2
+TOP.6a624939.000dac50	user_options->brain_client	0
+TOP.6a624939.000dac50	user_options->brain_client_features	2
+TOP.6a624939.000dac50	user_options->brain_server	0
+TOP.6a624939.000dac50	user_options->brain_server_timer	300
+TOP.6a624939.000dac50	user_options->brain_port	6863
+TOP.6a624939.000dac50	user_options->brain_session	0
+TOP.6a624939.000dac50	proc_start	1784826169
+TOP.6a624939.000dac50	proc_stop	1784826170
+TOP.6a624939.000dac50	STOP
+TOP.6a6249c6.000a7709	START
+TOP.6a6249c6.000a7709	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a6249c6.000a7709	folder_config->install_dir	.
+TOP.6a6249c6.000a7709	folder_config->profile_dir	.
+TOP.6a6249c6.000a7709	folder_config->session_dir	.
+TOP.6a6249c6.000a7709	folder_config->shared_dir	.
+TOP.6a6249c6.000a7709	user_options->encoding_from	utf-8
+TOP.6a6249c6.000a7709	user_options->encoding_to	utf-8
+TOP.6a6249c6.000a7709	user_options->rule_buf_l	:
+TOP.6a6249c6.000a7709	user_options->rule_buf_r	:
+TOP.6a6249c6.000a7709	user_options->session	hashcat
+TOP.6a6249c6.000a7709	user_options->separator	:
+TOP.6a6249c6.000a7709	user_options->limit	0
+TOP.6a6249c6.000a7709	user_options->skip	0
+TOP.6a6249c6.000a7709	user_options->attack_mode	3
+TOP.6a6249c6.000a7709	user_options->backend_devices_virtmulti	1
+TOP.6a6249c6.000a7709	user_options->backend_devices_virthost	1
+TOP.6a6249c6.000a7709	user_options->backend_devices_keepfree	0
+TOP.6a6249c6.000a7709	user_options->benchmark	0
+TOP.6a6249c6.000a7709	user_options->benchmark_all	0
+TOP.6a6249c6.000a7709	user_options->benchmark_max	99999
+TOP.6a6249c6.000a7709	user_options->benchmark_min	0
+TOP.6a6249c6.000a7709	user_options->bitmap_max	18
+TOP.6a6249c6.000a7709	user_options->bitmap_min	16
+TOP.6a6249c6.000a7709	user_options->debug_mode	0
+TOP.6a6249c6.000a7709	user_options->dynamic_x	0
+TOP.6a6249c6.000a7709	user_options->hash_info	0
+TOP.6a6249c6.000a7709	user_options->force	1
+TOP.6a6249c6.000a7709	user_options->hwmon	1
+TOP.6a6249c6.000a7709	user_options->hwmon_temp_abort	90
+TOP.6a6249c6.000a7709	user_options->hash_mode	10400
+TOP.6a6249c6.000a7709	user_options->hex_charset	0
+TOP.6a6249c6.000a7709	user_options->hex_salt	0
+TOP.6a6249c6.000a7709	user_options->hex_wordlist	0
+TOP.6a6249c6.000a7709	user_options->hook_threads	6
+TOP.6a6249c6.000a7709	user_options->identify	0
+TOP.6a6249c6.000a7709	user_options->increment	1
+TOP.6a6249c6.000a7709	user_options->increment_max	256
+TOP.6a6249c6.000a7709	user_options->increment_min	1
+TOP.6a6249c6.000a7709	user_options->keep_guessing	0
+TOP.6a6249c6.000a7709	user_options->kernel_accel	0
+TOP.6a6249c6.000a7709	user_options->kernel_loops	0
+TOP.6a6249c6.000a7709	user_options->kernel_threads	0
+TOP.6a6249c6.000a7709	user_options->keyspace	0
+TOP.6a6249c6.000a7709	user_options->total_candidates	0
+TOP.6a6249c6.000a7709	user_options->left	0
+TOP.6a6249c6.000a7709	user_options->logfile	1
+TOP.6a6249c6.000a7709	user_options->loopback	0
+TOP.6a6249c6.000a7709	user_options->machine_readable	0
+TOP.6a6249c6.000a7709	user_options->markov_classic	0
+TOP.6a6249c6.000a7709	user_options->markov	1
+TOP.6a6249c6.000a7709	user_options->markov_inverse	0
+TOP.6a6249c6.000a7709	user_options->markov_threshold	256
+TOP.6a6249c6.000a7709	user_options->metal_compiler_runtime	120
+TOP.6a6249c6.000a7709	user_options->multiply_accel	1
+TOP.6a6249c6.000a7709	user_options->backend_info	0
+TOP.6a6249c6.000a7709	user_options->backend_vector_width	0
+TOP.6a6249c6.000a7709	user_options->optimized_kernel	1
+TOP.6a6249c6.000a7709	user_options->outfile_autohex	1
+TOP.6a6249c6.000a7709	user_options->outfile_check_timer	5
+TOP.6a6249c6.000a7709	user_options->outfile_format	6
+TOP.6a6249c6.000a7709	user_options->outfile_json	0
+TOP.6a6249c6.000a7709	user_options->wordlist_autohex	1
+TOP.6a6249c6.000a7709	user_options->potfile	1
+TOP.6a6249c6.000a7709	user_options->progress_only	0
+TOP.6a6249c6.000a7709	user_options->quiet	0
+TOP.6a6249c6.000a7709	user_options->remove	0
+TOP.6a6249c6.000a7709	user_options->remove_timer	60
+TOP.6a6249c6.000a7709	user_options->restore	0
+TOP.6a6249c6.000a7709	user_options->restore_enable	1
+TOP.6a6249c6.000a7709	user_options->restore_timer	1
+TOP.6a6249c6.000a7709	user_options->rp_files_cnt	0
+TOP.6a6249c6.000a7709	user_options->rp_gen	0
+TOP.6a6249c6.000a7709	user_options->rp_gen_func_max	4
+TOP.6a6249c6.000a7709	user_options->rp_gen_func_min	1
+TOP.6a6249c6.000a7709	user_options->rp_gen_seed	0
+TOP.6a6249c6.000a7709	user_options->runtime	0
+TOP.6a6249c6.000a7709	user_options->scrypt_tmto	0
+TOP.6a6249c6.000a7709	user_options->segment_size	33554432
+TOP.6a6249c6.000a7709	user_options->self_test	1
+TOP.6a6249c6.000a7709	user_options->slow_candidates	0
+TOP.6a6249c6.000a7709	user_options->show	0
+TOP.6a6249c6.000a7709	user_options->speed_only	0
+TOP.6a6249c6.000a7709	user_options->spin_damp	0
+TOP.6a6249c6.000a7709	user_options->status	0
+TOP.6a6249c6.000a7709	user_options->status_json	0
+TOP.6a6249c6.000a7709	user_options->status_timer	10
+TOP.6a6249c6.000a7709	user_options->stdout_flag	0
+TOP.6a6249c6.000a7709	user_options->usage	0
+TOP.6a6249c6.000a7709	user_options->username	0
+TOP.6a6249c6.000a7709	user_options->veracrypt_pim_start	485
+TOP.6a6249c6.000a7709	user_options->veracrypt_pim_stop	485
+TOP.6a6249c6.000a7709	user_options->version	0
+TOP.6a6249c6.000a7709	user_options->workload_profile	2
+TOP.6a6249c6.000a7709	user_options->brain_client	0
+TOP.6a6249c6.000a7709	user_options->brain_client_features	2
+TOP.6a6249c6.000a7709	user_options->brain_server	0
+TOP.6a6249c6.000a7709	user_options->brain_server_timer	300
+TOP.6a6249c6.000a7709	user_options->brain_port	6863
+TOP.6a6249c6.000a7709	user_options->brain_session	0
+TOP.6a6249c6.000a7709	proc_start	1784826310
+TOP.6a6249c6.000a7709	proc_stop	1784826311
+TOP.6a6249c6.000a7709	STOP
+TOP.6a624b67.000a392b	START
+TOP.6a624b67.000a392b	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a624b67.000a392b	folder_config->install_dir	.
+TOP.6a624b67.000a392b	folder_config->profile_dir	.
+TOP.6a624b67.000a392b	folder_config->session_dir	.
+TOP.6a624b67.000a392b	folder_config->shared_dir	.
+TOP.6a624b67.000a392b	user_options->encoding_from	utf-8
+TOP.6a624b67.000a392b	user_options->encoding_to	utf-8
+TOP.6a624b67.000a392b	user_options->rule_buf_l	:
+TOP.6a624b67.000a392b	user_options->rule_buf_r	:
+TOP.6a624b67.000a392b	user_options->session	hashcat
+TOP.6a624b67.000a392b	user_options->separator	:
+TOP.6a624b67.000a392b	user_options->limit	0
+TOP.6a624b67.000a392b	user_options->skip	0
+TOP.6a624b67.000a392b	user_options->attack_mode	3
+TOP.6a624b67.000a392b	user_options->backend_devices_virtmulti	1
+TOP.6a624b67.000a392b	user_options->backend_devices_virthost	1
+TOP.6a624b67.000a392b	user_options->backend_devices_keepfree	0
+TOP.6a624b67.000a392b	user_options->benchmark	0
+TOP.6a624b67.000a392b	user_options->benchmark_all	0
+TOP.6a624b67.000a392b	user_options->benchmark_max	99999
+TOP.6a624b67.000a392b	user_options->benchmark_min	0
+TOP.6a624b67.000a392b	user_options->bitmap_max	18
+TOP.6a624b67.000a392b	user_options->bitmap_min	16
+TOP.6a624b67.000a392b	user_options->debug_mode	0
+TOP.6a624b67.000a392b	user_options->dynamic_x	0
+TOP.6a624b67.000a392b	user_options->hash_info	0
+TOP.6a624b67.000a392b	user_options->force	1
+TOP.6a624b67.000a392b	user_options->hwmon	1
+TOP.6a624b67.000a392b	user_options->hwmon_temp_abort	90
+TOP.6a624b67.000a392b	user_options->hash_mode	10400
+TOP.6a624b67.000a392b	user_options->hex_charset	0
+TOP.6a624b67.000a392b	user_options->hex_salt	0
+TOP.6a624b67.000a392b	user_options->hex_wordlist	0
+TOP.6a624b67.000a392b	user_options->hook_threads	6
+TOP.6a624b67.000a392b	user_options->identify	0
+TOP.6a624b67.000a392b	user_options->increment	1
+TOP.6a624b67.000a392b	user_options->increment_max	256
+TOP.6a624b67.000a392b	user_options->increment_min	1
+TOP.6a624b67.000a392b	user_options->keep_guessing	0
+TOP.6a624b67.000a392b	user_options->kernel_accel	0
+TOP.6a624b67.000a392b	user_options->kernel_loops	0
+TOP.6a624b67.000a392b	user_options->kernel_threads	0
+TOP.6a624b67.000a392b	user_options->keyspace	0
+TOP.6a624b67.000a392b	user_options->total_candidates	0
+TOP.6a624b67.000a392b	user_options->left	0
+TOP.6a624b67.000a392b	user_options->logfile	1
+TOP.6a624b67.000a392b	user_options->loopback	0
+TOP.6a624b67.000a392b	user_options->machine_readable	0
+TOP.6a624b67.000a392b	user_options->markov_classic	0
+TOP.6a624b67.000a392b	user_options->markov	1
+TOP.6a624b67.000a392b	user_options->markov_inverse	0
+TOP.6a624b67.000a392b	user_options->markov_threshold	256
+TOP.6a624b67.000a392b	user_options->metal_compiler_runtime	120
+TOP.6a624b67.000a392b	user_options->multiply_accel	1
+TOP.6a624b67.000a392b	user_options->backend_info	0
+TOP.6a624b67.000a392b	user_options->backend_vector_width	0
+TOP.6a624b67.000a392b	user_options->optimized_kernel	1
+TOP.6a624b67.000a392b	user_options->outfile_autohex	1
+TOP.6a624b67.000a392b	user_options->outfile_check_timer	5
+TOP.6a624b67.000a392b	user_options->outfile_format	6
+TOP.6a624b67.000a392b	user_options->outfile_json	0
+TOP.6a624b67.000a392b	user_options->wordlist_autohex	1
+TOP.6a624b67.000a392b	user_options->potfile	1
+TOP.6a624b67.000a392b	user_options->progress_only	0
+TOP.6a624b67.000a392b	user_options->quiet	0
+TOP.6a624b67.000a392b	user_options->remove	0
+TOP.6a624b67.000a392b	user_options->remove_timer	60
+TOP.6a624b67.000a392b	user_options->restore	0
+TOP.6a624b67.000a392b	user_options->restore_enable	1
+TOP.6a624b67.000a392b	user_options->restore_timer	1
+TOP.6a624b67.000a392b	user_options->rp_files_cnt	0
+TOP.6a624b67.000a392b	user_options->rp_gen	0
+TOP.6a624b67.000a392b	user_options->rp_gen_func_max	4
+TOP.6a624b67.000a392b	user_options->rp_gen_func_min	1
+TOP.6a624b67.000a392b	user_options->rp_gen_seed	0
+TOP.6a624b67.000a392b	user_options->runtime	0
+TOP.6a624b67.000a392b	user_options->scrypt_tmto	0
+TOP.6a624b67.000a392b	user_options->segment_size	33554432
+TOP.6a624b67.000a392b	user_options->self_test	1
+TOP.6a624b67.000a392b	user_options->slow_candidates	0
+TOP.6a624b67.000a392b	user_options->show	0
+TOP.6a624b67.000a392b	user_options->speed_only	0
+TOP.6a624b67.000a392b	user_options->spin_damp	0
+TOP.6a624b67.000a392b	user_options->status	0
+TOP.6a624b67.000a392b	user_options->status_json	0
+TOP.6a624b67.000a392b	user_options->status_timer	10
+TOP.6a624b67.000a392b	user_options->stdout_flag	0
+TOP.6a624b67.000a392b	user_options->usage	0
+TOP.6a624b67.000a392b	user_options->username	0
+TOP.6a624b67.000a392b	user_options->veracrypt_pim_start	485
+TOP.6a624b67.000a392b	user_options->veracrypt_pim_stop	485
+TOP.6a624b67.000a392b	user_options->version	0
+TOP.6a624b67.000a392b	user_options->workload_profile	2
+TOP.6a624b67.000a392b	user_options->brain_client	0
+TOP.6a624b67.000a392b	user_options->brain_client_features	2
+TOP.6a624b67.000a392b	user_options->brain_server	0
+TOP.6a624b67.000a392b	user_options->brain_server_timer	300
+TOP.6a624b67.000a392b	user_options->brain_port	6863
+TOP.6a624b67.000a392b	user_options->brain_session	0
+TOP.6a624b67.000a392b	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\Funny reels bundle _clean.txt
+TOP.6a624b67.000a392b	hashes->hashlist_mode	5
+TOP.6a624b67.000a392b	hashes->hashlist_format	0
+TOP.6a624b67.000a392b	hashes->hashes_cnt	0
+TOP.6a624b67.000a392b	hashes->digests_cnt	1
+TOP.6a624b67.000a392b	hashes->digests_done_pot	0
+TOP.6a624b67.000a392b	hashes->digests_done_zero	0
+TOP.6a624b67.000a392b	hashes->digests_done	0
+TOP.6a624b67.000a392b	hashes->salts_cnt	1
+TOP.6a624b67.000a392b	hashes->salts_done	0
+TOP.6a624b67.000a392b	SUB.6a624b72.000313f2	START
+TOP.6a624b67.000a392b	SUB.6a624b72.000313f2	mask_ctx->mask	?d
+TOP.6a624b67.000a392b	SUB.6a624b72.000313f2	runtime_start	1784826738
+TOP.6a624b67.000a392b	SUB.6a624b72.000313f2	runtime_stop	1784826738
+TOP.6a624b67.000a392b	SUB.6a624b72.000313f2	hashes->digests_done_new	0
+TOP.6a624b67.000a392b	SUB.6a624b72.000313f2	status-after-work	5
+TOP.6a624b67.000a392b	SUB.6a624b72.000313f2	STOP
+TOP.6a624b67.000a392b	SUB.6a624b72.000c6d72	START
+TOP.6a624b67.000a392b	SUB.6a624b72.000c6d72	mask_ctx->mask	?d?d
+TOP.6a624b67.000a392b	SUB.6a624b72.000c6d72	runtime_start	1784826739
+TOP.6a624b67.000a392b	SUB.6a624b72.000c6d72	runtime_stop	1784826739
+TOP.6a624b67.000a392b	SUB.6a624b72.000c6d72	hashes->digests_done_new	0
+TOP.6a624b67.000a392b	SUB.6a624b72.000c6d72	status-after-work	5
+TOP.6a624b67.000a392b	SUB.6a624b72.000c6d72	STOP
+TOP.6a624b67.000a392b	SUB.6a624b73.0002b7c5	START
+TOP.6a624b67.000a392b	SUB.6a624b73.0002b7c5	mask_ctx->mask	?d?d?d
+TOP.6a624b67.000a392b	SUB.6a624b73.0002b7c5	runtime_start	1784826739
+TOP.6a624b67.000a392b	SUB.6a624b73.0002b7c5	runtime_stop	1784826739
+TOP.6a624b67.000a392b	SUB.6a624b73.0002b7c5	hashes->digests_done_new	0
+TOP.6a624b67.000a392b	SUB.6a624b73.0002b7c5	status-after-work	5
+TOP.6a624b67.000a392b	SUB.6a624b73.0002b7c5	STOP
+TOP.6a624b67.000a392b	SUB.6a624b73.000825af	START
+TOP.6a624b67.000a392b	SUB.6a624b73.000825af	mask_ctx->mask	?d?d?d?d
+TOP.6a624b67.000a392b	SUB.6a624b73.000825af	runtime_start	1784826739
+TOP.6a624b67.000a392b	SUB.6a624b73.000825af	runtime_stop	1784826739
+TOP.6a624b67.000a392b	SUB.6a624b73.000825af	hashes->digests_done_new	0
+TOP.6a624b67.000a392b	SUB.6a624b73.000825af	status-after-work	5
+TOP.6a624b67.000a392b	SUB.6a624b73.000825af	STOP
+TOP.6a624b67.000a392b	SUB.6a624b73.000dc84c	START
+TOP.6a624b67.000a392b	SUB.6a624b73.000dc84c	mask_ctx->mask	?d?d?d?d?d
+TOP.6a624b67.000a392b	SUB.6a624b73.000dc84c	runtime_start	1784826740
+TOP.6a624b67.000a392b	SUB.6a624b73.000dc84c	runtime_stop	1784826740
+TOP.6a624b67.000a392b	SUB.6a624b73.000dc84c	hashes->digests_done_new	0
+TOP.6a624b67.000a392b	SUB.6a624b73.000dc84c	status-after-work	5
+TOP.6a624b67.000a392b	SUB.6a624b73.000dc84c	STOP
+TOP.6a624b67.000a392b	SUB.6a624b74.000402fe	START
+TOP.6a624b67.000a392b	SUB.6a624b74.000402fe	mask_ctx->mask	?d?d?d?d?d?d
+TOP.6a624b67.000a392b	SUB.6a624b74.000402fe	runtime_start	1784826740
+TOP.6a624b67.000a392b	SUB.6a624b74.000402fe	runtime_stop	1784826740
+TOP.6a624b67.000a392b	SUB.6a624b74.000402fe	hashes->digests_done_new	1
+TOP.6a624b67.000a392b	SUB.6a624b74.000402fe	status-after-work	6
+TOP.6a624b67.000a392b	SUB.6a624b74.000402fe	STOP
+TOP.6a624b67.000a392b	proc_start	1784826727
+TOP.6a624b67.000a392b	proc_stop	1784826741
+TOP.6a624b67.000a392b	STOP
+TOP.6a624bcb.0002fdd0	START
+TOP.6a624bcb.0002fdd0	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a624bcb.0002fdd0	folder_config->install_dir	.
+TOP.6a624bcb.0002fdd0	folder_config->profile_dir	.
+TOP.6a624bcb.0002fdd0	folder_config->session_dir	.
+TOP.6a624bcb.0002fdd0	folder_config->shared_dir	.
+TOP.6a624bcb.0002fdd0	user_options->encoding_from	utf-8
+TOP.6a624bcb.0002fdd0	user_options->encoding_to	utf-8
+TOP.6a624bcb.0002fdd0	user_options->rule_buf_l	:
+TOP.6a624bcb.0002fdd0	user_options->rule_buf_r	:
+TOP.6a624bcb.0002fdd0	user_options->session	hashcat
+TOP.6a624bcb.0002fdd0	user_options->separator	:
+TOP.6a624bcb.0002fdd0	user_options->limit	0
+TOP.6a624bcb.0002fdd0	user_options->skip	0
+TOP.6a624bcb.0002fdd0	user_options->attack_mode	3
+TOP.6a624bcb.0002fdd0	user_options->backend_devices_virtmulti	1
+TOP.6a624bcb.0002fdd0	user_options->backend_devices_virthost	1
+TOP.6a624bcb.0002fdd0	user_options->backend_devices_keepfree	0
+TOP.6a624bcb.0002fdd0	user_options->benchmark	0
+TOP.6a624bcb.0002fdd0	user_options->benchmark_all	0
+TOP.6a624bcb.0002fdd0	user_options->benchmark_max	99999
+TOP.6a624bcb.0002fdd0	user_options->benchmark_min	0
+TOP.6a624bcb.0002fdd0	user_options->bitmap_max	18
+TOP.6a624bcb.0002fdd0	user_options->bitmap_min	16
+TOP.6a624bcb.0002fdd0	user_options->debug_mode	0
+TOP.6a624bcb.0002fdd0	user_options->dynamic_x	0
+TOP.6a624bcb.0002fdd0	user_options->hash_info	0
+TOP.6a624bcb.0002fdd0	user_options->force	1
+TOP.6a624bcb.0002fdd0	user_options->hwmon	1
+TOP.6a624bcb.0002fdd0	user_options->hwmon_temp_abort	90
+TOP.6a624bcb.0002fdd0	user_options->hash_mode	10400
+TOP.6a624bcb.0002fdd0	user_options->hex_charset	0
+TOP.6a624bcb.0002fdd0	user_options->hex_salt	0
+TOP.6a624bcb.0002fdd0	user_options->hex_wordlist	0
+TOP.6a624bcb.0002fdd0	user_options->hook_threads	6
+TOP.6a624bcb.0002fdd0	user_options->identify	0
+TOP.6a624bcb.0002fdd0	user_options->increment	1
+TOP.6a624bcb.0002fdd0	user_options->increment_max	256
+TOP.6a624bcb.0002fdd0	user_options->increment_min	1
+TOP.6a624bcb.0002fdd0	user_options->keep_guessing	0
+TOP.6a624bcb.0002fdd0	user_options->kernel_accel	0
+TOP.6a624bcb.0002fdd0	user_options->kernel_loops	0
+TOP.6a624bcb.0002fdd0	user_options->kernel_threads	0
+TOP.6a624bcb.0002fdd0	user_options->keyspace	0
+TOP.6a624bcb.0002fdd0	user_options->total_candidates	0
+TOP.6a624bcb.0002fdd0	user_options->left	0
+TOP.6a624bcb.0002fdd0	user_options->logfile	1
+TOP.6a624bcb.0002fdd0	user_options->loopback	0
+TOP.6a624bcb.0002fdd0	user_options->machine_readable	0
+TOP.6a624bcb.0002fdd0	user_options->markov_classic	0
+TOP.6a624bcb.0002fdd0	user_options->markov	1
+TOP.6a624bcb.0002fdd0	user_options->markov_inverse	0
+TOP.6a624bcb.0002fdd0	user_options->markov_threshold	256
+TOP.6a624bcb.0002fdd0	user_options->metal_compiler_runtime	120
+TOP.6a624bcb.0002fdd0	user_options->multiply_accel	1
+TOP.6a624bcb.0002fdd0	user_options->backend_info	0
+TOP.6a624bcb.0002fdd0	user_options->backend_vector_width	0
+TOP.6a624bcb.0002fdd0	user_options->optimized_kernel	1
+TOP.6a624bcb.0002fdd0	user_options->outfile_autohex	1
+TOP.6a624bcb.0002fdd0	user_options->outfile_check_timer	5
+TOP.6a624bcb.0002fdd0	user_options->outfile_format	6
+TOP.6a624bcb.0002fdd0	user_options->outfile_json	0
+TOP.6a624bcb.0002fdd0	user_options->wordlist_autohex	1
+TOP.6a624bcb.0002fdd0	user_options->potfile	1
+TOP.6a624bcb.0002fdd0	user_options->progress_only	0
+TOP.6a624bcb.0002fdd0	user_options->quiet	0
+TOP.6a624bcb.0002fdd0	user_options->remove	0
+TOP.6a624bcb.0002fdd0	user_options->remove_timer	60
+TOP.6a624bcb.0002fdd0	user_options->restore	0
+TOP.6a624bcb.0002fdd0	user_options->restore_enable	1
+TOP.6a624bcb.0002fdd0	user_options->restore_timer	1
+TOP.6a624bcb.0002fdd0	user_options->rp_files_cnt	0
+TOP.6a624bcb.0002fdd0	user_options->rp_gen	0
+TOP.6a624bcb.0002fdd0	user_options->rp_gen_func_max	4
+TOP.6a624bcb.0002fdd0	user_options->rp_gen_func_min	1
+TOP.6a624bcb.0002fdd0	user_options->rp_gen_seed	0
+TOP.6a624bcb.0002fdd0	user_options->runtime	0
+TOP.6a624bcb.0002fdd0	user_options->scrypt_tmto	0
+TOP.6a624bcb.0002fdd0	user_options->segment_size	33554432
+TOP.6a624bcb.0002fdd0	user_options->self_test	1
+TOP.6a624bcb.0002fdd0	user_options->slow_candidates	0
+TOP.6a624bcb.0002fdd0	user_options->show	0
+TOP.6a624bcb.0002fdd0	user_options->speed_only	0
+TOP.6a624bcb.0002fdd0	user_options->spin_damp	0
+TOP.6a624bcb.0002fdd0	user_options->status	0
+TOP.6a624bcb.0002fdd0	user_options->status_json	0
+TOP.6a624bcb.0002fdd0	user_options->status_timer	10
+TOP.6a624bcb.0002fdd0	user_options->stdout_flag	0
+TOP.6a624bcb.0002fdd0	user_options->usage	0
+TOP.6a624bcb.0002fdd0	user_options->username	0
+TOP.6a624bcb.0002fdd0	user_options->veracrypt_pim_start	485
+TOP.6a624bcb.0002fdd0	user_options->veracrypt_pim_stop	485
+TOP.6a624bcb.0002fdd0	user_options->version	0
+TOP.6a624bcb.0002fdd0	user_options->workload_profile	2
+TOP.6a624bcb.0002fdd0	user_options->brain_client	0
+TOP.6a624bcb.0002fdd0	user_options->brain_client_features	2
+TOP.6a624bcb.0002fdd0	user_options->brain_server	0
+TOP.6a624bcb.0002fdd0	user_options->brain_server_timer	300
+TOP.6a624bcb.0002fdd0	user_options->brain_port	6863
+TOP.6a624bcb.0002fdd0	user_options->brain_session	0
+TOP.6a624bcb.0002fdd0	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\password_protected_file_clean.txt
+TOP.6a624bcb.0002fdd0	hashes->hashlist_mode	5
+TOP.6a624bcb.0002fdd0	hashes->hashlist_format	0
+TOP.6a624bcb.0002fdd0	hashes->hashes_cnt	0
+TOP.6a624bcb.0002fdd0	hashes->digests_cnt	1
+TOP.6a624bcb.0002fdd0	hashes->digests_done_pot	0
+TOP.6a624bcb.0002fdd0	hashes->digests_done_zero	0
+TOP.6a624bcb.0002fdd0	hashes->digests_done	0
+TOP.6a624bcb.0002fdd0	hashes->salts_cnt	1
+TOP.6a624bcb.0002fdd0	hashes->salts_done	0
+TOP.6a624bcb.0002fdd0	SUB.6a624bcd.00008e4b	START
+TOP.6a624bcb.0002fdd0	SUB.6a624bcd.00008e4b	mask_ctx->mask	?d
+TOP.6a624bcb.0002fdd0	SUB.6a624bcd.00008e4b	runtime_start	1784826829
+TOP.6a624bcb.0002fdd0	SUB.6a624bcd.00008e4b	runtime_stop	1784826829
+TOP.6a624bcb.0002fdd0	SUB.6a624bcd.00008e4b	hashes->digests_done_new	0
+TOP.6a624bcb.0002fdd0	SUB.6a624bcd.00008e4b	status-after-work	5
+TOP.6a624bcb.0002fdd0	SUB.6a624bcd.00008e4b	STOP
+TOP.6a624bcb.0002fdd0	SUB.6a624bcd.0009a7f0	START
+TOP.6a624bcb.0002fdd0	SUB.6a624bcd.0009a7f0	mask_ctx->mask	?d?d
+TOP.6a624bcb.0002fdd0	SUB.6a624bcd.0009a7f0	runtime_start	1784826829
+TOP.6a624bcb.0002fdd0	SUB.6a624bcd.0009a7f0	runtime_stop	1784826829
+TOP.6a624bcb.0002fdd0	SUB.6a624bcd.0009a7f0	hashes->digests_done_new	0
+TOP.6a624bcb.0002fdd0	SUB.6a624bcd.0009a7f0	status-after-work	5
+TOP.6a624bcb.0002fdd0	SUB.6a624bcd.0009a7f0	STOP
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.00006ca3	START
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.00006ca3	mask_ctx->mask	?d?d?d
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.00006ca3	runtime_start	1784826830
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.00006ca3	runtime_stop	1784826830
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.00006ca3	hashes->digests_done_new	0
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.00006ca3	status-after-work	5
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.00006ca3	STOP
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.0006b3e2	START
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.0006b3e2	mask_ctx->mask	?d?d?d?d
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.0006b3e2	runtime_start	1784826830
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.0006b3e2	runtime_stop	1784826830
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.0006b3e2	hashes->digests_done_new	0
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.0006b3e2	status-after-work	5
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.0006b3e2	STOP
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.000cac86	START
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.000cac86	mask_ctx->mask	?d?d?d?d?d
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.000cac86	runtime_start	1784826831
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.000cac86	runtime_stop	1784826831
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.000cac86	hashes->digests_done_new	0
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.000cac86	status-after-work	5
+TOP.6a624bcb.0002fdd0	SUB.6a624bce.000cac86	STOP
+TOP.6a624bcb.0002fdd0	SUB.6a624bcf.00032b07	START
+TOP.6a624bcb.0002fdd0	SUB.6a624bcf.00032b07	mask_ctx->mask	?d?d?d?d?d?d
+TOP.6a624bcb.0002fdd0	SUB.6a624bcf.00032b07	runtime_start	1784826831
+TOP.6a624bcb.0002fdd0	SUB.6a624bcf.00032b07	runtime_stop	1784826831
+TOP.6a624bcb.0002fdd0	SUB.6a624bcf.00032b07	hashes->digests_done_new	1
+TOP.6a624bcb.0002fdd0	SUB.6a624bcf.00032b07	status-after-work	6
+TOP.6a624bcb.0002fdd0	SUB.6a624bcf.00032b07	STOP
+TOP.6a624bcb.0002fdd0	proc_start	1784826827
+TOP.6a624bcb.0002fdd0	proc_stop	1784826832
+TOP.6a624bcb.0002fdd0	STOP
+TOP.6a624c00.0008f0ba	START
+TOP.6a624c00.0008f0ba	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a624c00.0008f0ba	folder_config->install_dir	.
+TOP.6a624c00.0008f0ba	folder_config->profile_dir	.
+TOP.6a624c00.0008f0ba	folder_config->session_dir	.
+TOP.6a624c00.0008f0ba	folder_config->shared_dir	.
+TOP.6a624c00.0008f0ba	user_options->encoding_from	utf-8
+TOP.6a624c00.0008f0ba	user_options->encoding_to	utf-8
+TOP.6a624c00.0008f0ba	user_options->rule_buf_l	:
+TOP.6a624c00.0008f0ba	user_options->rule_buf_r	:
+TOP.6a624c00.0008f0ba	user_options->session	hashcat
+TOP.6a624c00.0008f0ba	user_options->separator	:
+TOP.6a624c00.0008f0ba	user_options->limit	0
+TOP.6a624c00.0008f0ba	user_options->skip	0
+TOP.6a624c00.0008f0ba	user_options->attack_mode	3
+TOP.6a624c00.0008f0ba	user_options->backend_devices_virtmulti	1
+TOP.6a624c00.0008f0ba	user_options->backend_devices_virthost	1
+TOP.6a624c00.0008f0ba	user_options->backend_devices_keepfree	0
+TOP.6a624c00.0008f0ba	user_options->benchmark	0
+TOP.6a624c00.0008f0ba	user_options->benchmark_all	0
+TOP.6a624c00.0008f0ba	user_options->benchmark_max	99999
+TOP.6a624c00.0008f0ba	user_options->benchmark_min	0
+TOP.6a624c00.0008f0ba	user_options->bitmap_max	18
+TOP.6a624c00.0008f0ba	user_options->bitmap_min	16
+TOP.6a624c00.0008f0ba	user_options->debug_mode	0
+TOP.6a624c00.0008f0ba	user_options->dynamic_x	0
+TOP.6a624c00.0008f0ba	user_options->hash_info	0
+TOP.6a624c00.0008f0ba	user_options->force	1
+TOP.6a624c00.0008f0ba	user_options->hwmon	1
+TOP.6a624c00.0008f0ba	user_options->hwmon_temp_abort	90
+TOP.6a624c00.0008f0ba	user_options->hash_mode	10400
+TOP.6a624c00.0008f0ba	user_options->hex_charset	0
+TOP.6a624c00.0008f0ba	user_options->hex_salt	0
+TOP.6a624c00.0008f0ba	user_options->hex_wordlist	0
+TOP.6a624c00.0008f0ba	user_options->hook_threads	6
+TOP.6a624c00.0008f0ba	user_options->identify	0
+TOP.6a624c00.0008f0ba	user_options->increment	1
+TOP.6a624c00.0008f0ba	user_options->increment_max	256
+TOP.6a624c00.0008f0ba	user_options->increment_min	1
+TOP.6a624c00.0008f0ba	user_options->keep_guessing	0
+TOP.6a624c00.0008f0ba	user_options->kernel_accel	0
+TOP.6a624c00.0008f0ba	user_options->kernel_loops	0
+TOP.6a624c00.0008f0ba	user_options->kernel_threads	0
+TOP.6a624c00.0008f0ba	user_options->keyspace	0
+TOP.6a624c00.0008f0ba	user_options->total_candidates	0
+TOP.6a624c00.0008f0ba	user_options->left	0
+TOP.6a624c00.0008f0ba	user_options->logfile	1
+TOP.6a624c00.0008f0ba	user_options->loopback	0
+TOP.6a624c00.0008f0ba	user_options->machine_readable	0
+TOP.6a624c00.0008f0ba	user_options->markov_classic	0
+TOP.6a624c00.0008f0ba	user_options->markov	1
+TOP.6a624c00.0008f0ba	user_options->markov_inverse	0
+TOP.6a624c00.0008f0ba	user_options->markov_threshold	256
+TOP.6a624c00.0008f0ba	user_options->metal_compiler_runtime	120
+TOP.6a624c00.0008f0ba	user_options->multiply_accel	1
+TOP.6a624c00.0008f0ba	user_options->backend_info	0
+TOP.6a624c00.0008f0ba	user_options->backend_vector_width	0
+TOP.6a624c00.0008f0ba	user_options->optimized_kernel	1
+TOP.6a624c00.0008f0ba	user_options->outfile_autohex	1
+TOP.6a624c00.0008f0ba	user_options->outfile_check_timer	5
+TOP.6a624c00.0008f0ba	user_options->outfile_format	6
+TOP.6a624c00.0008f0ba	user_options->outfile_json	0
+TOP.6a624c00.0008f0ba	user_options->wordlist_autohex	1
+TOP.6a624c00.0008f0ba	user_options->potfile	1
+TOP.6a624c00.0008f0ba	user_options->progress_only	0
+TOP.6a624c00.0008f0ba	user_options->quiet	0
+TOP.6a624c00.0008f0ba	user_options->remove	0
+TOP.6a624c00.0008f0ba	user_options->remove_timer	60
+TOP.6a624c00.0008f0ba	user_options->restore	0
+TOP.6a624c00.0008f0ba	user_options->restore_enable	1
+TOP.6a624c00.0008f0ba	user_options->restore_timer	1
+TOP.6a624c00.0008f0ba	user_options->rp_files_cnt	0
+TOP.6a624c00.0008f0ba	user_options->rp_gen	0
+TOP.6a624c00.0008f0ba	user_options->rp_gen_func_max	4
+TOP.6a624c00.0008f0ba	user_options->rp_gen_func_min	1
+TOP.6a624c00.0008f0ba	user_options->rp_gen_seed	0
+TOP.6a624c00.0008f0ba	user_options->runtime	0
+TOP.6a624c00.0008f0ba	user_options->scrypt_tmto	0
+TOP.6a624c00.0008f0ba	user_options->segment_size	33554432
+TOP.6a624c00.0008f0ba	user_options->self_test	1
+TOP.6a624c00.0008f0ba	user_options->slow_candidates	0
+TOP.6a624c00.0008f0ba	user_options->show	0
+TOP.6a624c00.0008f0ba	user_options->speed_only	0
+TOP.6a624c00.0008f0ba	user_options->spin_damp	0
+TOP.6a624c00.0008f0ba	user_options->status	0
+TOP.6a624c00.0008f0ba	user_options->status_json	0
+TOP.6a624c00.0008f0ba	user_options->status_timer	10
+TOP.6a624c00.0008f0ba	user_options->stdout_flag	0
+TOP.6a624c00.0008f0ba	user_options->usage	0
+TOP.6a624c00.0008f0ba	user_options->username	0
+TOP.6a624c00.0008f0ba	user_options->veracrypt_pim_start	485
+TOP.6a624c00.0008f0ba	user_options->veracrypt_pim_stop	485
+TOP.6a624c00.0008f0ba	user_options->version	0
+TOP.6a624c00.0008f0ba	user_options->workload_profile	2
+TOP.6a624c00.0008f0ba	user_options->brain_client	0
+TOP.6a624c00.0008f0ba	user_options->brain_client_features	2
+TOP.6a624c00.0008f0ba	user_options->brain_server	0
+TOP.6a624c00.0008f0ba	user_options->brain_server_timer	300
+TOP.6a624c00.0008f0ba	user_options->brain_port	6863
+TOP.6a624c00.0008f0ba	user_options->brain_session	0
+TOP.6a624c00.0008f0ba	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\password_protected_file_clean.txt
+TOP.6a624c00.0008f0ba	hashes->hashlist_mode	5
+TOP.6a624c00.0008f0ba	hashes->hashlist_format	0
+TOP.6a624c00.0008f0ba	hashes->hashes_cnt	0
+TOP.6a624c00.0008f0ba	hashes->digests_cnt	1
+TOP.6a624c00.0008f0ba	hashes->digests_done_pot	0
+TOP.6a624c00.0008f0ba	hashes->digests_done_zero	0
+TOP.6a624c00.0008f0ba	hashes->digests_done	0
+TOP.6a624c00.0008f0ba	hashes->salts_cnt	1
+TOP.6a624c00.0008f0ba	hashes->salts_done	0
+TOP.6a624c00.0008f0ba	SUB.6a624c02.00004b21	START
+TOP.6a624c00.0008f0ba	SUB.6a624c02.00004b21	mask_ctx->mask	?d
+TOP.6a624c00.0008f0ba	SUB.6a624c02.00004b21	runtime_start	1784826882
+TOP.6a624c00.0008f0ba	SUB.6a624c02.00004b21	runtime_stop	1784826882
+TOP.6a624c00.0008f0ba	SUB.6a624c02.00004b21	hashes->digests_done_new	0
+TOP.6a624c00.0008f0ba	SUB.6a624c02.00004b21	status-after-work	5
+TOP.6a624c00.0008f0ba	SUB.6a624c02.00004b21	STOP
+TOP.6a624c00.0008f0ba	SUB.6a624c02.00080298	START
+TOP.6a624c00.0008f0ba	SUB.6a624c02.00080298	mask_ctx->mask	?d?d
+TOP.6a624c00.0008f0ba	SUB.6a624c02.00080298	runtime_start	1784826882
+TOP.6a624c00.0008f0ba	SUB.6a624c02.00080298	runtime_stop	1784826882
+TOP.6a624c00.0008f0ba	SUB.6a624c02.00080298	hashes->digests_done_new	0
+TOP.6a624c00.0008f0ba	SUB.6a624c02.00080298	status-after-work	5
+TOP.6a624c00.0008f0ba	SUB.6a624c02.00080298	STOP
+TOP.6a624c00.0008f0ba	SUB.6a624c02.000dde1c	START
+TOP.6a624c00.0008f0ba	SUB.6a624c02.000dde1c	mask_ctx->mask	?d?d?d
+TOP.6a624c00.0008f0ba	SUB.6a624c02.000dde1c	runtime_start	1784826883
+TOP.6a624c00.0008f0ba	SUB.6a624c02.000dde1c	runtime_stop	1784826883
+TOP.6a624c00.0008f0ba	SUB.6a624c02.000dde1c	hashes->digests_done_new	0
+TOP.6a624c00.0008f0ba	SUB.6a624c02.000dde1c	status-after-work	5
+TOP.6a624c00.0008f0ba	SUB.6a624c02.000dde1c	STOP
+TOP.6a624c00.0008f0ba	SUB.6a624c03.0004192d	START
+TOP.6a624c00.0008f0ba	SUB.6a624c03.0004192d	mask_ctx->mask	?d?d?d?d
+TOP.6a624c00.0008f0ba	SUB.6a624c03.0004192d	runtime_start	1784826883
+TOP.6a624c00.0008f0ba	SUB.6a624c03.0004192d	runtime_stop	1784826883
+TOP.6a624c00.0008f0ba	SUB.6a624c03.0004192d	hashes->digests_done_new	0
+TOP.6a624c00.0008f0ba	SUB.6a624c03.0004192d	status-after-work	5
+TOP.6a624c00.0008f0ba	SUB.6a624c03.0004192d	STOP
+TOP.6a624c00.0008f0ba	SUB.6a624c03.000980e9	START
+TOP.6a624c00.0008f0ba	SUB.6a624c03.000980e9	mask_ctx->mask	?d?d?d?d?d
+TOP.6a624c00.0008f0ba	SUB.6a624c03.000980e9	runtime_start	1784826883
+TOP.6a624c00.0008f0ba	SUB.6a624c03.000980e9	runtime_stop	1784826883
+TOP.6a624c00.0008f0ba	SUB.6a624c03.000980e9	hashes->digests_done_new	0
+TOP.6a624c00.0008f0ba	SUB.6a624c03.000980e9	status-after-work	5
+TOP.6a624c00.0008f0ba	SUB.6a624c03.000980e9	STOP
+TOP.6a624c00.0008f0ba	SUB.6a624c03.000eb0c2	START
+TOP.6a624c00.0008f0ba	SUB.6a624c03.000eb0c2	mask_ctx->mask	?d?d?d?d?d?d
+TOP.6a624c00.0008f0ba	SUB.6a624c03.000eb0c2	runtime_start	1784826884
+TOP.6a624c00.0008f0ba	SUB.6a624c03.000eb0c2	runtime_stop	1784826884
+TOP.6a624c00.0008f0ba	SUB.6a624c03.000eb0c2	hashes->digests_done_new	1
+TOP.6a624c00.0008f0ba	SUB.6a624c03.000eb0c2	status-after-work	6
+TOP.6a624c00.0008f0ba	SUB.6a624c03.000eb0c2	STOP
+TOP.6a624c00.0008f0ba	proc_start	1784826880
+TOP.6a624c00.0008f0ba	proc_stop	1784826885
+TOP.6a624c00.0008f0ba	STOP
+TOP.6a624f50.00073dca	START
+TOP.6a624f50.00073dca	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a624f50.00073dca	folder_config->install_dir	.
+TOP.6a624f50.00073dca	folder_config->profile_dir	.
+TOP.6a624f50.00073dca	folder_config->session_dir	.
+TOP.6a624f50.00073dca	folder_config->shared_dir	.
+TOP.6a624f50.00073dca	user_options->encoding_from	utf-8
+TOP.6a624f50.00073dca	user_options->encoding_to	utf-8
+TOP.6a624f50.00073dca	user_options->rule_buf_l	:
+TOP.6a624f50.00073dca	user_options->rule_buf_r	:
+TOP.6a624f50.00073dca	user_options->session	hashcat
+TOP.6a624f50.00073dca	user_options->separator	:
+TOP.6a624f50.00073dca	user_options->limit	0
+TOP.6a624f50.00073dca	user_options->skip	0
+TOP.6a624f50.00073dca	user_options->attack_mode	3
+TOP.6a624f50.00073dca	user_options->backend_devices_virtmulti	1
+TOP.6a624f50.00073dca	user_options->backend_devices_virthost	1
+TOP.6a624f50.00073dca	user_options->backend_devices_keepfree	0
+TOP.6a624f50.00073dca	user_options->benchmark	0
+TOP.6a624f50.00073dca	user_options->benchmark_all	0
+TOP.6a624f50.00073dca	user_options->benchmark_max	99999
+TOP.6a624f50.00073dca	user_options->benchmark_min	0
+TOP.6a624f50.00073dca	user_options->bitmap_max	18
+TOP.6a624f50.00073dca	user_options->bitmap_min	16
+TOP.6a624f50.00073dca	user_options->debug_mode	0
+TOP.6a624f50.00073dca	user_options->dynamic_x	0
+TOP.6a624f50.00073dca	user_options->hash_info	0
+TOP.6a624f50.00073dca	user_options->force	1
+TOP.6a624f50.00073dca	user_options->hwmon	1
+TOP.6a624f50.00073dca	user_options->hwmon_temp_abort	90
+TOP.6a624f50.00073dca	user_options->hash_mode	10400
+TOP.6a624f50.00073dca	user_options->hex_charset	0
+TOP.6a624f50.00073dca	user_options->hex_salt	0
+TOP.6a624f50.00073dca	user_options->hex_wordlist	0
+TOP.6a624f50.00073dca	user_options->hook_threads	6
+TOP.6a624f50.00073dca	user_options->identify	0
+TOP.6a624f50.00073dca	user_options->increment	1
+TOP.6a624f50.00073dca	user_options->increment_max	256
+TOP.6a624f50.00073dca	user_options->increment_min	1
+TOP.6a624f50.00073dca	user_options->keep_guessing	0
+TOP.6a624f50.00073dca	user_options->kernel_accel	0
+TOP.6a624f50.00073dca	user_options->kernel_loops	0
+TOP.6a624f50.00073dca	user_options->kernel_threads	0
+TOP.6a624f50.00073dca	user_options->keyspace	0
+TOP.6a624f50.00073dca	user_options->total_candidates	0
+TOP.6a624f50.00073dca	user_options->left	0
+TOP.6a624f50.00073dca	user_options->logfile	1
+TOP.6a624f50.00073dca	user_options->loopback	0
+TOP.6a624f50.00073dca	user_options->machine_readable	0
+TOP.6a624f50.00073dca	user_options->markov_classic	0
+TOP.6a624f50.00073dca	user_options->markov	1
+TOP.6a624f50.00073dca	user_options->markov_inverse	0
+TOP.6a624f50.00073dca	user_options->markov_threshold	256
+TOP.6a624f50.00073dca	user_options->metal_compiler_runtime	120
+TOP.6a624f50.00073dca	user_options->multiply_accel	1
+TOP.6a624f50.00073dca	user_options->backend_info	0
+TOP.6a624f50.00073dca	user_options->backend_vector_width	0
+TOP.6a624f50.00073dca	user_options->optimized_kernel	1
+TOP.6a624f50.00073dca	user_options->outfile_autohex	1
+TOP.6a624f50.00073dca	user_options->outfile_check_timer	5
+TOP.6a624f50.00073dca	user_options->outfile_format	6
+TOP.6a624f50.00073dca	user_options->outfile_json	0
+TOP.6a624f50.00073dca	user_options->wordlist_autohex	1
+TOP.6a624f50.00073dca	user_options->potfile	1
+TOP.6a624f50.00073dca	user_options->progress_only	0
+TOP.6a624f50.00073dca	user_options->quiet	0
+TOP.6a624f50.00073dca	user_options->remove	0
+TOP.6a624f50.00073dca	user_options->remove_timer	60
+TOP.6a624f50.00073dca	user_options->restore	0
+TOP.6a624f50.00073dca	user_options->restore_enable	1
+TOP.6a624f50.00073dca	user_options->restore_timer	1
+TOP.6a624f50.00073dca	user_options->rp_files_cnt	0
+TOP.6a624f50.00073dca	user_options->rp_gen	0
+TOP.6a624f50.00073dca	user_options->rp_gen_func_max	4
+TOP.6a624f50.00073dca	user_options->rp_gen_func_min	1
+TOP.6a624f50.00073dca	user_options->rp_gen_seed	0
+TOP.6a624f50.00073dca	user_options->runtime	0
+TOP.6a624f50.00073dca	user_options->scrypt_tmto	0
+TOP.6a624f50.00073dca	user_options->segment_size	33554432
+TOP.6a624f50.00073dca	user_options->self_test	1
+TOP.6a624f50.00073dca	user_options->slow_candidates	0
+TOP.6a624f50.00073dca	user_options->show	0
+TOP.6a624f50.00073dca	user_options->speed_only	0
+TOP.6a624f50.00073dca	user_options->spin_damp	0
+TOP.6a624f50.00073dca	user_options->status	0
+TOP.6a624f50.00073dca	user_options->status_json	0
+TOP.6a624f50.00073dca	user_options->status_timer	10
+TOP.6a624f50.00073dca	user_options->stdout_flag	0
+TOP.6a624f50.00073dca	user_options->usage	0
+TOP.6a624f50.00073dca	user_options->username	0
+TOP.6a624f50.00073dca	user_options->veracrypt_pim_start	485
+TOP.6a624f50.00073dca	user_options->veracrypt_pim_stop	485
+TOP.6a624f50.00073dca	user_options->version	0
+TOP.6a624f50.00073dca	user_options->workload_profile	2
+TOP.6a624f50.00073dca	user_options->brain_client	0
+TOP.6a624f50.00073dca	user_options->brain_client_features	2
+TOP.6a624f50.00073dca	user_options->brain_server	0
+TOP.6a624f50.00073dca	user_options->brain_server_timer	300
+TOP.6a624f50.00073dca	user_options->brain_port	6863
+TOP.6a624f50.00073dca	user_options->brain_session	0
+TOP.6a624f50.00073dca	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\10 lakhs + Bundle _clean.txt
+TOP.6a624f50.00073dca	hashes->hashlist_mode	5
+TOP.6a624f50.00073dca	hashes->hashlist_format	0
+TOP.6a624f50.00073dca	hashes->hashes_cnt	0
+TOP.6a624f50.00073dca	hashes->digests_cnt	1
+TOP.6a624f50.00073dca	hashes->digests_done_pot	0
+TOP.6a624f50.00073dca	hashes->digests_done_zero	0
+TOP.6a624f50.00073dca	hashes->digests_done	0
+TOP.6a624f50.00073dca	hashes->salts_cnt	1
+TOP.6a624f50.00073dca	hashes->salts_done	0
+TOP.6a624f50.00073dca	SUB.6a624f51.0007e61a	START
+TOP.6a624f50.00073dca	SUB.6a624f51.0007e61a	mask_ctx->mask	?d
+TOP.6a624f50.00073dca	SUB.6a624f51.0007e61a	runtime_start	1784827729
+TOP.6a624f50.00073dca	SUB.6a624f51.0007e61a	runtime_stop	1784827729
+TOP.6a624f50.00073dca	SUB.6a624f51.0007e61a	hashes->digests_done_new	0
+TOP.6a624f50.00073dca	SUB.6a624f51.0007e61a	status-after-work	5
+TOP.6a624f50.00073dca	SUB.6a624f51.0007e61a	STOP
+TOP.6a624f50.00073dca	SUB.6a624f51.000d6fd9	START
+TOP.6a624f50.00073dca	SUB.6a624f51.000d6fd9	mask_ctx->mask	?d?d
+TOP.6a624f50.00073dca	SUB.6a624f51.000d6fd9	runtime_start	1784827730
+TOP.6a624f50.00073dca	SUB.6a624f51.000d6fd9	runtime_stop	1784827730
+TOP.6a624f50.00073dca	SUB.6a624f51.000d6fd9	hashes->digests_done_new	0
+TOP.6a624f50.00073dca	SUB.6a624f51.000d6fd9	status-after-work	5
+TOP.6a624f50.00073dca	SUB.6a624f51.000d6fd9	STOP
+TOP.6a624f50.00073dca	SUB.6a624f52.0003594d	START
+TOP.6a624f50.00073dca	SUB.6a624f52.0003594d	mask_ctx->mask	?d?d?d
+TOP.6a624f50.00073dca	SUB.6a624f52.0003594d	runtime_start	1784827730
+TOP.6a624f50.00073dca	SUB.6a624f52.0003594d	runtime_stop	1784827730
+TOP.6a624f50.00073dca	SUB.6a624f52.0003594d	hashes->digests_done_new	0
+TOP.6a624f50.00073dca	SUB.6a624f52.0003594d	status-after-work	5
+TOP.6a624f50.00073dca	SUB.6a624f52.0003594d	STOP
+TOP.6a624f50.00073dca	SUB.6a624f52.0008a417	START
+TOP.6a624f50.00073dca	SUB.6a624f52.0008a417	mask_ctx->mask	?d?d?d?d
+TOP.6a624f50.00073dca	SUB.6a624f52.0008a417	runtime_start	1784827730
+TOP.6a624f50.00073dca	SUB.6a624f52.0008a417	runtime_stop	1784827730
+TOP.6a624f50.00073dca	SUB.6a624f52.0008a417	hashes->digests_done_new	0
+TOP.6a624f50.00073dca	SUB.6a624f52.0008a417	status-after-work	5
+TOP.6a624f50.00073dca	SUB.6a624f52.0008a417	STOP
+TOP.6a624f50.00073dca	SUB.6a624f52.000e0547	START
+TOP.6a624f50.00073dca	SUB.6a624f52.000e0547	mask_ctx->mask	?d?d?d?d?d
+TOP.6a624f50.00073dca	SUB.6a624f52.000e0547	runtime_start	1784827731
+TOP.6a624f50.00073dca	SUB.6a624f52.000e0547	runtime_stop	1784827731
+TOP.6a624f50.00073dca	SUB.6a624f52.000e0547	hashes->digests_done_new	0
+TOP.6a624f50.00073dca	SUB.6a624f52.000e0547	status-after-work	5
+TOP.6a624f50.00073dca	SUB.6a624f52.000e0547	STOP
+TOP.6a624f50.00073dca	SUB.6a624f53.0004332b	START
+TOP.6a624f50.00073dca	SUB.6a624f53.0004332b	mask_ctx->mask	?d?d?d?d?d?d
+TOP.6a624f50.00073dca	SUB.6a624f53.0004332b	runtime_start	1784827731
+TOP.6a624f50.00073dca	SUB.6a624f53.0004332b	runtime_stop	1784827731
+TOP.6a624f50.00073dca	SUB.6a624f53.0004332b	hashes->digests_done_new	1
+TOP.6a624f50.00073dca	SUB.6a624f53.0004332b	status-after-work	6
+TOP.6a624f50.00073dca	SUB.6a624f53.0004332b	STOP
+TOP.6a624f50.00073dca	proc_start	1784827728
+TOP.6a624f50.00073dca	proc_stop	1784827732
+TOP.6a624f50.00073dca	STOP
+TOP.6a6252f6.00098400	START
+TOP.6a6252f6.00098400	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a6252f6.00098400	folder_config->install_dir	.
+TOP.6a6252f6.00098400	folder_config->profile_dir	.
+TOP.6a6252f6.00098400	folder_config->session_dir	.
+TOP.6a6252f6.00098400	folder_config->shared_dir	.
+TOP.6a6252f6.00098400	user_options->encoding_from	utf-8
+TOP.6a6252f6.00098400	user_options->encoding_to	utf-8
+TOP.6a6252f6.00098400	user_options->rule_buf_l	:
+TOP.6a6252f6.00098400	user_options->rule_buf_r	:
+TOP.6a6252f6.00098400	user_options->session	hashcat
+TOP.6a6252f6.00098400	user_options->separator	:
+TOP.6a6252f6.00098400	user_options->limit	0
+TOP.6a6252f6.00098400	user_options->skip	0
+TOP.6a6252f6.00098400	user_options->attack_mode	3
+TOP.6a6252f6.00098400	user_options->backend_devices_virtmulti	1
+TOP.6a6252f6.00098400	user_options->backend_devices_virthost	1
+TOP.6a6252f6.00098400	user_options->backend_devices_keepfree	0
+TOP.6a6252f6.00098400	user_options->benchmark	0
+TOP.6a6252f6.00098400	user_options->benchmark_all	0
+TOP.6a6252f6.00098400	user_options->benchmark_max	99999
+TOP.6a6252f6.00098400	user_options->benchmark_min	0
+TOP.6a6252f6.00098400	user_options->bitmap_max	18
+TOP.6a6252f6.00098400	user_options->bitmap_min	16
+TOP.6a6252f6.00098400	user_options->debug_mode	0
+TOP.6a6252f6.00098400	user_options->dynamic_x	0
+TOP.6a6252f6.00098400	user_options->hash_info	0
+TOP.6a6252f6.00098400	user_options->force	1
+TOP.6a6252f6.00098400	user_options->hwmon	1
+TOP.6a6252f6.00098400	user_options->hwmon_temp_abort	90
+TOP.6a6252f6.00098400	user_options->hash_mode	10400
+TOP.6a6252f6.00098400	user_options->hex_charset	0
+TOP.6a6252f6.00098400	user_options->hex_salt	0
+TOP.6a6252f6.00098400	user_options->hex_wordlist	0
+TOP.6a6252f6.00098400	user_options->hook_threads	6
+TOP.6a6252f6.00098400	user_options->identify	0
+TOP.6a6252f6.00098400	user_options->increment	1
+TOP.6a6252f6.00098400	user_options->increment_max	256
+TOP.6a6252f6.00098400	user_options->increment_min	1
+TOP.6a6252f6.00098400	user_options->keep_guessing	0
+TOP.6a6252f6.00098400	user_options->kernel_accel	0
+TOP.6a6252f6.00098400	user_options->kernel_loops	0
+TOP.6a6252f6.00098400	user_options->kernel_threads	0
+TOP.6a6252f6.00098400	user_options->keyspace	0
+TOP.6a6252f6.00098400	user_options->total_candidates	0
+TOP.6a6252f6.00098400	user_options->left	0
+TOP.6a6252f6.00098400	user_options->logfile	1
+TOP.6a6252f6.00098400	user_options->loopback	0
+TOP.6a6252f6.00098400	user_options->machine_readable	0
+TOP.6a6252f6.00098400	user_options->markov_classic	0
+TOP.6a6252f6.00098400	user_options->markov	1
+TOP.6a6252f6.00098400	user_options->markov_inverse	0
+TOP.6a6252f6.00098400	user_options->markov_threshold	256
+TOP.6a6252f6.00098400	user_options->metal_compiler_runtime	120
+TOP.6a6252f6.00098400	user_options->multiply_accel	1
+TOP.6a6252f6.00098400	user_options->backend_info	0
+TOP.6a6252f6.00098400	user_options->backend_vector_width	0
+TOP.6a6252f6.00098400	user_options->optimized_kernel	1
+TOP.6a6252f6.00098400	user_options->outfile_autohex	1
+TOP.6a6252f6.00098400	user_options->outfile_check_timer	5
+TOP.6a6252f6.00098400	user_options->outfile_format	6
+TOP.6a6252f6.00098400	user_options->outfile_json	0
+TOP.6a6252f6.00098400	user_options->wordlist_autohex	1
+TOP.6a6252f6.00098400	user_options->potfile	1
+TOP.6a6252f6.00098400	user_options->progress_only	0
+TOP.6a6252f6.00098400	user_options->quiet	0
+TOP.6a6252f6.00098400	user_options->remove	0
+TOP.6a6252f6.00098400	user_options->remove_timer	60
+TOP.6a6252f6.00098400	user_options->restore	0
+TOP.6a6252f6.00098400	user_options->restore_enable	1
+TOP.6a6252f6.00098400	user_options->restore_timer	1
+TOP.6a6252f6.00098400	user_options->rp_files_cnt	0
+TOP.6a6252f6.00098400	user_options->rp_gen	0
+TOP.6a6252f6.00098400	user_options->rp_gen_func_max	4
+TOP.6a6252f6.00098400	user_options->rp_gen_func_min	1
+TOP.6a6252f6.00098400	user_options->rp_gen_seed	0
+TOP.6a6252f6.00098400	user_options->runtime	0
+TOP.6a6252f6.00098400	user_options->scrypt_tmto	0
+TOP.6a6252f6.00098400	user_options->segment_size	33554432
+TOP.6a6252f6.00098400	user_options->self_test	1
+TOP.6a6252f6.00098400	user_options->slow_candidates	0
+TOP.6a6252f6.00098400	user_options->show	0
+TOP.6a6252f6.00098400	user_options->speed_only	0
+TOP.6a6252f6.00098400	user_options->spin_damp	0
+TOP.6a6252f6.00098400	user_options->status	0
+TOP.6a6252f6.00098400	user_options->status_json	0
+TOP.6a6252f6.00098400	user_options->status_timer	10
+TOP.6a6252f6.00098400	user_options->stdout_flag	0
+TOP.6a6252f6.00098400	user_options->usage	0
+TOP.6a6252f6.00098400	user_options->username	0
+TOP.6a6252f6.00098400	user_options->veracrypt_pim_start	485
+TOP.6a6252f6.00098400	user_options->veracrypt_pim_stop	485
+TOP.6a6252f6.00098400	user_options->version	0
+TOP.6a6252f6.00098400	user_options->workload_profile	2
+TOP.6a6252f6.00098400	user_options->brain_client	0
+TOP.6a6252f6.00098400	user_options->brain_client_features	2
+TOP.6a6252f6.00098400	user_options->brain_server	0
+TOP.6a6252f6.00098400	user_options->brain_server_timer	300
+TOP.6a6252f6.00098400	user_options->brain_port	6863
+TOP.6a6252f6.00098400	user_options->brain_session	0
+TOP.6a6252f6.00098400	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\100000 + Reels Bundle _clean.txt
+TOP.6a6252f6.00098400	hashes->hashlist_mode	5
+TOP.6a6252f6.00098400	hashes->hashlist_format	0
+TOP.6a6252f6.00098400	hashes->hashes_cnt	0
+TOP.6a6252f6.00098400	hashes->digests_cnt	1
+TOP.6a6252f6.00098400	hashes->digests_done_pot	0
+TOP.6a6252f6.00098400	hashes->digests_done_zero	0
+TOP.6a6252f6.00098400	hashes->digests_done	0
+TOP.6a6252f6.00098400	hashes->salts_cnt	1
+TOP.6a6252f6.00098400	hashes->salts_done	0
+TOP.6a6252f6.00098400	SUB.6a6252f7.000a70a6	START
+TOP.6a6252f6.00098400	SUB.6a6252f7.000a70a6	mask_ctx->mask	?d
+TOP.6a6252f6.00098400	SUB.6a6252f7.000a70a6	runtime_start	1784828664
+TOP.6a6252f6.00098400	SUB.6a6252f7.000a70a6	runtime_stop	1784828664
+TOP.6a6252f6.00098400	SUB.6a6252f7.000a70a6	hashes->digests_done_new	0
+TOP.6a6252f6.00098400	SUB.6a6252f7.000a70a6	status-after-work	5
+TOP.6a6252f6.00098400	SUB.6a6252f7.000a70a6	STOP
+TOP.6a6252f6.00098400	SUB.6a6252f8.00025c81	START
+TOP.6a6252f6.00098400	SUB.6a6252f8.00025c81	mask_ctx->mask	?d?d
+TOP.6a6252f6.00098400	SUB.6a6252f8.00025c81	runtime_start	1784828664
+TOP.6a6252f6.00098400	SUB.6a6252f8.00025c81	runtime_stop	1784828664
+TOP.6a6252f6.00098400	SUB.6a6252f8.00025c81	hashes->digests_done_new	0
+TOP.6a6252f6.00098400	SUB.6a6252f8.00025c81	status-after-work	5
+TOP.6a6252f6.00098400	SUB.6a6252f8.00025c81	STOP
+TOP.6a6252f6.00098400	SUB.6a6252f8.0007fb5c	START
+TOP.6a6252f6.00098400	SUB.6a6252f8.0007fb5c	mask_ctx->mask	?d?d?d
+TOP.6a6252f6.00098400	SUB.6a6252f8.0007fb5c	runtime_start	1784828664
+TOP.6a6252f6.00098400	SUB.6a6252f8.0007fb5c	runtime_stop	1784828664
+TOP.6a6252f6.00098400	SUB.6a6252f8.0007fb5c	hashes->digests_done_new	0
+TOP.6a6252f6.00098400	SUB.6a6252f8.0007fb5c	status-after-work	5
+TOP.6a6252f6.00098400	SUB.6a6252f8.0007fb5c	STOP
+TOP.6a6252f6.00098400	SUB.6a6252f8.000dda3a	START
+TOP.6a6252f6.00098400	SUB.6a6252f8.000dda3a	mask_ctx->mask	?d?d?d?d
+TOP.6a6252f6.00098400	SUB.6a6252f8.000dda3a	runtime_start	1784828665
+TOP.6a6252f6.00098400	SUB.6a6252f8.000dda3a	runtime_stop	1784828665
+TOP.6a6252f6.00098400	SUB.6a6252f8.000dda3a	hashes->digests_done_new	1
+TOP.6a6252f6.00098400	SUB.6a6252f8.000dda3a	status-after-work	6
+TOP.6a6252f6.00098400	SUB.6a6252f8.000dda3a	STOP
+TOP.6a6252f6.00098400	proc_start	1784828662
+TOP.6a6252f6.00098400	proc_stop	1784828665
+TOP.6a6252f6.00098400	STOP
+TOP.6a62533a.00010e3c	START
+TOP.6a62533a.00010e3c	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a62533a.00010e3c	folder_config->install_dir	.
+TOP.6a62533a.00010e3c	folder_config->profile_dir	.
+TOP.6a62533a.00010e3c	folder_config->session_dir	.
+TOP.6a62533a.00010e3c	folder_config->shared_dir	.
+TOP.6a62533a.00010e3c	user_options->encoding_from	utf-8
+TOP.6a62533a.00010e3c	user_options->encoding_to	utf-8
+TOP.6a62533a.00010e3c	user_options->rule_buf_l	:
+TOP.6a62533a.00010e3c	user_options->rule_buf_r	:
+TOP.6a62533a.00010e3c	user_options->session	hashcat
+TOP.6a62533a.00010e3c	user_options->separator	:
+TOP.6a62533a.00010e3c	user_options->limit	0
+TOP.6a62533a.00010e3c	user_options->skip	0
+TOP.6a62533a.00010e3c	user_options->attack_mode	3
+TOP.6a62533a.00010e3c	user_options->backend_devices_virtmulti	1
+TOP.6a62533a.00010e3c	user_options->backend_devices_virthost	1
+TOP.6a62533a.00010e3c	user_options->backend_devices_keepfree	0
+TOP.6a62533a.00010e3c	user_options->benchmark	0
+TOP.6a62533a.00010e3c	user_options->benchmark_all	0
+TOP.6a62533a.00010e3c	user_options->benchmark_max	99999
+TOP.6a62533a.00010e3c	user_options->benchmark_min	0
+TOP.6a62533a.00010e3c	user_options->bitmap_max	18
+TOP.6a62533a.00010e3c	user_options->bitmap_min	16
+TOP.6a62533a.00010e3c	user_options->debug_mode	0
+TOP.6a62533a.00010e3c	user_options->dynamic_x	0
+TOP.6a62533a.00010e3c	user_options->hash_info	0
+TOP.6a62533a.00010e3c	user_options->force	1
+TOP.6a62533a.00010e3c	user_options->hwmon	1
+TOP.6a62533a.00010e3c	user_options->hwmon_temp_abort	90
+TOP.6a62533a.00010e3c	user_options->hash_mode	10400
+TOP.6a62533a.00010e3c	user_options->hex_charset	0
+TOP.6a62533a.00010e3c	user_options->hex_salt	0
+TOP.6a62533a.00010e3c	user_options->hex_wordlist	0
+TOP.6a62533a.00010e3c	user_options->hook_threads	6
+TOP.6a62533a.00010e3c	user_options->identify	0
+TOP.6a62533a.00010e3c	user_options->increment	1
+TOP.6a62533a.00010e3c	user_options->increment_max	256
+TOP.6a62533a.00010e3c	user_options->increment_min	1
+TOP.6a62533a.00010e3c	user_options->keep_guessing	0
+TOP.6a62533a.00010e3c	user_options->kernel_accel	0
+TOP.6a62533a.00010e3c	user_options->kernel_loops	0
+TOP.6a62533a.00010e3c	user_options->kernel_threads	0
+TOP.6a62533a.00010e3c	user_options->keyspace	0
+TOP.6a62533a.00010e3c	user_options->total_candidates	0
+TOP.6a62533a.00010e3c	user_options->left	0
+TOP.6a62533a.00010e3c	user_options->logfile	1
+TOP.6a62533a.00010e3c	user_options->loopback	0
+TOP.6a62533a.00010e3c	user_options->machine_readable	0
+TOP.6a62533a.00010e3c	user_options->markov_classic	0
+TOP.6a62533a.00010e3c	user_options->markov	1
+TOP.6a62533a.00010e3c	user_options->markov_inverse	0
+TOP.6a62533a.00010e3c	user_options->markov_threshold	256
+TOP.6a62533a.00010e3c	user_options->metal_compiler_runtime	120
+TOP.6a62533a.00010e3c	user_options->multiply_accel	1
+TOP.6a62533a.00010e3c	user_options->backend_info	0
+TOP.6a62533a.00010e3c	user_options->backend_vector_width	0
+TOP.6a62533a.00010e3c	user_options->optimized_kernel	1
+TOP.6a62533a.00010e3c	user_options->outfile_autohex	1
+TOP.6a62533a.00010e3c	user_options->outfile_check_timer	5
+TOP.6a62533a.00010e3c	user_options->outfile_format	6
+TOP.6a62533a.00010e3c	user_options->outfile_json	0
+TOP.6a62533a.00010e3c	user_options->wordlist_autohex	1
+TOP.6a62533a.00010e3c	user_options->potfile	1
+TOP.6a62533a.00010e3c	user_options->progress_only	0
+TOP.6a62533a.00010e3c	user_options->quiet	0
+TOP.6a62533a.00010e3c	user_options->remove	0
+TOP.6a62533a.00010e3c	user_options->remove_timer	60
+TOP.6a62533a.00010e3c	user_options->restore	0
+TOP.6a62533a.00010e3c	user_options->restore_enable	1
+TOP.6a62533a.00010e3c	user_options->restore_timer	1
+TOP.6a62533a.00010e3c	user_options->rp_files_cnt	0
+TOP.6a62533a.00010e3c	user_options->rp_gen	0
+TOP.6a62533a.00010e3c	user_options->rp_gen_func_max	4
+TOP.6a62533a.00010e3c	user_options->rp_gen_func_min	1
+TOP.6a62533a.00010e3c	user_options->rp_gen_seed	0
+TOP.6a62533a.00010e3c	user_options->runtime	0
+TOP.6a62533a.00010e3c	user_options->scrypt_tmto	0
+TOP.6a62533a.00010e3c	user_options->segment_size	33554432
+TOP.6a62533a.00010e3c	user_options->self_test	1
+TOP.6a62533a.00010e3c	user_options->slow_candidates	0
+TOP.6a62533a.00010e3c	user_options->show	0
+TOP.6a62533a.00010e3c	user_options->speed_only	0
+TOP.6a62533a.00010e3c	user_options->spin_damp	0
+TOP.6a62533a.00010e3c	user_options->status	0
+TOP.6a62533a.00010e3c	user_options->status_json	0
+TOP.6a62533a.00010e3c	user_options->status_timer	10
+TOP.6a62533a.00010e3c	user_options->stdout_flag	0
+TOP.6a62533a.00010e3c	user_options->usage	0
+TOP.6a62533a.00010e3c	user_options->username	0
+TOP.6a62533a.00010e3c	user_options->veracrypt_pim_start	485
+TOP.6a62533a.00010e3c	user_options->veracrypt_pim_stop	485
+TOP.6a62533a.00010e3c	user_options->version	0
+TOP.6a62533a.00010e3c	user_options->workload_profile	2
+TOP.6a62533a.00010e3c	user_options->brain_client	0
+TOP.6a62533a.00010e3c	user_options->brain_client_features	2
+TOP.6a62533a.00010e3c	user_options->brain_server	0
+TOP.6a62533a.00010e3c	user_options->brain_server_timer	300
+TOP.6a62533a.00010e3c	user_options->brain_port	6863
+TOP.6a62533a.00010e3c	user_options->brain_session	0
+TOP.6a62533a.00010e3c	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\Ben10 reels bundle _clean.txt
+TOP.6a62533a.00010e3c	hashes->hashlist_mode	5
+TOP.6a62533a.00010e3c	hashes->hashlist_format	0
+TOP.6a62533a.00010e3c	hashes->hashes_cnt	0
+TOP.6a62533a.00010e3c	hashes->digests_cnt	1
+TOP.6a62533a.00010e3c	hashes->digests_done_pot	0
+TOP.6a62533a.00010e3c	hashes->digests_done_zero	0
+TOP.6a62533a.00010e3c	hashes->digests_done	0
+TOP.6a62533a.00010e3c	hashes->salts_cnt	1
+TOP.6a62533a.00010e3c	hashes->salts_done	0
+TOP.6a62533a.00010e3c	SUB.6a62533b.0001b171	START
+TOP.6a62533a.00010e3c	SUB.6a62533b.0001b171	mask_ctx->mask	?d
+TOP.6a62533a.00010e3c	SUB.6a62533b.0001b171	runtime_start	1784828731
+TOP.6a62533a.00010e3c	SUB.6a62533b.0001b171	runtime_stop	1784828731
+TOP.6a62533a.00010e3c	SUB.6a62533b.0001b171	hashes->digests_done_new	0
+TOP.6a62533a.00010e3c	SUB.6a62533b.0001b171	status-after-work	5
+TOP.6a62533a.00010e3c	SUB.6a62533b.0001b171	STOP
+TOP.6a62533a.00010e3c	SUB.6a62533b.00079f9e	START
+TOP.6a62533a.00010e3c	SUB.6a62533b.00079f9e	mask_ctx->mask	?d?d
+TOP.6a62533a.00010e3c	SUB.6a62533b.00079f9e	runtime_start	1784828731
+TOP.6a62533a.00010e3c	SUB.6a62533b.00079f9e	runtime_stop	1784828731
+TOP.6a62533a.00010e3c	SUB.6a62533b.00079f9e	hashes->digests_done_new	0
+TOP.6a62533a.00010e3c	SUB.6a62533b.00079f9e	status-after-work	5
+TOP.6a62533a.00010e3c	SUB.6a62533b.00079f9e	STOP
+TOP.6a62533a.00010e3c	SUB.6a62533b.000d1bf9	START
+TOP.6a62533a.00010e3c	SUB.6a62533b.000d1bf9	mask_ctx->mask	?d?d?d
+TOP.6a62533a.00010e3c	SUB.6a62533b.000d1bf9	runtime_start	1784828732
+TOP.6a62533a.00010e3c	SUB.6a62533b.000d1bf9	runtime_stop	1784828732
+TOP.6a62533a.00010e3c	SUB.6a62533b.000d1bf9	hashes->digests_done_new	0
+TOP.6a62533a.00010e3c	SUB.6a62533b.000d1bf9	status-after-work	5
+TOP.6a62533a.00010e3c	SUB.6a62533b.000d1bf9	STOP
+TOP.6a62533a.00010e3c	SUB.6a62533c.0006096a	START
+TOP.6a62533a.00010e3c	SUB.6a62533c.0006096a	mask_ctx->mask	?d?d?d?d
+TOP.6a62533a.00010e3c	SUB.6a62533c.0006096a	runtime_start	1784828732
+TOP.6a62533a.00010e3c	SUB.6a62533c.0006096a	runtime_stop	1784828732
+TOP.6a62533a.00010e3c	SUB.6a62533c.0006096a	hashes->digests_done_new	0
+TOP.6a62533a.00010e3c	SUB.6a62533c.0006096a	status-after-work	5
+TOP.6a62533a.00010e3c	SUB.6a62533c.0006096a	STOP
+TOP.6a62533a.00010e3c	SUB.6a62533c.000b693c	START
+TOP.6a62533a.00010e3c	SUB.6a62533c.000b693c	mask_ctx->mask	?d?d?d?d?d
+TOP.6a62533a.00010e3c	SUB.6a62533c.000b693c	runtime_start	1784828733
+TOP.6a62533a.00010e3c	SUB.6a62533c.000b693c	runtime_stop	1784828733
+TOP.6a62533a.00010e3c	SUB.6a62533c.000b693c	hashes->digests_done_new	0
+TOP.6a62533a.00010e3c	SUB.6a62533c.000b693c	status-after-work	5
+TOP.6a62533a.00010e3c	SUB.6a62533c.000b693c	STOP
+TOP.6a62533a.00010e3c	SUB.6a62533d.00019481	START
+TOP.6a62533a.00010e3c	SUB.6a62533d.00019481	mask_ctx->mask	?d?d?d?d?d?d
+TOP.6a62533a.00010e3c	SUB.6a62533d.00019481	runtime_start	1784828733
+TOP.6a62533a.00010e3c	SUB.6a62533d.00019481	runtime_stop	1784828733
+TOP.6a62533a.00010e3c	SUB.6a62533d.00019481	hashes->digests_done_new	1
+TOP.6a62533a.00010e3c	SUB.6a62533d.00019481	status-after-work	6
+TOP.6a62533a.00010e3c	SUB.6a62533d.00019481	STOP
+TOP.6a62533a.00010e3c	proc_start	1784828730
+TOP.6a62533a.00010e3c	proc_stop	1784828734
+TOP.6a62533a.00010e3c	STOP
+TOP.6a62535f.00076ed1	START
+TOP.6a62535f.00076ed1	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a62535f.00076ed1	folder_config->install_dir	.
+TOP.6a62535f.00076ed1	folder_config->profile_dir	.
+TOP.6a62535f.00076ed1	folder_config->session_dir	.
+TOP.6a62535f.00076ed1	folder_config->shared_dir	.
+TOP.6a62535f.00076ed1	user_options->encoding_from	utf-8
+TOP.6a62535f.00076ed1	user_options->encoding_to	utf-8
+TOP.6a62535f.00076ed1	user_options->rule_buf_l	:
+TOP.6a62535f.00076ed1	user_options->rule_buf_r	:
+TOP.6a62535f.00076ed1	user_options->session	hashcat
+TOP.6a62535f.00076ed1	user_options->separator	:
+TOP.6a62535f.00076ed1	user_options->limit	0
+TOP.6a62535f.00076ed1	user_options->skip	0
+TOP.6a62535f.00076ed1	user_options->attack_mode	3
+TOP.6a62535f.00076ed1	user_options->backend_devices_virtmulti	1
+TOP.6a62535f.00076ed1	user_options->backend_devices_virthost	1
+TOP.6a62535f.00076ed1	user_options->backend_devices_keepfree	0
+TOP.6a62535f.00076ed1	user_options->benchmark	0
+TOP.6a62535f.00076ed1	user_options->benchmark_all	0
+TOP.6a62535f.00076ed1	user_options->benchmark_max	99999
+TOP.6a62535f.00076ed1	user_options->benchmark_min	0
+TOP.6a62535f.00076ed1	user_options->bitmap_max	18
+TOP.6a62535f.00076ed1	user_options->bitmap_min	16
+TOP.6a62535f.00076ed1	user_options->debug_mode	0
+TOP.6a62535f.00076ed1	user_options->dynamic_x	0
+TOP.6a62535f.00076ed1	user_options->hash_info	0
+TOP.6a62535f.00076ed1	user_options->force	1
+TOP.6a62535f.00076ed1	user_options->hwmon	1
+TOP.6a62535f.00076ed1	user_options->hwmon_temp_abort	90
+TOP.6a62535f.00076ed1	user_options->hash_mode	10400
+TOP.6a62535f.00076ed1	user_options->hex_charset	0
+TOP.6a62535f.00076ed1	user_options->hex_salt	0
+TOP.6a62535f.00076ed1	user_options->hex_wordlist	0
+TOP.6a62535f.00076ed1	user_options->hook_threads	6
+TOP.6a62535f.00076ed1	user_options->identify	0
+TOP.6a62535f.00076ed1	user_options->increment	1
+TOP.6a62535f.00076ed1	user_options->increment_max	256
+TOP.6a62535f.00076ed1	user_options->increment_min	1
+TOP.6a62535f.00076ed1	user_options->keep_guessing	0
+TOP.6a62535f.00076ed1	user_options->kernel_accel	0
+TOP.6a62535f.00076ed1	user_options->kernel_loops	0
+TOP.6a62535f.00076ed1	user_options->kernel_threads	0
+TOP.6a62535f.00076ed1	user_options->keyspace	0
+TOP.6a62535f.00076ed1	user_options->total_candidates	0
+TOP.6a62535f.00076ed1	user_options->left	0
+TOP.6a62535f.00076ed1	user_options->logfile	1
+TOP.6a62535f.00076ed1	user_options->loopback	0
+TOP.6a62535f.00076ed1	user_options->machine_readable	0
+TOP.6a62535f.00076ed1	user_options->markov_classic	0
+TOP.6a62535f.00076ed1	user_options->markov	1
+TOP.6a62535f.00076ed1	user_options->markov_inverse	0
+TOP.6a62535f.00076ed1	user_options->markov_threshold	256
+TOP.6a62535f.00076ed1	user_options->metal_compiler_runtime	120
+TOP.6a62535f.00076ed1	user_options->multiply_accel	1
+TOP.6a62535f.00076ed1	user_options->backend_info	0
+TOP.6a62535f.00076ed1	user_options->backend_vector_width	0
+TOP.6a62535f.00076ed1	user_options->optimized_kernel	1
+TOP.6a62535f.00076ed1	user_options->outfile_autohex	1
+TOP.6a62535f.00076ed1	user_options->outfile_check_timer	5
+TOP.6a62535f.00076ed1	user_options->outfile_format	6
+TOP.6a62535f.00076ed1	user_options->outfile_json	0
+TOP.6a62535f.00076ed1	user_options->wordlist_autohex	1
+TOP.6a62535f.00076ed1	user_options->potfile	1
+TOP.6a62535f.00076ed1	user_options->progress_only	0
+TOP.6a62535f.00076ed1	user_options->quiet	0
+TOP.6a62535f.00076ed1	user_options->remove	0
+TOP.6a62535f.00076ed1	user_options->remove_timer	60
+TOP.6a62535f.00076ed1	user_options->restore	0
+TOP.6a62535f.00076ed1	user_options->restore_enable	1
+TOP.6a62535f.00076ed1	user_options->restore_timer	1
+TOP.6a62535f.00076ed1	user_options->rp_files_cnt	0
+TOP.6a62535f.00076ed1	user_options->rp_gen	0
+TOP.6a62535f.00076ed1	user_options->rp_gen_func_max	4
+TOP.6a62535f.00076ed1	user_options->rp_gen_func_min	1
+TOP.6a62535f.00076ed1	user_options->rp_gen_seed	0
+TOP.6a62535f.00076ed1	user_options->runtime	0
+TOP.6a62535f.00076ed1	user_options->scrypt_tmto	0
+TOP.6a62535f.00076ed1	user_options->segment_size	33554432
+TOP.6a62535f.00076ed1	user_options->self_test	1
+TOP.6a62535f.00076ed1	user_options->slow_candidates	0
+TOP.6a62535f.00076ed1	user_options->show	0
+TOP.6a62535f.00076ed1	user_options->speed_only	0
+TOP.6a62535f.00076ed1	user_options->spin_damp	0
+TOP.6a62535f.00076ed1	user_options->status	0
+TOP.6a62535f.00076ed1	user_options->status_json	0
+TOP.6a62535f.00076ed1	user_options->status_timer	10
+TOP.6a62535f.00076ed1	user_options->stdout_flag	0
+TOP.6a62535f.00076ed1	user_options->usage	0
+TOP.6a62535f.00076ed1	user_options->username	0
+TOP.6a62535f.00076ed1	user_options->veracrypt_pim_start	485
+TOP.6a62535f.00076ed1	user_options->veracrypt_pim_stop	485
+TOP.6a62535f.00076ed1	user_options->version	0
+TOP.6a62535f.00076ed1	user_options->workload_profile	2
+TOP.6a62535f.00076ed1	user_options->brain_client	0
+TOP.6a62535f.00076ed1	user_options->brain_client_features	2
+TOP.6a62535f.00076ed1	user_options->brain_server	0
+TOP.6a62535f.00076ed1	user_options->brain_server_timer	300
+TOP.6a62535f.00076ed1	user_options->brain_port	6863
+TOP.6a62535f.00076ed1	user_options->brain_session	0
+TOP.6a62535f.00076ed1	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\Ben10 reels bundle _clean.txt
+TOP.6a62535f.00076ed1	hashes->hashlist_mode	5
+TOP.6a62535f.00076ed1	hashes->hashlist_format	0
+TOP.6a62535f.00076ed1	hashes->hashes_cnt	0
+TOP.6a62535f.00076ed1	hashes->digests_cnt	1
+TOP.6a62535f.00076ed1	hashes->digests_done_pot	0
+TOP.6a62535f.00076ed1	hashes->digests_done_zero	0
+TOP.6a62535f.00076ed1	hashes->digests_done	0
+TOP.6a62535f.00076ed1	hashes->salts_cnt	1
+TOP.6a62535f.00076ed1	hashes->salts_done	0
+TOP.6a62535f.00076ed1	SUB.6a625360.000811a7	START
+TOP.6a62535f.00076ed1	SUB.6a625360.000811a7	mask_ctx->mask	?d
+TOP.6a62535f.00076ed1	SUB.6a625360.000811a7	runtime_start	1784828768
+TOP.6a62535f.00076ed1	SUB.6a625360.000811a7	runtime_stop	1784828768
+TOP.6a62535f.00076ed1	SUB.6a625360.000811a7	hashes->digests_done_new	0
+TOP.6a62535f.00076ed1	SUB.6a625360.000811a7	status-after-work	5
+TOP.6a62535f.00076ed1	SUB.6a625360.000811a7	STOP
+TOP.6a62535f.00076ed1	SUB.6a625360.000df133	START
+TOP.6a62535f.00076ed1	SUB.6a625360.000df133	mask_ctx->mask	?d?d
+TOP.6a62535f.00076ed1	SUB.6a625360.000df133	runtime_start	1784828769
+TOP.6a62535f.00076ed1	SUB.6a625360.000df133	runtime_stop	1784828769
+TOP.6a62535f.00076ed1	SUB.6a625360.000df133	hashes->digests_done_new	0
+TOP.6a62535f.00076ed1	SUB.6a625360.000df133	status-after-work	5
+TOP.6a62535f.00076ed1	SUB.6a625360.000df133	STOP
+TOP.6a62535f.00076ed1	SUB.6a625361.0004214e	START
+TOP.6a62535f.00076ed1	SUB.6a625361.0004214e	mask_ctx->mask	?d?d?d
+TOP.6a62535f.00076ed1	SUB.6a625361.0004214e	runtime_start	1784828769
+TOP.6a62535f.00076ed1	SUB.6a625361.0004214e	runtime_stop	1784828769
+TOP.6a62535f.00076ed1	SUB.6a625361.0004214e	hashes->digests_done_new	0
+TOP.6a62535f.00076ed1	SUB.6a625361.0004214e	status-after-work	5
+TOP.6a62535f.00076ed1	SUB.6a625361.0004214e	STOP
+TOP.6a62535f.00076ed1	SUB.6a625361.000ab937	START
+TOP.6a62535f.00076ed1	SUB.6a625361.000ab937	mask_ctx->mask	?d?d?d?d
+TOP.6a62535f.00076ed1	SUB.6a625361.000ab937	runtime_start	1784828769
+TOP.6a62535f.00076ed1	SUB.6a625361.000ab937	runtime_stop	1784828769
+TOP.6a62535f.00076ed1	SUB.6a625361.000ab937	hashes->digests_done_new	0
+TOP.6a62535f.00076ed1	SUB.6a625361.000ab937	status-after-work	5
+TOP.6a62535f.00076ed1	SUB.6a625361.000ab937	STOP
+TOP.6a62535f.00076ed1	SUB.6a625362.0000ad96	START
+TOP.6a62535f.00076ed1	SUB.6a625362.0000ad96	mask_ctx->mask	?d?d?d?d?d
+TOP.6a62535f.00076ed1	SUB.6a625362.0000ad96	runtime_start	1784828770
+TOP.6a62535f.00076ed1	SUB.6a625362.0000ad96	runtime_stop	1784828770
+TOP.6a62535f.00076ed1	SUB.6a625362.0000ad96	hashes->digests_done_new	0
+TOP.6a62535f.00076ed1	SUB.6a625362.0000ad96	status-after-work	5
+TOP.6a62535f.00076ed1	SUB.6a625362.0000ad96	STOP
+TOP.6a62535f.00076ed1	SUB.6a625362.000666a0	START
+TOP.6a62535f.00076ed1	SUB.6a625362.000666a0	mask_ctx->mask	?d?d?d?d?d?d
+TOP.6a62535f.00076ed1	SUB.6a625362.000666a0	runtime_start	1784828770
+TOP.6a62535f.00076ed1	SUB.6a625362.000666a0	runtime_stop	1784828770
+TOP.6a62535f.00076ed1	SUB.6a625362.000666a0	hashes->digests_done_new	1
+TOP.6a62535f.00076ed1	SUB.6a625362.000666a0	status-after-work	6
+TOP.6a62535f.00076ed1	SUB.6a625362.000666a0	STOP
+TOP.6a62535f.00076ed1	proc_start	1784828767
+TOP.6a62535f.00076ed1	proc_stop	1784828771
+TOP.6a62535f.00076ed1	STOP
+TOP.6a625387.0006a715	START
+TOP.6a625387.0006a715	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a625387.0006a715	folder_config->install_dir	.
+TOP.6a625387.0006a715	folder_config->profile_dir	.
+TOP.6a625387.0006a715	folder_config->session_dir	.
+TOP.6a625387.0006a715	folder_config->shared_dir	.
+TOP.6a625387.0006a715	user_options->encoding_from	utf-8
+TOP.6a625387.0006a715	user_options->encoding_to	utf-8
+TOP.6a625387.0006a715	user_options->rule_buf_l	:
+TOP.6a625387.0006a715	user_options->rule_buf_r	:
+TOP.6a625387.0006a715	user_options->session	hashcat
+TOP.6a625387.0006a715	user_options->separator	:
+TOP.6a625387.0006a715	user_options->limit	0
+TOP.6a625387.0006a715	user_options->skip	0
+TOP.6a625387.0006a715	user_options->attack_mode	3
+TOP.6a625387.0006a715	user_options->backend_devices_virtmulti	1
+TOP.6a625387.0006a715	user_options->backend_devices_virthost	1
+TOP.6a625387.0006a715	user_options->backend_devices_keepfree	0
+TOP.6a625387.0006a715	user_options->benchmark	0
+TOP.6a625387.0006a715	user_options->benchmark_all	0
+TOP.6a625387.0006a715	user_options->benchmark_max	99999
+TOP.6a625387.0006a715	user_options->benchmark_min	0
+TOP.6a625387.0006a715	user_options->bitmap_max	18
+TOP.6a625387.0006a715	user_options->bitmap_min	16
+TOP.6a625387.0006a715	user_options->debug_mode	0
+TOP.6a625387.0006a715	user_options->dynamic_x	0
+TOP.6a625387.0006a715	user_options->hash_info	0
+TOP.6a625387.0006a715	user_options->force	1
+TOP.6a625387.0006a715	user_options->hwmon	1
+TOP.6a625387.0006a715	user_options->hwmon_temp_abort	90
+TOP.6a625387.0006a715	user_options->hash_mode	10400
+TOP.6a625387.0006a715	user_options->hex_charset	0
+TOP.6a625387.0006a715	user_options->hex_salt	0
+TOP.6a625387.0006a715	user_options->hex_wordlist	0
+TOP.6a625387.0006a715	user_options->hook_threads	6
+TOP.6a625387.0006a715	user_options->identify	0
+TOP.6a625387.0006a715	user_options->increment	1
+TOP.6a625387.0006a715	user_options->increment_max	256
+TOP.6a625387.0006a715	user_options->increment_min	1
+TOP.6a625387.0006a715	user_options->keep_guessing	0
+TOP.6a625387.0006a715	user_options->kernel_accel	0
+TOP.6a625387.0006a715	user_options->kernel_loops	0
+TOP.6a625387.0006a715	user_options->kernel_threads	0
+TOP.6a625387.0006a715	user_options->keyspace	0
+TOP.6a625387.0006a715	user_options->total_candidates	0
+TOP.6a625387.0006a715	user_options->left	0
+TOP.6a625387.0006a715	user_options->logfile	1
+TOP.6a625387.0006a715	user_options->loopback	0
+TOP.6a625387.0006a715	user_options->machine_readable	0
+TOP.6a625387.0006a715	user_options->markov_classic	0
+TOP.6a625387.0006a715	user_options->markov	1
+TOP.6a625387.0006a715	user_options->markov_inverse	0
+TOP.6a625387.0006a715	user_options->markov_threshold	256
+TOP.6a625387.0006a715	user_options->metal_compiler_runtime	120
+TOP.6a625387.0006a715	user_options->multiply_accel	1
+TOP.6a625387.0006a715	user_options->backend_info	0
+TOP.6a625387.0006a715	user_options->backend_vector_width	0
+TOP.6a625387.0006a715	user_options->optimized_kernel	1
+TOP.6a625387.0006a715	user_options->outfile_autohex	1
+TOP.6a625387.0006a715	user_options->outfile_check_timer	5
+TOP.6a625387.0006a715	user_options->outfile_format	6
+TOP.6a625387.0006a715	user_options->outfile_json	0
+TOP.6a625387.0006a715	user_options->wordlist_autohex	1
+TOP.6a625387.0006a715	user_options->potfile	1
+TOP.6a625387.0006a715	user_options->progress_only	0
+TOP.6a625387.0006a715	user_options->quiet	0
+TOP.6a625387.0006a715	user_options->remove	0
+TOP.6a625387.0006a715	user_options->remove_timer	60
+TOP.6a625387.0006a715	user_options->restore	0
+TOP.6a625387.0006a715	user_options->restore_enable	1
+TOP.6a625387.0006a715	user_options->restore_timer	1
+TOP.6a625387.0006a715	user_options->rp_files_cnt	0
+TOP.6a625387.0006a715	user_options->rp_gen	0
+TOP.6a625387.0006a715	user_options->rp_gen_func_max	4
+TOP.6a625387.0006a715	user_options->rp_gen_func_min	1
+TOP.6a625387.0006a715	user_options->rp_gen_seed	0
+TOP.6a625387.0006a715	user_options->runtime	0
+TOP.6a625387.0006a715	user_options->scrypt_tmto	0
+TOP.6a625387.0006a715	user_options->segment_size	33554432
+TOP.6a625387.0006a715	user_options->self_test	1
+TOP.6a625387.0006a715	user_options->slow_candidates	0
+TOP.6a625387.0006a715	user_options->show	0
+TOP.6a625387.0006a715	user_options->speed_only	0
+TOP.6a625387.0006a715	user_options->spin_damp	0
+TOP.6a625387.0006a715	user_options->status	0
+TOP.6a625387.0006a715	user_options->status_json	0
+TOP.6a625387.0006a715	user_options->status_timer	10
+TOP.6a625387.0006a715	user_options->stdout_flag	0
+TOP.6a625387.0006a715	user_options->usage	0
+TOP.6a625387.0006a715	user_options->username	0
+TOP.6a625387.0006a715	user_options->veracrypt_pim_start	485
+TOP.6a625387.0006a715	user_options->veracrypt_pim_stop	485
+TOP.6a625387.0006a715	user_options->version	0
+TOP.6a625387.0006a715	user_options->workload_profile	2
+TOP.6a625387.0006a715	user_options->brain_client	0
+TOP.6a625387.0006a715	user_options->brain_client_features	2
+TOP.6a625387.0006a715	user_options->brain_server	0
+TOP.6a625387.0006a715	user_options->brain_server_timer	300
+TOP.6a625387.0006a715	user_options->brain_port	6863
+TOP.6a625387.0006a715	user_options->brain_session	0
+TOP.6a625387.0006a715	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\Free Fire Reels Bundle _clean.txt
+TOP.6a625387.0006a715	hashes->hashlist_mode	5
+TOP.6a625387.0006a715	hashes->hashlist_format	0
+TOP.6a625387.0006a715	hashes->hashes_cnt	0
+TOP.6a625387.0006a715	hashes->digests_cnt	1
+TOP.6a625387.0006a715	hashes->digests_done_pot	0
+TOP.6a625387.0006a715	hashes->digests_done_zero	0
+TOP.6a625387.0006a715	hashes->digests_done	0
+TOP.6a625387.0006a715	hashes->salts_cnt	1
+TOP.6a625387.0006a715	hashes->salts_done	0
+TOP.6a625387.0006a715	SUB.6a625388.00082a01	START
+TOP.6a625387.0006a715	SUB.6a625388.00082a01	mask_ctx->mask	?d
+TOP.6a625387.0006a715	SUB.6a625388.00082a01	runtime_start	1784828808
+TOP.6a625387.0006a715	SUB.6a625388.00082a01	runtime_stop	1784828808
+TOP.6a625387.0006a715	SUB.6a625388.00082a01	hashes->digests_done_new	0
+TOP.6a625387.0006a715	SUB.6a625388.00082a01	status-after-work	5
+TOP.6a625387.0006a715	SUB.6a625388.00082a01	STOP
+TOP.6a625387.0006a715	SUB.6a625388.000e3195	START
+TOP.6a625387.0006a715	SUB.6a625388.000e3195	mask_ctx->mask	?d?d
+TOP.6a625387.0006a715	SUB.6a625388.000e3195	runtime_start	1784828809
+TOP.6a625387.0006a715	SUB.6a625388.000e3195	runtime_stop	1784828809
+TOP.6a625387.0006a715	SUB.6a625388.000e3195	hashes->digests_done_new	0
+TOP.6a625387.0006a715	SUB.6a625388.000e3195	status-after-work	5
+TOP.6a625387.0006a715	SUB.6a625388.000e3195	STOP
+TOP.6a625387.0006a715	SUB.6a625389.00047a43	START
+TOP.6a625387.0006a715	SUB.6a625389.00047a43	mask_ctx->mask	?d?d?d
+TOP.6a625387.0006a715	SUB.6a625389.00047a43	runtime_start	1784828809
+TOP.6a625387.0006a715	SUB.6a625389.00047a43	runtime_stop	1784828809
+TOP.6a625387.0006a715	SUB.6a625389.00047a43	hashes->digests_done_new	0
+TOP.6a625387.0006a715	SUB.6a625389.00047a43	status-after-work	5
+TOP.6a625387.0006a715	SUB.6a625389.00047a43	STOP
+TOP.6a625387.0006a715	SUB.6a625389.0009e019	START
+TOP.6a625387.0006a715	SUB.6a625389.0009e019	mask_ctx->mask	?d?d?d?d
+TOP.6a625387.0006a715	SUB.6a625389.0009e019	runtime_start	1784828809
+TOP.6a625387.0006a715	SUB.6a625389.0009e019	runtime_stop	1784828809
+TOP.6a625387.0006a715	SUB.6a625389.0009e019	hashes->digests_done_new	0
+TOP.6a625387.0006a715	SUB.6a625389.0009e019	status-after-work	5
+TOP.6a625387.0006a715	SUB.6a625389.0009e019	STOP
+TOP.6a625387.0006a715	SUB.6a62538a.000000b8	START
+TOP.6a625387.0006a715	SUB.6a62538a.000000b8	mask_ctx->mask	?d?d?d?d?d
+TOP.6a625387.0006a715	SUB.6a62538a.000000b8	runtime_start	1784828810
+TOP.6a625387.0006a715	SUB.6a62538a.000000b8	runtime_stop	1784828810
+TOP.6a625387.0006a715	SUB.6a62538a.000000b8	hashes->digests_done_new	0
+TOP.6a625387.0006a715	SUB.6a62538a.000000b8	status-after-work	5
+TOP.6a625387.0006a715	SUB.6a62538a.000000b8	STOP
+TOP.6a625387.0006a715	SUB.6a62538a.000559a0	START
+TOP.6a625387.0006a715	SUB.6a62538a.000559a0	mask_ctx->mask	?d?d?d?d?d?d
+TOP.6a625387.0006a715	SUB.6a62538a.000559a0	runtime_start	1784828810
+TOP.6a625387.0006a715	SUB.6a62538a.000559a0	runtime_stop	1784828810
+TOP.6a625387.0006a715	SUB.6a62538a.000559a0	hashes->digests_done_new	1
+TOP.6a625387.0006a715	SUB.6a62538a.000559a0	status-after-work	6
+TOP.6a625387.0006a715	SUB.6a62538a.000559a0	STOP
+TOP.6a625387.0006a715	proc_start	1784828807
+TOP.6a625387.0006a715	proc_stop	1784828811
+TOP.6a625387.0006a715	STOP
+TOP.6a6253b7.00023303	START
+TOP.6a6253b7.00023303	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a6253b7.00023303	folder_config->install_dir	.
+TOP.6a6253b7.00023303	folder_config->profile_dir	.
+TOP.6a6253b7.00023303	folder_config->session_dir	.
+TOP.6a6253b7.00023303	folder_config->shared_dir	.
+TOP.6a6253b7.00023303	user_options->encoding_from	utf-8
+TOP.6a6253b7.00023303	user_options->encoding_to	utf-8
+TOP.6a6253b7.00023303	user_options->rule_buf_l	:
+TOP.6a6253b7.00023303	user_options->rule_buf_r	:
+TOP.6a6253b7.00023303	user_options->session	hashcat
+TOP.6a6253b7.00023303	user_options->separator	:
+TOP.6a6253b7.00023303	user_options->limit	0
+TOP.6a6253b7.00023303	user_options->skip	0
+TOP.6a6253b7.00023303	user_options->attack_mode	3
+TOP.6a6253b7.00023303	user_options->backend_devices_virtmulti	1
+TOP.6a6253b7.00023303	user_options->backend_devices_virthost	1
+TOP.6a6253b7.00023303	user_options->backend_devices_keepfree	0
+TOP.6a6253b7.00023303	user_options->benchmark	0
+TOP.6a6253b7.00023303	user_options->benchmark_all	0
+TOP.6a6253b7.00023303	user_options->benchmark_max	99999
+TOP.6a6253b7.00023303	user_options->benchmark_min	0
+TOP.6a6253b7.00023303	user_options->bitmap_max	18
+TOP.6a6253b7.00023303	user_options->bitmap_min	16
+TOP.6a6253b7.00023303	user_options->debug_mode	0
+TOP.6a6253b7.00023303	user_options->dynamic_x	0
+TOP.6a6253b7.00023303	user_options->hash_info	0
+TOP.6a6253b7.00023303	user_options->force	1
+TOP.6a6253b7.00023303	user_options->hwmon	1
+TOP.6a6253b7.00023303	user_options->hwmon_temp_abort	90
+TOP.6a6253b7.00023303	user_options->hash_mode	10400
+TOP.6a6253b7.00023303	user_options->hex_charset	0
+TOP.6a6253b7.00023303	user_options->hex_salt	0
+TOP.6a6253b7.00023303	user_options->hex_wordlist	0
+TOP.6a6253b7.00023303	user_options->hook_threads	6
+TOP.6a6253b7.00023303	user_options->identify	0
+TOP.6a6253b7.00023303	user_options->increment	1
+TOP.6a6253b7.00023303	user_options->increment_max	256
+TOP.6a6253b7.00023303	user_options->increment_min	1
+TOP.6a6253b7.00023303	user_options->keep_guessing	0
+TOP.6a6253b7.00023303	user_options->kernel_accel	0
+TOP.6a6253b7.00023303	user_options->kernel_loops	0
+TOP.6a6253b7.00023303	user_options->kernel_threads	0
+TOP.6a6253b7.00023303	user_options->keyspace	0
+TOP.6a6253b7.00023303	user_options->total_candidates	0
+TOP.6a6253b7.00023303	user_options->left	0
+TOP.6a6253b7.00023303	user_options->logfile	1
+TOP.6a6253b7.00023303	user_options->loopback	0
+TOP.6a6253b7.00023303	user_options->machine_readable	0
+TOP.6a6253b7.00023303	user_options->markov_classic	0
+TOP.6a6253b7.00023303	user_options->markov	1
+TOP.6a6253b7.00023303	user_options->markov_inverse	0
+TOP.6a6253b7.00023303	user_options->markov_threshold	256
+TOP.6a6253b7.00023303	user_options->metal_compiler_runtime	120
+TOP.6a6253b7.00023303	user_options->multiply_accel	1
+TOP.6a6253b7.00023303	user_options->backend_info	0
+TOP.6a6253b7.00023303	user_options->backend_vector_width	0
+TOP.6a6253b7.00023303	user_options->optimized_kernel	1
+TOP.6a6253b7.00023303	user_options->outfile_autohex	1
+TOP.6a6253b7.00023303	user_options->outfile_check_timer	5
+TOP.6a6253b7.00023303	user_options->outfile_format	6
+TOP.6a6253b7.00023303	user_options->outfile_json	0
+TOP.6a6253b7.00023303	user_options->wordlist_autohex	1
+TOP.6a6253b7.00023303	user_options->potfile	1
+TOP.6a6253b7.00023303	user_options->progress_only	0
+TOP.6a6253b7.00023303	user_options->quiet	0
+TOP.6a6253b7.00023303	user_options->remove	0
+TOP.6a6253b7.00023303	user_options->remove_timer	60
+TOP.6a6253b7.00023303	user_options->restore	0
+TOP.6a6253b7.00023303	user_options->restore_enable	1
+TOP.6a6253b7.00023303	user_options->restore_timer	1
+TOP.6a6253b7.00023303	user_options->rp_files_cnt	0
+TOP.6a6253b7.00023303	user_options->rp_gen	0
+TOP.6a6253b7.00023303	user_options->rp_gen_func_max	4
+TOP.6a6253b7.00023303	user_options->rp_gen_func_min	1
+TOP.6a6253b7.00023303	user_options->rp_gen_seed	0
+TOP.6a6253b7.00023303	user_options->runtime	0
+TOP.6a6253b7.00023303	user_options->scrypt_tmto	0
+TOP.6a6253b7.00023303	user_options->segment_size	33554432
+TOP.6a6253b7.00023303	user_options->self_test	1
+TOP.6a6253b7.00023303	user_options->slow_candidates	0
+TOP.6a6253b7.00023303	user_options->show	0
+TOP.6a6253b7.00023303	user_options->speed_only	0
+TOP.6a6253b7.00023303	user_options->spin_damp	0
+TOP.6a6253b7.00023303	user_options->status	0
+TOP.6a6253b7.00023303	user_options->status_json	0
+TOP.6a6253b7.00023303	user_options->status_timer	10
+TOP.6a6253b7.00023303	user_options->stdout_flag	0
+TOP.6a6253b7.00023303	user_options->usage	0
+TOP.6a6253b7.00023303	user_options->username	0
+TOP.6a6253b7.00023303	user_options->veracrypt_pim_start	485
+TOP.6a6253b7.00023303	user_options->veracrypt_pim_stop	485
+TOP.6a6253b7.00023303	user_options->version	0
+TOP.6a6253b7.00023303	user_options->workload_profile	2
+TOP.6a6253b7.00023303	user_options->brain_client	0
+TOP.6a6253b7.00023303	user_options->brain_client_features	2
+TOP.6a6253b7.00023303	user_options->brain_server	0
+TOP.6a6253b7.00023303	user_options->brain_server_timer	300
+TOP.6a6253b7.00023303	user_options->brain_port	6863
+TOP.6a6253b7.00023303	user_options->brain_session	0
+TOP.6a6253b7.00023303	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\3000- Bhojpuri reels bundle _clean.txt
+TOP.6a6253b7.00023303	hashes->hashlist_mode	5
+TOP.6a6253b7.00023303	hashes->hashlist_format	0
+TOP.6a6253b7.00023303	hashes->hashes_cnt	0
+TOP.6a6253b7.00023303	hashes->digests_cnt	1
+TOP.6a6253b7.00023303	hashes->digests_done_pot	0
+TOP.6a6253b7.00023303	hashes->digests_done_zero	0
+TOP.6a6253b7.00023303	hashes->digests_done	0
+TOP.6a6253b7.00023303	hashes->salts_cnt	1
+TOP.6a6253b7.00023303	hashes->salts_done	0
+TOP.6a6253b7.00023303	SUB.6a6253b8.00067529	START
+TOP.6a6253b7.00023303	SUB.6a6253b8.00067529	mask_ctx->mask	?a
+TOP.6a6253b7.00023303	SUB.6a6253b8.00067529	runtime_start	1784828856
+TOP.6a6253b7.00023303	SUB.6a6253b8.00067529	runtime_stop	1784828856
+TOP.6a6253b7.00023303	SUB.6a6253b8.00067529	hashes->digests_done_new	0
+TOP.6a6253b7.00023303	SUB.6a6253b8.00067529	status-after-work	5
+TOP.6a6253b7.00023303	SUB.6a6253b8.00067529	STOP
+TOP.6a6253b7.00023303	SUB.6a6253b8.000e2284	START
+TOP.6a6253b7.00023303	SUB.6a6253b8.000e2284	mask_ctx->mask	?a?a
+TOP.6a6253b7.00023303	SUB.6a6253b8.000e2284	runtime_start	1784828857
+TOP.6a6253b7.00023303	SUB.6a6253b8.000e2284	runtime_stop	1784828857
+TOP.6a6253b7.00023303	SUB.6a6253b8.000e2284	hashes->digests_done_new	0
+TOP.6a6253b7.00023303	SUB.6a6253b8.000e2284	status-after-work	5
+TOP.6a6253b7.00023303	SUB.6a6253b8.000e2284	STOP
+TOP.6a6253b7.00023303	SUB.6a6253b9.0005ff57	START
+TOP.6a6253b7.00023303	SUB.6a6253b9.0005ff57	mask_ctx->mask	?a?a?a
+TOP.6a6253b7.00023303	SUB.6a6253b9.0005ff57	runtime_start	1784828857
+TOP.6a6253b7.00023303	SUB.6a6253b9.0005ff57	runtime_stop	1784828857
+TOP.6a6253b7.00023303	SUB.6a6253b9.0005ff57	hashes->digests_done_new	0
+TOP.6a6253b7.00023303	SUB.6a6253b9.0005ff57	status-after-work	5
+TOP.6a6253b7.00023303	SUB.6a6253b9.0005ff57	STOP
+TOP.6a6253b7.00023303	SUB.6a6253b9.000c567c	START
+TOP.6a6253b7.00023303	SUB.6a6253b9.000c567c	mask_ctx->mask	?a?a?a?a
+TOP.6a6253b7.00023303	SUB.6a6253b9.000c567c	runtime_start	1784828858
+TOP.6a6253b7.00023303	SUB.6a6253b9.000c567c	runtime_stop	1784828858
+TOP.6a6253b7.00023303	SUB.6a6253b9.000c567c	hashes->digests_done_new	0
+TOP.6a6253b7.00023303	SUB.6a6253b9.000c567c	status-after-work	5
+TOP.6a6253b7.00023303	SUB.6a6253b9.000c567c	STOP
+TOP.6a6253b7.00023303	SUB.6a6253ba.0008741c	START
+TOP.6a6253b7.00023303	SUB.6a6253ba.0008741c	mask_ctx->mask	?a?a?a?a?a
+TOP.6a6253e0.000a08a6	START
+TOP.6a6253e0.000a08a6	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a6253e0.000a08a6	folder_config->install_dir	.
+TOP.6a6253e0.000a08a6	folder_config->profile_dir	.
+TOP.6a6253e0.000a08a6	folder_config->session_dir	.
+TOP.6a6253e0.000a08a6	folder_config->shared_dir	.
+TOP.6a6253e0.000a08a6	user_options->encoding_from	utf-8
+TOP.6a6253e0.000a08a6	user_options->encoding_to	utf-8
+TOP.6a6253e0.000a08a6	user_options->rule_buf_l	:
+TOP.6a6253e0.000a08a6	user_options->rule_buf_r	:
+TOP.6a6253e0.000a08a6	user_options->session	hashcat
+TOP.6a6253e0.000a08a6	user_options->separator	:
+TOP.6a6253e0.000a08a6	user_options->limit	0
+TOP.6a6253e0.000a08a6	user_options->skip	0
+TOP.6a6253e0.000a08a6	user_options->attack_mode	3
+TOP.6a6253e0.000a08a6	user_options->backend_devices_virtmulti	1
+TOP.6a6253e0.000a08a6	user_options->backend_devices_virthost	1
+TOP.6a6253e0.000a08a6	user_options->backend_devices_keepfree	0
+TOP.6a6253e0.000a08a6	user_options->benchmark	0
+TOP.6a6253e0.000a08a6	user_options->benchmark_all	0
+TOP.6a6253e0.000a08a6	user_options->benchmark_max	99999
+TOP.6a6253e0.000a08a6	user_options->benchmark_min	0
+TOP.6a6253e0.000a08a6	user_options->bitmap_max	18
+TOP.6a6253e0.000a08a6	user_options->bitmap_min	16
+TOP.6a6253e0.000a08a6	user_options->debug_mode	0
+TOP.6a6253e0.000a08a6	user_options->dynamic_x	0
+TOP.6a6253e0.000a08a6	user_options->hash_info	0
+TOP.6a6253e0.000a08a6	user_options->force	1
+TOP.6a6253e0.000a08a6	user_options->hwmon	1
+TOP.6a6253e0.000a08a6	user_options->hwmon_temp_abort	90
+TOP.6a6253e0.000a08a6	user_options->hash_mode	10400
+TOP.6a6253e0.000a08a6	user_options->hex_charset	0
+TOP.6a6253e0.000a08a6	user_options->hex_salt	0
+TOP.6a6253e0.000a08a6	user_options->hex_wordlist	0
+TOP.6a6253e0.000a08a6	user_options->hook_threads	6
+TOP.6a6253e0.000a08a6	user_options->identify	0
+TOP.6a6253e0.000a08a6	user_options->increment	1
+TOP.6a6253e0.000a08a6	user_options->increment_max	256
+TOP.6a6253e0.000a08a6	user_options->increment_min	1
+TOP.6a6253e0.000a08a6	user_options->keep_guessing	0
+TOP.6a6253e0.000a08a6	user_options->kernel_accel	0
+TOP.6a6253e0.000a08a6	user_options->kernel_loops	0
+TOP.6a6253e0.000a08a6	user_options->kernel_threads	0
+TOP.6a6253e0.000a08a6	user_options->keyspace	0
+TOP.6a6253e0.000a08a6	user_options->total_candidates	0
+TOP.6a6253e0.000a08a6	user_options->left	0
+TOP.6a6253e0.000a08a6	user_options->logfile	1
+TOP.6a6253e0.000a08a6	user_options->loopback	0
+TOP.6a6253e0.000a08a6	user_options->machine_readable	0
+TOP.6a6253e0.000a08a6	user_options->markov_classic	0
+TOP.6a6253e0.000a08a6	user_options->markov	1
+TOP.6a6253e0.000a08a6	user_options->markov_inverse	0
+TOP.6a6253e0.000a08a6	user_options->markov_threshold	256
+TOP.6a6253e0.000a08a6	user_options->metal_compiler_runtime	120
+TOP.6a6253e0.000a08a6	user_options->multiply_accel	1
+TOP.6a6253e0.000a08a6	user_options->backend_info	0
+TOP.6a6253e0.000a08a6	user_options->backend_vector_width	0
+TOP.6a6253e0.000a08a6	user_options->optimized_kernel	1
+TOP.6a6253e0.000a08a6	user_options->outfile_autohex	1
+TOP.6a6253e0.000a08a6	user_options->outfile_check_timer	5
+TOP.6a6253e0.000a08a6	user_options->outfile_format	6
+TOP.6a6253e0.000a08a6	user_options->outfile_json	0
+TOP.6a6253e0.000a08a6	user_options->wordlist_autohex	1
+TOP.6a6253e0.000a08a6	user_options->potfile	1
+TOP.6a6253e0.000a08a6	user_options->progress_only	0
+TOP.6a6253e0.000a08a6	user_options->quiet	0
+TOP.6a6253e0.000a08a6	user_options->remove	0
+TOP.6a6253e0.000a08a6	user_options->remove_timer	60
+TOP.6a6253e0.000a08a6	user_options->restore	0
+TOP.6a6253e0.000a08a6	user_options->restore_enable	1
+TOP.6a6253e0.000a08a6	user_options->restore_timer	1
+TOP.6a6253e0.000a08a6	user_options->rp_files_cnt	0
+TOP.6a6253e0.000a08a6	user_options->rp_gen	0
+TOP.6a6253e0.000a08a6	user_options->rp_gen_func_max	4
+TOP.6a6253e0.000a08a6	user_options->rp_gen_func_min	1
+TOP.6a6253e0.000a08a6	user_options->rp_gen_seed	0
+TOP.6a6253e0.000a08a6	user_options->runtime	0
+TOP.6a6253e0.000a08a6	user_options->scrypt_tmto	0
+TOP.6a6253e0.000a08a6	user_options->segment_size	33554432
+TOP.6a6253e0.000a08a6	user_options->self_test	1
+TOP.6a6253e0.000a08a6	user_options->slow_candidates	0
+TOP.6a6253e0.000a08a6	user_options->show	0
+TOP.6a6253e0.000a08a6	user_options->speed_only	0
+TOP.6a6253e0.000a08a6	user_options->spin_damp	0
+TOP.6a6253e0.000a08a6	user_options->status	0
+TOP.6a6253e0.000a08a6	user_options->status_json	0
+TOP.6a6253e0.000a08a6	user_options->status_timer	10
+TOP.6a6253e0.000a08a6	user_options->stdout_flag	0
+TOP.6a6253e0.000a08a6	user_options->usage	0
+TOP.6a6253e0.000a08a6	user_options->username	0
+TOP.6a6253e0.000a08a6	user_options->veracrypt_pim_start	485
+TOP.6a6253e0.000a08a6	user_options->veracrypt_pim_stop	485
+TOP.6a6253e0.000a08a6	user_options->version	0
+TOP.6a6253e0.000a08a6	user_options->workload_profile	2
+TOP.6a6253e0.000a08a6	user_options->brain_client	0
+TOP.6a6253e0.000a08a6	user_options->brain_client_features	2
+TOP.6a6253e0.000a08a6	user_options->brain_server	0
+TOP.6a6253e0.000a08a6	user_options->brain_server_timer	300
+TOP.6a6253e0.000a08a6	user_options->brain_port	6863
+TOP.6a6253e0.000a08a6	user_options->brain_session	0
+TOP.6a6253e0.000a08a6	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\3000- Bhojpuri reels bundle _clean.txt
+TOP.6a6253e0.000a08a6	hashes->hashlist_mode	5
+TOP.6a6253e0.000a08a6	hashes->hashlist_format	0
+TOP.6a6253e0.000a08a6	hashes->hashes_cnt	0
+TOP.6a6253e0.000a08a6	hashes->digests_cnt	1
+TOP.6a6253e0.000a08a6	hashes->digests_done_pot	0
+TOP.6a6253e0.000a08a6	hashes->digests_done_zero	0
+TOP.6a6253e0.000a08a6	hashes->digests_done	0
+TOP.6a6253e0.000a08a6	hashes->salts_cnt	1
+TOP.6a6253e0.000a08a6	hashes->salts_done	0
+TOP.6a6253e0.000a08a6	SUB.6a6253e1.000a4d45	START
+TOP.6a6253e0.000a08a6	SUB.6a6253e1.000a4d45	mask_ctx->mask	?d
+TOP.6a6253e0.000a08a6	SUB.6a6253e1.000a4d45	runtime_start	1784828897
+TOP.6a6253e0.000a08a6	SUB.6a6253e1.000a4d45	runtime_stop	1784828897
+TOP.6a6253e0.000a08a6	SUB.6a6253e1.000a4d45	hashes->digests_done_new	0
+TOP.6a6253e0.000a08a6	SUB.6a6253e1.000a4d45	status-after-work	5
+TOP.6a6253e0.000a08a6	SUB.6a6253e1.000a4d45	STOP
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.0000b1af	START
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.0000b1af	mask_ctx->mask	?d?d
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.0000b1af	runtime_start	1784828898
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.0000b1af	runtime_stop	1784828898
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.0000b1af	hashes->digests_done_new	0
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.0000b1af	status-after-work	5
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.0000b1af	STOP
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.00078ab4	START
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.00078ab4	mask_ctx->mask	?d?d?d
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.00078ab4	runtime_start	1784828898
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.00078ab4	runtime_stop	1784828898
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.00078ab4	hashes->digests_done_new	0
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.00078ab4	status-after-work	5
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.00078ab4	STOP
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.000d2672	START
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.000d2672	mask_ctx->mask	?d?d?d?d
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.000d2672	runtime_start	1784828899
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.000d2672	runtime_stop	1784828899
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.000d2672	hashes->digests_done_new	0
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.000d2672	status-after-work	5
+TOP.6a6253e0.000a08a6	SUB.6a6253e2.000d2672	STOP
+TOP.6a6253e0.000a08a6	SUB.6a6253e3.00035a81	START
+TOP.6a6253e0.000a08a6	SUB.6a6253e3.00035a81	mask_ctx->mask	?d?d?d?d?d
+TOP.6a6253e0.000a08a6	SUB.6a6253e3.00035a81	runtime_start	1784828899
+TOP.6a6253e0.000a08a6	SUB.6a6253e3.00035a81	runtime_stop	1784828899
+TOP.6a6253e0.000a08a6	SUB.6a6253e3.00035a81	hashes->digests_done_new	0
+TOP.6a6253e0.000a08a6	SUB.6a6253e3.00035a81	status-after-work	5
+TOP.6a6253e0.000a08a6	SUB.6a6253e3.00035a81	STOP
+TOP.6a6253e0.000a08a6	SUB.6a6253e3.0008b43d	START
+TOP.6a6253e0.000a08a6	SUB.6a6253e3.0008b43d	mask_ctx->mask	?d?d?d?d?d?d
+TOP.6a6253e0.000a08a6	SUB.6a6253e3.0008b43d	runtime_start	1784828899
+TOP.6a6253e0.000a08a6	SUB.6a6253e3.0008b43d	runtime_stop	1784828899
+TOP.6a6253e0.000a08a6	SUB.6a6253e3.0008b43d	hashes->digests_done_new	1
+TOP.6a6253e0.000a08a6	SUB.6a6253e3.0008b43d	status-after-work	6
+TOP.6a6253e0.000a08a6	SUB.6a6253e3.0008b43d	STOP
+TOP.6a6253e0.000a08a6	proc_start	1784828896
+TOP.6a6253e0.000a08a6	proc_stop	1784828900
+TOP.6a6253e0.000a08a6	STOP
+TOP.6a625413.000605e3	START
+TOP.6a625413.000605e3	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a625413.000605e3	folder_config->install_dir	.
+TOP.6a625413.000605e3	folder_config->profile_dir	.
+TOP.6a625413.000605e3	folder_config->session_dir	.
+TOP.6a625413.000605e3	folder_config->shared_dir	.
+TOP.6a625413.000605e3	user_options->encoding_from	utf-8
+TOP.6a625413.000605e3	user_options->encoding_to	utf-8
+TOP.6a625413.000605e3	user_options->rule_buf_l	:
+TOP.6a625413.000605e3	user_options->rule_buf_r	:
+TOP.6a625413.000605e3	user_options->session	hashcat
+TOP.6a625413.000605e3	user_options->separator	:
+TOP.6a625413.000605e3	user_options->limit	0
+TOP.6a625413.000605e3	user_options->skip	0
+TOP.6a625413.000605e3	user_options->attack_mode	3
+TOP.6a625413.000605e3	user_options->backend_devices_virtmulti	1
+TOP.6a625413.000605e3	user_options->backend_devices_virthost	1
+TOP.6a625413.000605e3	user_options->backend_devices_keepfree	0
+TOP.6a625413.000605e3	user_options->benchmark	0
+TOP.6a625413.000605e3	user_options->benchmark_all	0
+TOP.6a625413.000605e3	user_options->benchmark_max	99999
+TOP.6a625413.000605e3	user_options->benchmark_min	0
+TOP.6a625413.000605e3	user_options->bitmap_max	18
+TOP.6a625413.000605e3	user_options->bitmap_min	16
+TOP.6a625413.000605e3	user_options->debug_mode	0
+TOP.6a625413.000605e3	user_options->dynamic_x	0
+TOP.6a625413.000605e3	user_options->hash_info	0
+TOP.6a625413.000605e3	user_options->force	1
+TOP.6a625413.000605e3	user_options->hwmon	1
+TOP.6a625413.000605e3	user_options->hwmon_temp_abort	90
+TOP.6a625413.000605e3	user_options->hash_mode	10400
+TOP.6a625413.000605e3	user_options->hex_charset	0
+TOP.6a625413.000605e3	user_options->hex_salt	0
+TOP.6a625413.000605e3	user_options->hex_wordlist	0
+TOP.6a625413.000605e3	user_options->hook_threads	6
+TOP.6a625413.000605e3	user_options->identify	0
+TOP.6a625413.000605e3	user_options->increment	1
+TOP.6a625413.000605e3	user_options->increment_max	256
+TOP.6a625413.000605e3	user_options->increment_min	1
+TOP.6a625413.000605e3	user_options->keep_guessing	0
+TOP.6a625413.000605e3	user_options->kernel_accel	0
+TOP.6a625413.000605e3	user_options->kernel_loops	0
+TOP.6a625413.000605e3	user_options->kernel_threads	0
+TOP.6a625413.000605e3	user_options->keyspace	0
+TOP.6a625413.000605e3	user_options->total_candidates	0
+TOP.6a625413.000605e3	user_options->left	0
+TOP.6a625413.000605e3	user_options->logfile	1
+TOP.6a625413.000605e3	user_options->loopback	0
+TOP.6a625413.000605e3	user_options->machine_readable	0
+TOP.6a625413.000605e3	user_options->markov_classic	0
+TOP.6a625413.000605e3	user_options->markov	1
+TOP.6a625413.000605e3	user_options->markov_inverse	0
+TOP.6a625413.000605e3	user_options->markov_threshold	256
+TOP.6a625413.000605e3	user_options->metal_compiler_runtime	120
+TOP.6a625413.000605e3	user_options->multiply_accel	1
+TOP.6a625413.000605e3	user_options->backend_info	0
+TOP.6a625413.000605e3	user_options->backend_vector_width	0
+TOP.6a625413.000605e3	user_options->optimized_kernel	1
+TOP.6a625413.000605e3	user_options->outfile_autohex	1
+TOP.6a625413.000605e3	user_options->outfile_check_timer	5
+TOP.6a625413.000605e3	user_options->outfile_format	6
+TOP.6a625413.000605e3	user_options->outfile_json	0
+TOP.6a625413.000605e3	user_options->wordlist_autohex	1
+TOP.6a625413.000605e3	user_options->potfile	1
+TOP.6a625413.000605e3	user_options->progress_only	0
+TOP.6a625413.000605e3	user_options->quiet	0
+TOP.6a625413.000605e3	user_options->remove	0
+TOP.6a625413.000605e3	user_options->remove_timer	60
+TOP.6a625413.000605e3	user_options->restore	0
+TOP.6a625413.000605e3	user_options->restore_enable	1
+TOP.6a625413.000605e3	user_options->restore_timer	1
+TOP.6a625413.000605e3	user_options->rp_files_cnt	0
+TOP.6a625413.000605e3	user_options->rp_gen	0
+TOP.6a625413.000605e3	user_options->rp_gen_func_max	4
+TOP.6a625413.000605e3	user_options->rp_gen_func_min	1
+TOP.6a625413.000605e3	user_options->rp_gen_seed	0
+TOP.6a625413.000605e3	user_options->runtime	0
+TOP.6a625413.000605e3	user_options->scrypt_tmto	0
+TOP.6a625413.000605e3	user_options->segment_size	33554432
+TOP.6a625413.000605e3	user_options->self_test	1
+TOP.6a625413.000605e3	user_options->slow_candidates	0
+TOP.6a625413.000605e3	user_options->show	0
+TOP.6a625413.000605e3	user_options->speed_only	0
+TOP.6a625413.000605e3	user_options->spin_damp	0
+TOP.6a625413.000605e3	user_options->status	0
+TOP.6a625413.000605e3	user_options->status_json	0
+TOP.6a625413.000605e3	user_options->status_timer	10
+TOP.6a625413.000605e3	user_options->stdout_flag	0
+TOP.6a625413.000605e3	user_options->usage	0
+TOP.6a625413.000605e3	user_options->username	0
+TOP.6a625413.000605e3	user_options->veracrypt_pim_start	485
+TOP.6a625413.000605e3	user_options->veracrypt_pim_stop	485
+TOP.6a625413.000605e3	user_options->version	0
+TOP.6a625413.000605e3	user_options->workload_profile	2
+TOP.6a625413.000605e3	user_options->brain_client	0
+TOP.6a625413.000605e3	user_options->brain_client_features	2
+TOP.6a625413.000605e3	user_options->brain_server	0
+TOP.6a625413.000605e3	user_options->brain_server_timer	300
+TOP.6a625413.000605e3	user_options->brain_port	6863
+TOP.6a625413.000605e3	user_options->brain_session	0
+TOP.6a625413.000605e3	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\Ai story reels bundle+horror Reels Bundle _clean.txt
+TOP.6a625413.000605e3	hashes->hashlist_mode	5
+TOP.6a625413.000605e3	hashes->hashlist_format	0
+TOP.6a625413.000605e3	hashes->hashes_cnt	0
+TOP.6a625413.000605e3	hashes->digests_cnt	1
+TOP.6a625413.000605e3	hashes->digests_done_pot	0
+TOP.6a625413.000605e3	hashes->digests_done_zero	0
+TOP.6a625413.000605e3	hashes->digests_done	0
+TOP.6a625413.000605e3	hashes->salts_cnt	1
+TOP.6a625413.000605e3	hashes->salts_done	0
+TOP.6a625413.000605e3	SUB.6a625414.0006dad2	START
+TOP.6a625413.000605e3	SUB.6a625414.0006dad2	mask_ctx->mask	?d
+TOP.6a625413.000605e3	SUB.6a625414.0006dad2	runtime_start	1784828948
+TOP.6a625413.000605e3	SUB.6a625414.0006dad2	runtime_stop	1784828948
+TOP.6a625413.000605e3	SUB.6a625414.0006dad2	hashes->digests_done_new	0
+TOP.6a625413.000605e3	SUB.6a625414.0006dad2	status-after-work	5
+TOP.6a625413.000605e3	SUB.6a625414.0006dad2	STOP
+TOP.6a625413.000605e3	SUB.6a625414.000c8b9c	START
+TOP.6a625413.000605e3	SUB.6a625414.000c8b9c	mask_ctx->mask	?d?d
+TOP.6a625413.000605e3	SUB.6a625414.000c8b9c	runtime_start	1784828949
+TOP.6a625413.000605e3	SUB.6a625414.000c8b9c	runtime_stop	1784828949
+TOP.6a625413.000605e3	SUB.6a625414.000c8b9c	hashes->digests_done_new	0
+TOP.6a625413.000605e3	SUB.6a625414.000c8b9c	status-after-work	5
+TOP.6a625413.000605e3	SUB.6a625414.000c8b9c	STOP
+TOP.6a625413.000605e3	SUB.6a625415.0003db59	START
+TOP.6a625413.000605e3	SUB.6a625415.0003db59	mask_ctx->mask	?d?d?d
+TOP.6a625413.000605e3	SUB.6a625415.0003db59	runtime_start	1784828949
+TOP.6a625413.000605e3	SUB.6a625415.0003db59	runtime_stop	1784828949
+TOP.6a625413.000605e3	SUB.6a625415.0003db59	hashes->digests_done_new	0
+TOP.6a625413.000605e3	SUB.6a625415.0003db59	status-after-work	5
+TOP.6a625413.000605e3	SUB.6a625415.0003db59	STOP
+TOP.6a625413.000605e3	SUB.6a625415.00092183	START
+TOP.6a625413.000605e3	SUB.6a625415.00092183	mask_ctx->mask	?d?d?d?d
+TOP.6a625413.000605e3	SUB.6a625415.00092183	runtime_start	1784828949
+TOP.6a625413.000605e3	SUB.6a625415.00092183	runtime_stop	1784828949
+TOP.6a625413.000605e3	SUB.6a625415.00092183	hashes->digests_done_new	0
+TOP.6a625413.000605e3	SUB.6a625415.00092183	status-after-work	5
+TOP.6a625413.000605e3	SUB.6a625415.00092183	STOP
+TOP.6a625413.000605e3	SUB.6a625415.000e9fe7	START
+TOP.6a625413.000605e3	SUB.6a625415.000e9fe7	mask_ctx->mask	?d?d?d?d?d
+TOP.6a625413.000605e3	SUB.6a625415.000e9fe7	runtime_start	1784828950
+TOP.6a625413.000605e3	SUB.6a625415.000e9fe7	runtime_stop	1784828950
+TOP.6a625413.000605e3	SUB.6a625415.000e9fe7	hashes->digests_done_new	0
+TOP.6a625413.000605e3	SUB.6a625415.000e9fe7	status-after-work	5
+TOP.6a625413.000605e3	SUB.6a625415.000e9fe7	STOP
+TOP.6a625413.000605e3	SUB.6a625416.00049f78	START
+TOP.6a625413.000605e3	SUB.6a625416.00049f78	mask_ctx->mask	?d?d?d?d?d?d
+TOP.6a625413.000605e3	SUB.6a625416.00049f78	runtime_start	1784828950
+TOP.6a625413.000605e3	SUB.6a625416.00049f78	runtime_stop	1784828950
+TOP.6a625413.000605e3	SUB.6a625416.00049f78	hashes->digests_done_new	1
+TOP.6a625413.000605e3	SUB.6a625416.00049f78	status-after-work	6
+TOP.6a625413.000605e3	SUB.6a625416.00049f78	STOP
+TOP.6a625413.000605e3	proc_start	1784828947
+TOP.6a625413.000605e3	proc_stop	1784828951
+TOP.6a625413.000605e3	STOP
+TOP.6a649a78.000e313b	START
+TOP.6a649a78.000e313b	folder_config->cwd	C:\Users\priyanshu\Desktop\autocrack\app\tools\hashcat
+TOP.6a649a78.000e313b	folder_config->install_dir	.
+TOP.6a649a78.000e313b	folder_config->profile_dir	.
+TOP.6a649a78.000e313b	folder_config->session_dir	.
+TOP.6a649a78.000e313b	folder_config->shared_dir	.
+TOP.6a649a78.000e313b	user_options->encoding_from	utf-8
+TOP.6a649a78.000e313b	user_options->encoding_to	utf-8
+TOP.6a649a78.000e313b	user_options->rule_buf_l	:
+TOP.6a649a78.000e313b	user_options->rule_buf_r	:
+TOP.6a649a78.000e313b	user_options->session	hashcat
+TOP.6a649a78.000e313b	user_options->separator	:
+TOP.6a649a78.000e313b	user_options->limit	0
+TOP.6a649a78.000e313b	user_options->skip	0
+TOP.6a649a78.000e313b	user_options->attack_mode	3
+TOP.6a649a78.000e313b	user_options->backend_devices_virtmulti	1
+TOP.6a649a78.000e313b	user_options->backend_devices_virthost	1
+TOP.6a649a78.000e313b	user_options->backend_devices_keepfree	0
+TOP.6a649a78.000e313b	user_options->benchmark	0
+TOP.6a649a78.000e313b	user_options->benchmark_all	0
+TOP.6a649a78.000e313b	user_options->benchmark_max	99999
+TOP.6a649a78.000e313b	user_options->benchmark_min	0
+TOP.6a649a78.000e313b	user_options->bitmap_max	18
+TOP.6a649a78.000e313b	user_options->bitmap_min	16
+TOP.6a649a78.000e313b	user_options->debug_mode	0
+TOP.6a649a78.000e313b	user_options->dynamic_x	0
+TOP.6a649a78.000e313b	user_options->hash_info	0
+TOP.6a649a78.000e313b	user_options->force	1
+TOP.6a649a78.000e313b	user_options->hwmon	1
+TOP.6a649a78.000e313b	user_options->hwmon_temp_abort	90
+TOP.6a649a78.000e313b	user_options->hash_mode	10400
+TOP.6a649a78.000e313b	user_options->hex_charset	0
+TOP.6a649a78.000e313b	user_options->hex_salt	0
+TOP.6a649a78.000e313b	user_options->hex_wordlist	0
+TOP.6a649a78.000e313b	user_options->hook_threads	6
+TOP.6a649a78.000e313b	user_options->identify	0
+TOP.6a649a78.000e313b	user_options->increment	1
+TOP.6a649a78.000e313b	user_options->increment_max	256
+TOP.6a649a78.000e313b	user_options->increment_min	1
+TOP.6a649a78.000e313b	user_options->keep_guessing	0
+TOP.6a649a78.000e313b	user_options->kernel_accel	0
+TOP.6a649a78.000e313b	user_options->kernel_loops	0
+TOP.6a649a78.000e313b	user_options->kernel_threads	0
+TOP.6a649a78.000e313b	user_options->keyspace	0
+TOP.6a649a78.000e313b	user_options->total_candidates	0
+TOP.6a649a78.000e313b	user_options->left	0
+TOP.6a649a78.000e313b	user_options->logfile	1
+TOP.6a649a78.000e313b	user_options->loopback	0
+TOP.6a649a78.000e313b	user_options->machine_readable	0
+TOP.6a649a78.000e313b	user_options->markov_classic	0
+TOP.6a649a78.000e313b	user_options->markov	1
+TOP.6a649a78.000e313b	user_options->markov_inverse	0
+TOP.6a649a78.000e313b	user_options->markov_threshold	256
+TOP.6a649a78.000e313b	user_options->metal_compiler_runtime	120
+TOP.6a649a78.000e313b	user_options->multiply_accel	1
+TOP.6a649a78.000e313b	user_options->backend_info	0
+TOP.6a649a78.000e313b	user_options->backend_vector_width	0
+TOP.6a649a78.000e313b	user_options->optimized_kernel	1
+TOP.6a649a78.000e313b	user_options->outfile_autohex	1
+TOP.6a649a78.000e313b	user_options->outfile_check_timer	5
+TOP.6a649a78.000e313b	user_options->outfile_format	6
+TOP.6a649a78.000e313b	user_options->outfile_json	0
+TOP.6a649a78.000e313b	user_options->wordlist_autohex	1
+TOP.6a649a78.000e313b	user_options->potfile	1
+TOP.6a649a78.000e313b	user_options->progress_only	0
+TOP.6a649a78.000e313b	user_options->quiet	0
+TOP.6a649a78.000e313b	user_options->remove	0
+TOP.6a649a78.000e313b	user_options->remove_timer	60
+TOP.6a649a78.000e313b	user_options->restore	0
+TOP.6a649a78.000e313b	user_options->restore_enable	1
+TOP.6a649a78.000e313b	user_options->restore_timer	1
+TOP.6a649a78.000e313b	user_options->rp_files_cnt	0
+TOP.6a649a78.000e313b	user_options->rp_gen	0
+TOP.6a649a78.000e313b	user_options->rp_gen_func_max	4
+TOP.6a649a78.000e313b	user_options->rp_gen_func_min	1
+TOP.6a649a78.000e313b	user_options->rp_gen_seed	0
+TOP.6a649a78.000e313b	user_options->runtime	0
+TOP.6a649a78.000e313b	user_options->scrypt_tmto	0
+TOP.6a649a78.000e313b	user_options->segment_size	33554432
+TOP.6a649a78.000e313b	user_options->self_test	1
+TOP.6a649a78.000e313b	user_options->slow_candidates	0
+TOP.6a649a78.000e313b	user_options->show	0
+TOP.6a649a78.000e313b	user_options->speed_only	0
+TOP.6a649a78.000e313b	user_options->spin_damp	0
+TOP.6a649a78.000e313b	user_options->status	0
+TOP.6a649a78.000e313b	user_options->status_json	0
+TOP.6a649a78.000e313b	user_options->status_timer	10
+TOP.6a649a78.000e313b	user_options->stdout_flag	0
+TOP.6a649a78.000e313b	user_options->usage	0
+TOP.6a649a78.000e313b	user_options->username	0
+TOP.6a649a78.000e313b	user_options->veracrypt_pim_start	485
+TOP.6a649a78.000e313b	user_options->veracrypt_pim_stop	485
+TOP.6a649a78.000e313b	user_options->version	0
+TOP.6a649a78.000e313b	user_options->workload_profile	2
+TOP.6a649a78.000e313b	user_options->brain_client	0
+TOP.6a649a78.000e313b	user_options->brain_client_features	2
+TOP.6a649a78.000e313b	user_options->brain_server	0
+TOP.6a649a78.000e313b	user_options->brain_server_timer	300
+TOP.6a649a78.000e313b	user_options->brain_port	6863
+TOP.6a649a78.000e313b	user_options->brain_session	0
+TOP.6a649a78.000e313b	hashes->hashfile	C:\Users\priyanshu\Desktop\autocrack\app\hashes\password_protected_file_clean.txt
+TOP.6a649a78.000e313b	hashes->hashlist_mode	5
+TOP.6a649a78.000e313b	hashes->hashlist_format	0
+TOP.6a649a78.000e313b	hashes->hashes_cnt	0
+TOP.6a649a78.000e313b	hashes->digests_cnt	1
+TOP.6a649a78.000e313b	hashes->digests_done_pot	0
+TOP.6a649a78.000e313b	hashes->digests_done_zero	0
+TOP.6a649a78.000e313b	hashes->digests_done	0
+TOP.6a649a78.000e313b	hashes->salts_cnt	1
+TOP.6a649a78.000e313b	hashes->salts_done	0
+TOP.6a649a78.000e313b	SUB.6a649a7b.000edbf5	START
+TOP.6a649a78.000e313b	SUB.6a649a7b.000edbf5	mask_ctx->mask	?d
+TOP.6a649a78.000e313b	SUB.6a649a7b.000edbf5	runtime_start	1784978044
+TOP.6a649a78.000e313b	SUB.6a649a7b.000edbf5	runtime_stop	1784978044
+TOP.6a649a78.000e313b	SUB.6a649a7b.000edbf5	hashes->digests_done_new	0
+TOP.6a649a78.000e313b	SUB.6a649a7b.000edbf5	status-after-work	5
+TOP.6a649a78.000e313b	SUB.6a649a7b.000edbf5	STOP
+TOP.6a649a78.000e313b	SUB.6a649a7c.0007b4c7	START
+TOP.6a649a78.000e313b	SUB.6a649a7c.0007b4c7	mask_ctx->mask	?d?d
+TOP.6a649a78.000e313b	SUB.6a649a7c.0007b4c7	runtime_start	1784978044
+TOP.6a649a78.000e313b	SUB.6a649a7c.0007b4c7	runtime_stop	1784978044
+TOP.6a649a78.000e313b	SUB.6a649a7c.0007b4c7	hashes->digests_done_new	0
+TOP.6a649a78.000e313b	SUB.6a649a7c.0007b4c7	status-after-work	5
+TOP.6a649a78.000e313b	SUB.6a649a7c.0007b4c7	STOP
+TOP.6a649a78.000e313b	SUB.6a649a7c.000f04dd	START
+TOP.6a649a78.000e313b	SUB.6a649a7c.000f04dd	mask_ctx->mask	?d?d?d
+TOP.6a649a78.000e313b	SUB.6a649a7c.000f04dd	runtime_start	1784978045
+TOP.6a649a78.000e313b	SUB.6a649a7c.000f04dd	runtime_stop	1784978045
+TOP.6a649a78.000e313b	SUB.6a649a7c.000f04dd	hashes->digests_done_new	0
+TOP.6a649a78.000e313b	SUB.6a649a7c.000f04dd	status-after-work	5
+TOP.6a649a78.000e313b	SUB.6a649a7c.000f04dd	STOP
+TOP.6a649a78.000e313b	SUB.6a649a7d.00079c14	START
+TOP.6a649a78.000e313b	SUB.6a649a7d.00079c14	mask_ctx->mask	?d?d?d?d
+TOP.6a649a78.000e313b	SUB.6a649a7d.00079c14	runtime_start	1784978045
+TOP.6a649a78.000e313b	SUB.6a649a7d.00079c14	runtime_stop	1784978045
+TOP.6a649a78.000e313b	SUB.6a649a7d.00079c14	hashes->digests_done_new	0
+TOP.6a649a78.000e313b	SUB.6a649a7d.00079c14	status-after-work	5
+TOP.6a649a78.000e313b	SUB.6a649a7d.00079c14	STOP
+TOP.6a649a78.000e313b	SUB.6a649a7e.00005bb6	START
+TOP.6a649a78.000e313b	SUB.6a649a7e.00005bb6	mask_ctx->mask	?d?d?d?d?d
+TOP.6a649a78.000e313b	SUB.6a649a7e.00005bb6	runtime_start	1784978046
+TOP.6a649a78.000e313b	SUB.6a649a7e.00005bb6	runtime_stop	1784978046
+TOP.6a649a78.000e313b	SUB.6a649a7e.00005bb6	hashes->digests_done_new	0
+TOP.6a649a78.000e313b	SUB.6a649a7e.00005bb6	status-after-work	5
+TOP.6a649a78.000e313b	SUB.6a649a7e.00005bb6	STOP
+TOP.6a649a78.000e313b	SUB.6a649a7e.0007d058	START
+TOP.6a649a78.000e313b	SUB.6a649a7e.0007d058	mask_ctx->mask	?d?d?d?d?d?d
+TOP.6a649a78.000e313b	SUB.6a649a7e.0007d058	runtime_start	1784978046
+TOP.6a649a78.000e313b	SUB.6a649a7e.0007d058	runtime_stop	1784978046
+TOP.6a649a78.000e313b	SUB.6a649a7e.0007d058	hashes->digests_done_new	1
+TOP.6a649a78.000e313b	SUB.6a649a7e.0007d058	status-after-work	6
+TOP.6a649a78.000e313b	SUB.6a649a7e.0007d058	STOP
+TOP.6a649a78.000e313b	proc_start	1784978040
+TOP.6a649a78.000e313b	proc_stop	1784978048
+TOP.6a649a78.000e313b	STOP

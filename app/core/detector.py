@@ -17,8 +17,12 @@ class HashModeDetector:
         'pkzip2': 17200,    # ZIP2 (most common for modern ZIP)
         'zip': 17200,       # Standard ZIP
         'zip-encrypted': 23001,  # ZIP (with encryption)
-        'pdf': 10500,       # PDF (for future support)
-        '7z': 11600,        # 7z (for future support)
+        'pdf': 10500,       # PDF 1.4-1.6 (default, most common)
+        'pdf14': 10500,     # PDF 1.4-1.6 (Acrobat 5-8), R=3
+        'pdf11': 10400,     # PDF 1.1-1.3 (Acrobat 2-4), R=2
+        'pdf17l3': 10600,   # PDF 1.7 Level 3 (Acrobat 9), R=5
+        'pdf17l8': 10700,   # PDF 1.7 Level 8 (Acrobat 10+), R=6
+        '7z': 11600,        # 7z
     }
     
     # Hash format patterns for detection
@@ -87,8 +91,45 @@ class HashModeDetector:
     def detect_and_get_mode(self, hash_string):
         """Detect hash type and return Hashcat mode"""
         hash_type = self.detect_hash_type(hash_string)
+        
+        # For PDF hashes, determine the exact sub-type from V/R values
+        if hash_type == 'pdf' and hash_string.startswith('$pdf$'):
+            hash_type = self._detect_pdf_subtype(hash_string)
+        
         mode = self.get_hashcat_mode(hash_type)
         return hash_type, mode
+    
+    def _detect_pdf_subtype(self, hash_string):
+        """Determine the PDF encryption sub-type from the hash.
+        
+        Hash format: $pdf$V*R*keylen*P*...
+        Hashcat modes:
+          10400 = PDF 1.1-1.3 (V=1, R=2)
+          10500 = PDF 1.4-1.6 (V=2, R=3)
+          10600 = PDF 1.7 Level 3 (V=5, R=5)
+          10700 = PDF 1.7 Level 8 (V=5, R=6)
+        """
+        try:
+            # Remove $pdf$ prefix and split by *
+            parts = hash_string[5:].split('*')
+            if len(parts) >= 2:
+                V = int(parts[0])
+                R = int(parts[1])
+                
+                self.logger.info(f"[DETECTOR] PDF V={V}, R={R}")
+                
+                if R == 6:
+                    return 'pdf17l8'   # Mode 10700
+                elif R == 5:
+                    return 'pdf17l3'   # Mode 10600
+                elif R == 2:
+                    return 'pdf11'     # Mode 10400
+                else:
+                    return 'pdf14'     # Mode 10500 (R=3, most common)
+        except (ValueError, IndexError) as e:
+            self.logger.warning(f"[DETECTOR] Could not parse PDF V/R values: {e}")
+        
+        return 'pdf'  # Fallback to default PDF mode
     
     def get_mode_info(self, mode):
         """Get information about a Hashcat mode"""
@@ -118,8 +159,26 @@ class HashModeDetector:
                 'benchmark': False
             },
             10500: {
-                'name': 'PDF',
-                'description': 'Portable Document Format',
+                'name': 'PDF 1.4-1.6',
+                'description': 'PDF (Acrobat 5-8)',
+                'type': 'pdf',
+                'benchmark': True
+            },
+            10400: {
+                'name': 'PDF 1.1-1.3',
+                'description': 'PDF (Acrobat 2-4)',
+                'type': 'pdf',
+                'benchmark': True
+            },
+            10600: {
+                'name': 'PDF 1.7 L3',
+                'description': 'PDF 1.7 Level 3 (Acrobat 9)',
+                'type': 'pdf',
+                'benchmark': True
+            },
+            10700: {
+                'name': 'PDF 1.7 L8',
+                'description': 'PDF 1.7 Level 8 (Acrobat 10+)',
                 'type': 'pdf',
                 'benchmark': True
             },

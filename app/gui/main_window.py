@@ -151,7 +151,7 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
         self.logger = logging.getLogger(__name__)
-        self.setWindowTitle("AutoCrack GUI - Archive Password Recovery")
+        self.setWindowTitle("AutoCrack GUI - Archive & PDF Password Recovery")
         self.setGeometry(100, 100, 1200, 800)
         
         # Initialize components
@@ -213,7 +213,7 @@ class MainWindow(QMainWindow):
         
         file_h = QHBoxLayout()
         self.file_path = QLineEdit()
-        self.file_path.setPlaceholderText("Drag & drop archive or click Browse...")
+        self.file_path.setPlaceholderText("Drag & drop archive/PDF or click Browse...")
         self.file_path.setReadOnly(True)
         file_h.addWidget(self.file_path)
         
@@ -378,7 +378,7 @@ class MainWindow(QMainWindow):
             self,
             "Select Archive File",
             str(Path.home() / "Desktop"),
-            "Archive Files (*.zip *.rar *.7z);;All Files (*)"
+            "Supported Files (*.zip *.rar *.7z *.pdf);;Archive Files (*.zip *.rar *.7z);;PDF Files (*.pdf);;All Files (*)"
         )
         if file_path:
             self.load_archive(file_path)
